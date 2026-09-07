@@ -27,7 +27,10 @@
       "@type": "Person",
       "@id": {{ person_id | jsonify }},
       "name": {{ site.author.name | jsonify }},
-      "url": {{ site.author.url | jsonify }}
+      "url": {{ site.author.url | jsonify }},
+      "mainEntityOfPage": {{ '/about/' | absolute_url | jsonify }}{% if site.author.job_title %},
+      "jobTitle": {{ site.author.job_title | jsonify }}{% endif %}{% if site.author.description %},
+      "description": {{ site.author.description | jsonify }}{% endif %}
     },
 {% if page.noindex %}
     {

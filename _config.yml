@@ -7,6 +7,9 @@ google_analytics: G-TF0W0N9S33
 author:
   name: "Steven在英国"
   url: "https://www.xiaohongshu.com/user/profile/5f8aebe4000000000101f6f4"
+  # 用于 JSON-LD 的 Person：搜索引擎判断 YMYL 内容可信度的主要依据之一
+  job_title: "Associate Professor"
+  description: "英国大学副教授，2013 年来英国。先做留学生，后留在英国高校任教。"
 published_date: "2025-08-09"
 
 # AdSense：client 填了才会加载广告脚本；两个 slot 各自填了才会渲染对应广告位。
