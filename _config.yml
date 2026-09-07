@@ -18,8 +18,6 @@ defaults:
 exclude:
   - README.md
   - docs/
-  - tools/
-  - 英国生存手册.md
 
 kramdown:
   auto_ids: false
