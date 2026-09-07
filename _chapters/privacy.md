@@ -3,6 +3,7 @@ layout: chapter
 title: "隐私政策与 Cookie 说明"
 description: "《英国生存手册》的隐私政策：本站收集哪些数据、使用哪些 Cookie（Google Analytics 与 Google AdSense）、合作链接如何工作，以及你在英国 GDPR 下的权利与拒绝方式。"
 nav: "隐私政策"
+sidebar: false
 permalink: /privacy/
 order: 12
 weight: 970
@@ -14,13 +15,13 @@ toc:
     anchor: "sec-1"
   - title: "本站收集哪些数据"
     anchor: "sec-2"
-  - title: "Cookie 的用途"
+  - title: "Cookie 的用途与你的同意"
     anchor: "sec-3"
   - title: "合作与返利链接"
     anchor: "sec-4"
   - title: "你的权利"
     anchor: "sec-5"
-  - title: "如何拒绝或删除"
+  - title: "如何撤回同意或删除数据"
     anchor: "sec-6"
   - title: "联系方式"
     anchor: "sec-7"
@@ -49,14 +50,20 @@ toc:
 
 **服务器日志**：本站托管在 GitHub Pages，托管方会出于安全与运维目的记录标准的访问日志（如 IP 地址）。
 
-<h2 id="sec-3">Cookie 的用途</h2>
+<h2 id="sec-3">Cookie 的用途与你的同意</h2>
 
-| 类型 | 来源 | 用途 |
-| --- | --- | --- |
-| 分析类 | Google Analytics | 区分访问会话、统计页面浏览与点击事件 |
-| 广告类 | Google AdSense | 投放与衡量广告，可能用于个性化 |
+| 类型 | 来源 | 用途 | 是否需要你同意 |
+| --- | --- | --- | --- |
+| 分析类 | Google Analytics | 区分访问会话、统计页面浏览与点击事件 | 是 |
+| 广告类 | Google AdSense | 投放与衡量广告，可能用于个性化 | 是 |
 
-本站**不使用**任何用于登录、购物车或用户画像自建的 Cookie。
+本站**不使用**任何用于登录、购物车或用户画像自建的 Cookie，也没有任何「必要 Cookie」之外的自建存储。
+
+**如果你在英国、欧洲经济区或瑞士访问本站**，在你做出选择之前，分析类与广告类 Cookie 都处于**默认拒绝**状态——这一点由 Google 的同意模式（Consent Mode v2）在页面加载的第一时间设定，早于分析与广告脚本运行。首次访问时你会看到一个由 Google 认证的同意管理平台（Privacy & messaging）提供的横幅，你可以在其中逐项接受或拒绝。在你点击「接受」之前，这两类 Cookie 不会被写入。
+
+拒绝不会影响你阅读本站的任何内容——本站没有任何功能依赖这些 Cookie。
+
+在其他国家和地区访问时，同意横幅不会出现，分析类 Cookie 默认启用；你仍然可以随时通过下面第六节的方式关闭。
 
 <h2 id="sec-4">合作与返利链接</h2>
 
@@ -76,14 +83,15 @@ toc:
 
 由于本站不保存可识别你身份的数据，与本站相关的请求通常可以直接通过浏览器设置解决（见下节）。涉及 Google Analytics 或 AdSense 所处理数据的请求，需要向 Google 提出，因为在这些处理活动中 Google 是数据控制者。
 
-<h2 id="sec-6">如何拒绝或删除</h2>
+<h2 id="sec-6">如何撤回同意或删除数据</h2>
 
+- **随时改变主意**：点击本站任意页面底部的 **Cookie 设置**，会重新弹出同意横幅，你可以在其中撤回或调整此前的选择。撤回和给出同意一样简单，这是英国 GDPR 的要求；
 - **浏览器设置**：可以清除已有 Cookie，或设置拒绝第三方 Cookie；
 - **拒绝 Google Analytics**：安装 [Google Analytics 停用插件](https://tools.google.com/dlpage/gaoptout)；
 - **广告个性化设置**：在 [Google 广告设置](https://myadcenter.google.com/)中调整或关闭个性化广告；
 - **浏览器的「请勿跟踪」或隐私模式**同样可以减少被记录的信息。
 
-拒绝这些 Cookie 不会影响你阅读本站的任何内容。
+撤回同意后，此前已经收集的匿名统计数据不会因此追溯删除（本站也无法定位到「你的」那部分数据），但不会再有新的数据被收集。
 
 <h2 id="sec-7">联系方式</h2>
 

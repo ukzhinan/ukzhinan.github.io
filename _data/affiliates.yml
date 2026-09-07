@@ -23,3 +23,5 @@ domains:
     match: "everup.onelink.me"
   - name: 穿梭 Transocks
     match: "transocks.com"
+  - name: Amazon Associates
+    match: "tag=xdaiuk-21"

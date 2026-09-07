@@ -1,5 +1,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+{% comment %} 同意默认值必须先于所有 Google 标签 {% endcomment %}
+{% include consent.html %}
 {% if site.adsense.client %}
 <meta name="google-adsense-account" content="{{ site.adsense.client }}">
 {% if page.ads != false %}
@@ -42,8 +44,7 @@
 {% if site.google_analytics %}
 <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
+  {% comment %} dataLayer 与 gtag() 已在 consent.html 中定义 {% endcomment %}
   gtag('js', new Date());
   gtag('config', '{{ site.google_analytics }}');
 </script>

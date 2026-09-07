@@ -1,0 +1,55 @@
+{% comment %}
+  Google Consent Mode v2 默认值 + Privacy & messaging（Google 自家的认证 CMP）加载器。
+
+  必须排在任何 Google 标签（AdSense、gtag）之前，否则默认值来不及生效，GA 会先把
+  Cookie 写下去。英国/EEA/瑞士默认全拒绝，等 CMP 把读者的选择回传后再 update；
+  其余地区默认放行——同意横幅本来也只在这些受管辖地区展示，全球一刀切拒绝只会让
+  还在国内、在美国的读者永远没机会同意，统计直接归零。
+
+  横幅本身不在代码里：它由 AdSense 后台「隐私和消息」中配置的 GDPR 消息下发。
+  这里额外加载 fundingchoices 脚本，是因为 about/privacy/404 这几页 ads: false，
+  不走 AdSense 标签，只靠 AdSense 标签下发横幅的话这些页面上的读者无从选择。
+{% endcomment %}
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() { dataLayer.push(arguments); }
+  gtag('consent', 'default', {
+    ad_storage: 'granted',
+    ad_user_data: 'granted',
+    ad_personalization: 'granted',
+    analytics_storage: 'granted'
+  });
+  gtag('consent', 'default', {
+    region: ['GB', 'CH', 'IS', 'LI', 'NO', 'AT', 'BE', 'BG', 'HR', 'CY', 'CZ',
+             'DK', 'EE', 'FI', 'FR', 'DE', 'GR', 'HU', 'IE', 'IT', 'LV', 'LT',
+             'LU', 'MT', 'NL', 'PL', 'PT', 'RO', 'SK', 'SI', 'ES', 'SE'],
+    ad_storage: 'denied',
+    ad_user_data: 'denied',
+    ad_personalization: 'denied',
+    analytics_storage: 'denied',
+    wait_for_update: 500
+  });
+  gtag('set', 'ads_data_redaction', true);
+  gtag('set', 'url_passthrough', true);
+</script>
+{% if site.adsense.client %}{% assign fc_pub = site.adsense.client | remove_first: 'ca-' %}
+<script async src="https://fundingchoicesmessages.google.com/i/{{ fc_pub }}?ers=1"></script>
+<script>
+  (function () {
+    function signalGooglefcPresent() {
+      if (!window.frames['googlefcPresent']) {
+        if (document.body) {
+          var iframe = document.createElement('iframe');
+          iframe.style = 'width:0;height:0;border:none;z-index:-1000;left:-1000px;top:-1000px';
+          iframe.style.display = 'none';
+          iframe.name = 'googlefcPresent';
+          document.body.appendChild(iframe);
+        } else {
+          setTimeout(signalGooglefcPresent, 0);
+        }
+      }
+    }
+    signalGooglefcPresent();
+  })();
+</script>
+{% endif %}

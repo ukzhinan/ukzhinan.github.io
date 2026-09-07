@@ -45,6 +45,55 @@ jobs:
           echo "built $pages pages"
           test "$pages" -ge 40
 
+      # 联盟链接必须带 rel="sponsored nofollow"，漏标是 Google 链接政策的风险点。
+      # 清单来自 _data/affiliates.yml，加了新联盟却忘了什么的话这里会直接失败。
+      # frontmatter 里的 YAML 出错时 Jekyll 会静默丢掉整块（faq、toc 都会消失），
+      # 页面照常构建、看不出问题。最常见的原因是双引号标量里又写了 ASCII 双引号。
+      - name: Check front matter parses
+        run: |
+          ruby -ryaml -rdate -e '
+            bad = []
+            missing = []
+            Dir.glob("_chapters/**/*.md").push("index.md").each do |f|
+              text = File.read(f)
+              next unless text.start_with?("---")
+              fm = text.split("---", 3)[1]
+              begin
+                data = YAML.safe_load(fm, permitted_classes: [Date, Time])
+              rescue => e
+                bad << "#{f}: #{e.message.lines.first.strip}"
+                next
+              end
+              %w[title description nav].each do |key|
+                missing << "#{f}: 缺 #{key}" unless data && data[key]
+              end
+            end
+            abort("front matter 解析失败:\n" + bad.join("\n")) unless bad.empty?
+            abort("front matter 字段缺失:\n" + missing.join("\n")) unless missing.empty?
+            puts "front matter OK"
+          '
+
+      - name: Check affiliate links are marked sponsored
+        run: |
+          ruby -ryaml -e '
+            matches = (YAML.load_file("_data/affiliates.yml")["domains"] || [])
+                        .map { |d| d["match"] }.compact
+            bad = []
+            total = 0
+            Dir.glob("_site/**/*.html").each do |f|
+              File.read(f).scan(/<a\s([^>]*)>/) do |attrs,|
+                href = attrs[/href="([^"]*)"/, 1]
+                next unless href && matches.any? { |m| href.include?(m) }
+                total += 1
+                rel = (attrs[/rel="([^"]*)"/, 1] || "").split
+                bad << "#{f}: #{href}" unless (%w[sponsored nofollow] - rel).empty?
+              end
+            end
+            puts "checked #{total} affiliate links"
+            abort("missing rel=\"sponsored nofollow\":\n" + bad.join("\n")) unless bad.empty?
+            abort("no affiliate links found - plugin broken?") if total.zero?
+          '
+
       - uses: actions/upload-pages-artifact@v3
 
   deploy:
