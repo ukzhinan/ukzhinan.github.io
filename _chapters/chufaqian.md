@@ -110,3 +110,6 @@ faq:
 落地之后别凭感觉瞎忙，直接照 [附录速查表]({{ '/fulu/' | relative_url }}) 里的「落地 30 天待办清单」走。它按依赖关系排好了：**先办英国手机号 → 确认住处拿住址证明 → 开数字银行 → 注册 GP → 注册 emergencySMS → 申请 Council Tax 豁免**……每一步是下一步的前置，跳步会卡住。
 
 落地头几天最容易被忽略、却最该先做的三件事，首页已经替你想好了：注册 GP、申请 Council Tax 豁免、注册 emergencySMS。出发前把这三个词的英文和怎么做记下来，落地就能省下几百镑和不必要的麻烦。
+
+> **顺手注册 Amazon Prime Student**：开学拿到学校邮箱（.ac.uk）后注册 [Amazon Prime Student](https://www.amazon.co.uk/joinstudent?tag=xdaiuk05-21)，前 6 个月免费、之后按学生价（约为普通 Prime 的一半）续订，覆盖快速配送、Prime Video 等。落地后那批采购（滤水壶、电饭煲、床品这些）走它，很快回本。
+{: .callout .callout-tip}
