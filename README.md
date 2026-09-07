@@ -20,7 +20,7 @@
 
 ## 网站
 
-本仓库是一个 [Jekyll](https://jekyllrb.com/) 网站，内容按章节拆分为独立的 Markdown 文件。
+本仓库是一个 [Jekyll](https://jekyllrb.com/) 网站，内容按章节拆分为独立的 Markdown 文件。线上地址：<https://ukzhinan.github.io/>。
 
 ### 本地运行
 
@@ -29,7 +29,7 @@ bundle install
 bundle exec jekyll serve
 ```
 
-然后访问 <http://localhost:4000/uk-handbook/>。
+然后访问 <http://localhost:4000/>。
 
 ### 构建
 
