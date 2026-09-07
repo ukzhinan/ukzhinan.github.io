@@ -1,0 +1,32 @@
+---
+layout: default
+permalink: /404.html
+sitemap: false
+ads: false
+noindex: true
+title: "页面不存在"
+---
+<article class="chapter">
+  <header class="chapter-header">
+    <span class="roundel roundel--num">404</span>
+    <h1>这个页面不存在</h1>
+  </header>
+
+  <div class="chapter-body">
+    <p>你要找的页面可能已经改名或移动了。本站在 2026 年 9 月做过一次结构调整，把每章拆成了独立的专题页面，旧的编号链接（如 <code>/01-xueye/</code>）都设了跳转，但仍可能有遗漏。</p>
+
+    <p>从下面几个入口继续：</p>
+
+    <ul>
+      <li><a href="{{ '/' | relative_url }}">回到首页</a>——有全部章节与专题的索引</li>
+      {% assign hubs = site.chapters | where_exp: "d", "d.parent == nil" | sort: "weight" %}
+      {% for doc in hubs %}{% if doc.key %}
+      <li><a href="{{ doc.url | relative_url }}">{{ doc.nav }}</a></li>
+      {% endif %}{% endfor %}
+      <li><a href="{{ '/fulu/' | relative_url }}">附录：一页速查表</a>——电话、网站、APP 汇总</li>
+      <li><a href="{{ '/youhui/' | relative_url }}">优惠与返利合集</a></li>
+    </ul>
+
+    <p>如果你是从别处的链接过来的，欢迎<a href="{{ '/about/' | relative_url }}">告诉我</a>是哪个链接失效了。</p>
+  </div>
+</article>

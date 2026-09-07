@@ -446,3 +446,23 @@ img.qr { display: block; margin: 16px 0; max-width: 200px; border: 1px solid var
 .home-body a[href^="http"]:hover::after { color: var(--link-hover); }
 /* 邮件链接不算“离开本站”，不加箭头 */
 .chapter-body a[href^="mailto"]::after { content: none; }
+
+/* 跳到正文：键盘用户不必 tab 过整个侧边栏，聚焦时才出现 */
+.skip-link {
+  position: absolute;
+  left: -9999px;
+  top: 0;
+  z-index: 100;
+}
+.skip-link:focus {
+  left: 8px;
+  top: 8px;
+  padding: 10px 16px;
+  background: var(--surface);
+  border: 2px solid var(--red);
+  border-radius: 6px;
+  color: var(--ink);
+  font-weight: 600;
+  text-decoration: none;
+}
+.content:focus { outline: none; }

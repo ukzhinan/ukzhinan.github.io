@@ -29,7 +29,14 @@
       "name": {{ site.author.name | jsonify }},
       "url": {{ site.author.url | jsonify }}
     },
-{% if page.url == '/' %}
+{% if page.noindex %}
+    {
+      "@type": "WebPage",
+      "@id": {{ page.url | absolute_url | jsonify }},
+      "name": {{ page.title | jsonify }},
+      "isPartOf": { "@id": {{ site_id | jsonify }} }
+    }
+{% elsif page.url == '/' %}
     {
       "@type": "WebPage",
       "@id": {{ page.url | absolute_url | jsonify }},

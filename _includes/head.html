@@ -16,7 +16,8 @@
 {% assign seo_desc = page.description | default: site.description %}
 <title>{{ seo_title }}</title>
 <meta name="description" content="{{ seo_desc }}">
-<link rel="canonical" href="{{ page.url | absolute_url }}">
+{% if page.noindex %}<meta name="robots" content="noindex, follow">
+{% endif %}<link rel="canonical" href="{{ page.url | absolute_url }}">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="{{ site.title }}">
 <meta property="og:title" content="{{ seo_title }}">
@@ -31,6 +32,12 @@
 <meta name="twitter:description" content="{{ seo_desc }}">
 <meta name="twitter:image" content="{{ '/assets/images/og-cover.jpg' | absolute_url }}">
 {% include structured-data.html %}
+<link rel="icon" href="{{ '/favicon.ico' | relative_url }}" sizes="32x32">
+<link rel="icon" href="{{ '/assets/images/favicon.svg' | relative_url }}" type="image/svg+xml">
+<link rel="apple-touch-icon" href="{{ '/assets/images/apple-touch-icon.png' | relative_url }}">
+<link rel="manifest" href="{{ '/manifest.webmanifest' | relative_url }}">
+<meta name="theme-color" content="#012169">
+<link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | absolute_url }}">
 <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
 {% if site.google_analytics %}
 <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
