@@ -1,0 +1,22 @@
+title: 英国生存手册
+description: 为中国留学生提供全面的英国适应指南
+baseurl: "/uk-handbook"
+url: ""
+
+collections:
+  chapters:
+    output: true
+    permalink: /:name/
+
+defaults:
+  - scope:
+      path: ""
+      type: "chapters"
+    values:
+      layout: chapter
+
+exclude:
+  - README.md
+  - docs/
+  - tools/
+  - 英国生存手册.md

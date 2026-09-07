@@ -12,3 +12,9 @@ desktop.ini
 *~
 .idea/
 .vscode/
+
+# Jekyll build output
+_site/
+.jekyll-cache/
+.bundle/
+vendor/

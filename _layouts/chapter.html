@@ -1,0 +1,50 @@
+---
+layout: default
+---
+<article class="chapter">
+  <header class="chapter-header">
+    <h1>{{ page.title }}</h1>
+  </header>
+
+  {% if page.toc %}
+  <nav class="toc">
+    <div class="toc-title">本章目录</div>
+    <ul>
+      {% for item in page.toc %}
+        <li><a href="#{{ item.anchor }}">{{ item.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </nav>
+  {% endif %}
+
+  <div class="chapter-body">
+    {{ content }}
+  </div>
+
+  {% assign docs = site.chapters | sort: "order" %}
+  {% assign prev = nil %}
+  {% assign next = nil %}
+  {% assign seen = false %}
+  {% for doc in docs %}
+    {% if doc.url == page.url %}
+      {% assign seen = true %}
+    {% elsif seen == false %}
+      {% assign prev = doc %}
+    {% elsif seen == true and next == nil %}
+      {% assign next = doc %}
+    {% endif %}
+  {% endfor %}
+
+  <nav class="chapter-nav">
+    {% if prev %}
+      <a class="nav-prev" href="{{ prev.url | relative_url }}">← {{ prev.nav }}</a>
+    {% elsif page.order > 1 %}
+      <a class="nav-prev" href="{{ '/' | relative_url }}">← 引言</a>
+    {% else %}
+      <span></span>
+    {% endif %}
+    {% if next %}
+      <a class="nav-next" href="{{ next.url | relative_url }}">{{ next.nav }} →</a>
+    {% endif %}
+  </nav>
+</article>

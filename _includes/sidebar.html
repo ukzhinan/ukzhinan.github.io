@@ -1,0 +1,16 @@
+{% assign docs = site.chapters | sort: "order" %}
+<nav class="sidebar">
+  <div class="sidebar-brand">
+    <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
+  </div>
+  <ul class="sidebar-nav">
+    <li class="{% if page.url == '/' %}active{% endif %}">
+      <a href="{{ '/' | relative_url }}">引言</a>
+    </li>
+    {% for doc in docs %}
+      <li class="{% if page.url == doc.url %}active{% endif %}">
+        <a href="{{ doc.url | relative_url }}">{{ doc.nav }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</nav>
