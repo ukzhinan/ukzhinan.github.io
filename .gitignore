@@ -1,0 +1,14 @@
+# Obsidian workspace config
+.obsidian/
+.trash/
+
+# OS cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+*.swp
+*~
+.idea/
+.vscode/
