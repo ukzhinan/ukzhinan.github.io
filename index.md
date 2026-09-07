@@ -50,13 +50,14 @@ Steven
 
 ## 从这里开始
 
-手册按你实际会遇到的顺序编排。如果你还没出发或刚落地，建议从**生活篇**读起；如果只想解决某个具体问题，直接点进对应专题。
+手册按你实际会遇到的顺序编排。如果你**还没出发**，从[出发前准备]({{ '/chufaqian/' | relative_url }})读起；**刚落地**，从[生活篇]({{ '/shenghuo/' | relative_url }})读起；只想解决某个具体问题，直接点进对应专题。
 
-- **[第一章 生活篇]({{ '/shenghuo/' | relative_url }})** —— 落地后要办的事：[租房]({{ '/shenghuo/zufang/' | relative_url }})、[看病与超市省钱]({{ '/shenghuo/yinshi-jiankang/' | relative_url }})、[交通]({{ '/shenghuo/jiaotong/' | relative_url }})、[银行开户]({{ '/shenghuo/yinhang-licai/' | relative_url }})、[手机与宽带]({{ '/shenghuo/shouji-wangluo/' | relative_url }})
-- **[第二章 学业篇]({{ '/xueye/' | relative_url }})** —— 学习方式的转变：[Essay 与 Report 写作]({{ '/xueye/essay-report/' | relative_url }})、[与导师沟通]({{ '/xueye/daoshi-goutong/' | relative_url }})、[考试与 Presentation]({{ '/xueye/kaoshi-presentation/' | relative_url }})
+- **[出发前准备]({{ '/chufaqian/' | relative_url }})** —— 人还在国内就该办的事：行前清单、行李带什么别带什么、钱怎么带过去、出发前在国内要办完的几件事
+- **[第一章 生活篇]({{ '/shenghuo/' | relative_url }})** —— 落地后要办的事：[租房]({{ '/shenghuo/zufang/' | relative_url }})、[看病与超市省钱]({{ '/shenghuo/yinshi-jiankang/' | relative_url }})、[交通]({{ '/shenghuo/jiaotong/' | relative_url }})、[银行开户]({{ '/shenghuo/yinhang-licai/' | relative_url }})、[手机与宽带]({{ '/shenghuo/shouji-wangluo/' | relative_url }})、[跨境物流与二手出清]({{ '/shenghuo/kuajing-wuliu/' | relative_url }})
+- **[第二章 学业篇]({{ '/xueye/' | relative_url }})** —— 学习方式的转变：[Essay 与 Report 写作]({{ '/xueye/essay-report/' | relative_url }})、[与导师沟通]({{ '/xueye/daoshi-goutong/' | relative_url }})、[考试与 Presentation]({{ '/xueye/kaoshi-presentation/' | relative_url }})、[毕业论文]({{ '/xueye/dissertation/' | relative_url }})
 - **[第三章 社交与文化篇]({{ '/shejiao/' | relative_url }})** —— 怎么听懂英国人、怎么交到朋友，以及必须提前知道的[诈骗套路与法律常识]({{ '/shejiao/fang-zhapian/' | relative_url }})、[心理健康求助路径]({{ '/shejiao/xinli-jiankang/' | relative_url }})
-- **[第四章 工作与实习篇]({{ '/gongzuo/' | relative_url }})** —— [签证工时与合法权益]({{ '/gongzuo/dagong-zhengce/' | relative_url }})、[怎么找兼职]({{ '/gongzuo/zhao-jianzhi/' | relative_url }})、[简历与求职信模板]({{ '/gongzuo/jianli-qiuzhixin/' | relative_url }})、[面试]({{ '/gongzuo/mianshi/' | relative_url }})
-- **[第五章 生活进阶篇]({{ '/jinjie/' | relative_url }})** —— [假期欧洲旅行]({{ '/jinjie/lvxing/' | relative_url }})、[考驾照]({{ '/jinjie/jiazhao/' | relative_url }})、[税务与退税]({{ '/jinjie/shuiwu/' | relative_url }})、[学生优惠]({{ '/jinjie/youhui-xuesheng/' | relative_url }})、[毕业后职业规划]({{ '/jinjie/zhiye-fazhan/' | relative_url }})
+- **[第四章 工作与实习篇]({{ '/gongzuo/' | relative_url }})** —— [签证工时与合法权益]({{ '/gongzuo/dagong-zhengce/' | relative_url }})、[怎么找兼职]({{ '/gongzuo/zhao-jianzhi/' | relative_url }})、[简历与求职信模板]({{ '/gongzuo/jianli-qiuzhixin/' | relative_url }})、[面试]({{ '/gongzuo/mianshi/' | relative_url }})、[实习与 Placement]({{ '/gongzuo/shixi/' | relative_url }})
+- **[第五章 生活进阶篇]({{ '/jinjie/' | relative_url }})** —— [假期欧洲旅行]({{ '/jinjie/lvxing/' | relative_url }})、[考驾照]({{ '/jinjie/jiazhao/' | relative_url }})、[税务与退税]({{ '/jinjie/shuiwu/' | relative_url }})、[学生优惠]({{ '/jinjie/youhui-xuesheng/' | relative_url }})、[毕业后职业规划]({{ '/jinjie/zhiye-fazhan/' | relative_url }})、[回国发展]({{ '/jinjie/huiguo/' | relative_url }})
 - **[第六章 安全与应急篇]({{ '/anquan/' | relative_url }})** —— [紧急电话]({{ '/anquan/jinji-dianhua/' | relative_url }})、[突发情况处理步骤]({{ '/anquan/tufa-qingkuang/' | relative_url }})、[日常防范]({{ '/anquan/geren-fangfan/' | relative_url }})、[应急准备]({{ '/anquan/yingji-bao/' | relative_url }})
 
 另外两页值得单独收藏：[**附录1. 速查表**]({{ '/fulu/' | relative_url }})——紧急电话、2026/27 年度的关键数字（最低工资、免税额、押金上限、处方费）、落地 30 天待办清单，以及有时限的几件事，一页看完；[**附录2. 优惠与返利**]({{ '/youhui/' | relative_url }})——能省钱的渠道集中列表。
