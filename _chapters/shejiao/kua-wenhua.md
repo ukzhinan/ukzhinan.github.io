@@ -26,6 +26,25 @@ toc:
     anchor: "sec-8"
   - title: "幽默与 Banter"
     anchor: "sec-9"
+  - title: "常见问题"
+    anchor: "faq"
+faq:
+  - q: "英国人说话为什么总是绕？怎么听懂真实意思？"
+    a: "英式沟通习惯用弱化措辞表达强烈含义，几组高频对照：**quite good** ≈ 一般；**not bad** ≈ 挺好（比 quite good 高）；**I might suggest…** ≈ 你应该这么做；**with the greatest respect** ≈ 我完全不同意；**that's an interesting idea** ≈ 我有保留；**I'll bear that in mind** ≈ 我不会照做；**we should do lunch sometime** ≈ 客套，不是约。听不准就直接确认一句「Just to be clear, would you prefer I…?」——问清楚在英国不失礼。"
+  - q: "听不懂口音怎么办？"
+    a: "先接受一个事实：**英国口音差异极大**，苏格兰、纽卡（Geordie）、利物浦（Scouse）、伯明翰（Brummie）之间的差别远超你在雅思听力里听过的任何内容，本地人之间也常听不懂。实用办法：多听本地广播和播客做被动输入、用 Lecture Capture 放慢速度、以及**大方地说「Sorry, could you say that again more slowly?」**——这句话在英国完全正常，没人会因此看轻你。"
+  - q: "别人问 You alright?，我该怎么回？"
+    a: "这**不是**在问你身体好不好，等同于「你好」。标准回法是「Yeah, good thanks, you?」然后对方也说 good，交流结束——不需要真的汇报近况。同类的还有 `How's it going?`、`Alright mate?`。中国学生常见的困惑是认真回答了自己的状态，对方会稍显意外。记住它是**问候不是问题**，就不会尴尬。"
+  - q: "什么话题不能聊？"
+    a: "初识阶段避开：**收入与房价、年龄、体重外貌、感情状况与生育计划、具体的政治与宗教立场**——这些在国内属于寒暄，在英国属于私人领域。安全话题：天气（真的很好用）、周末计划、旅行、食物、剧集、体育、吐槽公共交通。另外**不要评论别人的口音或出身**，英国的地域与阶层话题比表面上敏感得多。"
+  - q: "Seminar 上想插话，但总找不到时机？"
+    a: "准备几句「进入通道」的固定句式，把找时机变成套用模板：`Can I just add to that?` / `Building on what X said…` / `I'd like to pick up on the point about…` / `Sorry, can I come in here?`。英国的讨论节奏是**抢拍而非轮流**，等别人邀请你通常等不到。带着提前写好的一句话去，第一次开口后就顺了。"
+  - q: "什么是 banter？同学开我玩笑是不是不友好？"
+    a: "**Banter 是英国的一种亲近方式**——互相调侃通常意味着把你当自己人，而不是排斥。判断标准是：内容是否指向你无法改变的特征（种族、口音、外貌）。指向共同经历、你的球队、你昨天的糗事，属于正常 banter，回敬一句就是最好的回应；指向身份特征且让你不适的，可以直接说「Yeah, I'd rather leave that one」——态度明确但不必上纲上线。"
+  - q: "邮件语气怎么把握？太客气还是太随意？"
+    a: "按对象分三档：**对导师和职员**用 `Dear Dr X` + `Kind regards`，句式完整；**对同学与工作同事**用 `Hi James` + `Thanks` 或 `Cheers`；**群聊与即时消息**可以很随意。中国学生最常见的偏差是**过度客气**——大段自我贬低式的道歉（「Sorry to bother you, I know you are very busy…」）反而让邮件难读。直接说明来意、给出具体问题，是英国语境下的礼貌。"
+  - q: "怎么拒绝别人而不显得失礼？"
+    a: "英式拒绝讲究**给理由 + 留余地**，而不是硬邦邦的 No：`I'd love to, but I've got a deadline on Friday — maybe next week?` / `That doesn't quite work for me, but how about…?` / `I'll have to pass on this one, sorry.` 反过来，当别人这样对你说时，也要听出这是拒绝而不是「再争取一下就行」。**不必为拒绝反复道歉**，一次就够。"
 ---
 
 初到英国的中国留学生，往往会发现自己身处一个既熟悉又陌生的语境中。虽然英语是我们从小学到大的“第二语言”，但真正进入到以英语为母语的环境中后，很多人会发现自己面临着不仅仅是语言翻译的问题，更是“语境转换”的挑战。英国人使用英语的方式充满细腻和含蓄，语调、词汇选择、语气变化都蕴含着潜在的文化信号。例如，当一个英国人说“It’s not bad”，这可能意味着“相当不错”，而不是字面意义的“不坏”；当他们说“Maybe we should think about it”，有时其实是在表达一种“拒绝”的态度。

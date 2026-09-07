@@ -2,13 +2,13 @@
 layout: chapter
 title: "英国留学生优惠、返利与推荐码合集"
 description: "英国留学生能用的优惠与返利渠道合集：数字银行与支付、手机套餐与宽带、电费、购物返现平台与推荐码、学生折扣与 Railcard，一页集中列出并说明适合谁用。"
-nav: "优惠与返利"
+nav: "附录2. 优惠与返利"
 permalink: /youhui/
 order: 10
 weight: 950
 updated: 2026-09-07
 ads: false
-num: "惠"
+num: "附"
 toc:
   - title: "银行、支付与投资"
     anchor: "sec-1"
@@ -70,7 +70,7 @@ toc:
 
 | 权益 | 说明 |
 | --- | --- |
-| [16-25 Railcard](https://www.railcard.co.uk/) | 火车票 7 折，一年 £30；26–30 岁可申请 26-30 Railcard，26 岁以上全日制学生同样可申请 16-25 |
+| [16-25 Railcard](https://www.railcard.co.uk/) | 火车票 1/3 折扣，一年 £35、3 年 £80；26–30 岁可申请 26-30 Railcard，26 岁以上全日制学生同样可申请 16-25 |
 | UNiDAYS / TOTUM | 覆盖服装、餐饮、软件等的学生折扣平台 |
 
 <h2 id="sec-6">影音与回国服务</h2>

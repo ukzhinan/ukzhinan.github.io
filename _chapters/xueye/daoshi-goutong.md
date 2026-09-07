@@ -18,6 +18,25 @@ toc:
     anchor: "sec-4"
   - title: "案例：让导师记住你的方法"
     anchor: "sec-5"
+  - title: "常见问题"
+    anchor: "faq"
+faq:
+  - q: "给导师写邮件该怎么称呼？"
+    a: "**首选 `Dear Dr Smith` 或 `Dear Professor Smith`**（用姓，不用名）。不确定对方是否是 Professor 时用 Dr 更安全——多数学者有博士学位，称 Dr 不会失礼，把 Professor 用错反而尴尬。对方回信如果签名只写 `Best, James`，那就是在示意你可以叫名字，之后跟着用 `Dear James` 即可。**不要用 `Dear Teacher` 或 `Dear Professor`（不带姓）**，前者是中式直译，后者显得生疏。"
+  - q: "邮件多久没回可以催？"
+    a: "英国学者的邮件量很大，**一周内没回**再跟进是合理的，考试季和假期可以更宽容一些。跟进时把原邮件转发并加一句「Just following up on my email below — I appreciate you may be busy」即可，不需要道歉式的长篇铺垫。**如果事情有 deadline，第一封信里就要写明**，别让对方猜紧急程度。"
+  - q: "Office Hour 我该问什么？直接去会不会打扰？"
+    a: "Office Hour 就是**专门留给你的时间**，不去才是浪费。但要带着具体问题去——「这门课我不太懂」得不到有用的回答，「我在理解 X 概念时卡在这一步，我的理解是 A，但书上说 B，差别在哪」才行。带上你已经做过的尝试（读过什么、写了什么提纲），对方能给的反馈质量会完全不同。**提前一两句邮件说明你想聊什么**，也会让这 15 分钟高效很多。"
+  - q: "导师说 That's an interesting point，是在夸我吗？"
+    a: "**不一定。** 英式学术语境里，这句话经常是委婉的保留或不同意，后面通常接一个 but 或一个反问。类似的还有 `I see what you mean, however…`、`Have you considered…?`（＝你漏了一个重要因素）。不必因此不安，但要听出弦外之音——最直接的办法是追问一句「Do you think that argument holds, or would you approach it differently?」，把含蓄的信号换成明确的指导。"
+  - q: "论文导师（supervisor）应该多久见一次？"
+    a: "多数学校对硕士论文有**最低指导次数**的规定（常见是几次正式会面），但上限取决于你。有效的做法是：**每次会面前发一份简短的进度说明和你想讨论的 2–3 个问题**，会后自己写一封纪要邮件确认结论。这样既尊重对方时间，也给你留下书面记录。别等到写完初稿才第一次找他——那时能改的东西已经不多了。"
+  - q: "和导师意见不一致，能反驳吗？"
+    a: "**可以，而且这正是英国学术训练想要的。** 关键是用论证而不是态度：「I see the argument for X, but the data in Y seems to suggest otherwise — how would you reconcile that?」比沉默地照做更受认可。英国导师普遍不期待学生全盘接受，反而会因为你能提出有依据的异议而记住你。真正减分的是不表态、也不执行。"
+  - q: "怎么让导师记住我？"
+    a: "不是靠频繁发消息，而是靠**可预期的高质量互动**：Seminar 上至少发一次言、Office Hour 带着具体问题去过一两次、论文按时交且明显吸收了上次的反馈。此外，**反馈闭环**最有效——在下一篇作业里明确写一句「Following your earlier feedback on structure, I have…」，导师会立刻记住你是那个会改的人。这对之后要推荐信时尤其重要。"
+  - q: "毕业要推荐信，该什么时候开口？"
+    a: "**提前至少三四周**，并在你还在读、对方对你有印象的时候。请求邮件里附上：你申请的项目或岗位、截止日期、你的 CV、以及你在他课上的成绩与具体作品（提醒他你是谁做过什么）。**先问「Would you be able to write me a strong reference?」**——这个问法给了对方礼貌拒绝的空间，也能避免你拿到一封敷衍的推荐信。"
 ---
 
 英国大学的**导师制度（Personal Tutor System）**是留学生在学术和生活中极具价值的支持渠道。每位新生都会被分配一位个人导师（Personal Tutor），有些专业还会配备学术导师（Academic Supervisor）或研究导师（Research Supervisor），根据你的学习阶段和研究方向提供不同层面的帮助。

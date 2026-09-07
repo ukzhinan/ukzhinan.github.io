@@ -9,7 +9,7 @@ order: 1
 
 
 **英国生存手册** 
-(2026年9月 / v1.2)
+(2026年9月 / v1.3)
 
 作者：Steven在英国  
 小红书: [@Steven英伦科技说](https://www.xiaohongshu.com/user/profile/5f8aebe4000000000101f6f4)  
@@ -43,6 +43,11 @@ order: 1
 
 本指南正是在这样的背景下诞生的。它并不是一篇理想化的“留学美好生活宣言”，而是一份务实、具体、以“过来人”视角撰写的实用参考。我将从**生活、学业、社交文化、工作实习**等方面出发，既提供方法和资源，也分享真实的案例与应对策略。希望它能帮助你减少在摸索过程中的盲目和试错成本，让你在初来乍到的日子里有一个清晰的方向感。
 
+留学不是孤军奋战，而是一段需要智慧、勇气与同理心的协作旅程。愿你在英国的每一天，不仅积累知识，更积累一种面对世界的从容与自信；不仅学有所成，更活出一个更加坚韧、独立而温暖的自己。
+
+Steven  
+写于 2025年08月09日
+
 ## 从这里开始
 
 手册按你实际会遇到的顺序编排。如果你还没出发或刚落地，建议从**生活篇**读起；如果只想解决某个具体问题，直接点进对应专题。
@@ -54,12 +59,12 @@ order: 1
 - **[第五章 生活进阶篇]({{ '/jinjie/' | relative_url }})** —— [假期欧洲旅行]({{ '/jinjie/lvxing/' | relative_url }})、[考驾照]({{ '/jinjie/jiazhao/' | relative_url }})、[税务与退税]({{ '/jinjie/shuiwu/' | relative_url }})、[学生优惠]({{ '/jinjie/youhui-xuesheng/' | relative_url }})、[毕业后职业规划]({{ '/jinjie/zhiye-fazhan/' | relative_url }})
 - **[第六章 安全与应急篇]({{ '/anquan/' | relative_url }})** —— [紧急电话]({{ '/anquan/jinji-dianhua/' | relative_url }})、[突发情况处理步骤]({{ '/anquan/tufa-qingkuang/' | relative_url }})、[日常防范]({{ '/anquan/geren-fangfan/' | relative_url }})、[应急准备]({{ '/anquan/yingji-bao/' | relative_url }})
 
-另外两页值得单独收藏：[附录一页速查表]({{ '/fulu/' | relative_url }})（电话、网站、APP 汇总）和[优惠与返利合集]({{ '/youhui/' | relative_url }})（能省钱的渠道集中列表）。
+另外两页值得单独收藏：[**附录1. 速查表**]({{ '/fulu/' | relative_url }})——紧急电话、2026/27 年度的关键数字（最低工资、免税额、押金上限、处方费）、落地 30 天待办清单，以及有时限的几件事，一页看完；[**附录2. 优惠与返利**]({{ '/youhui/' | relative_url }})——能省钱的渠道集中列表。
 
-> **只有十分钟的话**，先做这三件事：[注册 GP]({{ '/shenghuo/yinshi-jiankang/' | relative_url }})、[申请 Council Tax 豁免]({{ '/jinjie/youhui-xuesheng/' | relative_url }})（住校外一年可能省几百镑）、[注册 emergencySMS]({{ '/anquan/jinji-dianhua/' | relative_url }})（发短信 register 到 999）。
+每个专题页末尾都有**常见问题**，收录的是那些「不知道就会吃亏」的问题：房东要求预付一整年能不能拒绝、志愿服务算不算签证工时、注册 GP 到底要不要证件、查重多少才算安全。
+
+> **只有十分钟的话**，先做这三件事：[注册 GP]({{ '/shenghuo/yinshi-jiankang/' | relative_url }})（**不需要**护照或住址证明，诊所不能以此拒绝）、[申请 Council Tax 豁免]({{ '/jinjie/youhui-xuesheng/' | relative_url }})（住校外一年可能省几百镑）、[注册 emergencySMS]({{ '/anquan/jinji-dianhua/' | relative_url }})（发短信 register 到 999，事发时才办来不及）。
 {: .callout .callout-tip}
 
-留学不是孤军奋战，而是一段需要智慧、勇气与同理心的协作旅程。愿你在英国的每一天，不仅积累知识，更积累一种面对世界的从容与自信；不仅学有所成，更活出一个更加坚韧、独立而温暖的自己。
-
-Steven  
-写于 2025年08月09日
+> **两条时效性提醒。** 其一，**英格兰的私人租房规则在 2026 年 5 月 1 日大改**：没有固定期限合同了，租客提前 2 个月通知即可退租，**预付租金上限 1 个月**——"没有英国担保人就预付一整年"已是违法要求（[详情]({{ '/shenghuo/zufang/' | relative_url }})）。其二，**毕业生签证（Graduate Route）的时长正在缩短**：本硕毕业生在 **2026 年 12 月 31 日前**递交仍可拿 **2 年**，2027 年 1 月 1 日起为 18 个月（[详情]({{ '/jinjie/zhiye-fazhan/' | relative_url }})）。
+{: .callout .callout-warning}
