@@ -18,10 +18,34 @@
 | 第六章 生活进阶篇 | 国际旅行、驾照、税务、学生优惠、职业发展 |
 | 附录 | 一页速查表：电话、网站、APP、生活技能 |
 
-## 仓库结构
+## 网站
 
-- `英国生存手册.md` — 手册正文（Markdown）
-- `__Assets/` — 手册中的图片素材（封面、联系方式二维码）
+本仓库是一个 [Jekyll](https://jekyllrb.com/) 网站，内容按章节拆分为独立的 Markdown 文件。
+
+### 本地运行
+
+```bash
+bundle install
+bundle exec jekyll serve
+```
+
+然后访问 <http://localhost:4000/uk-handbook/>。
+
+### 构建
+
+```bash
+bundle exec jekyll build
+```
+
+静态文件输出到 `_site/`。
+
+### 结构
+
+- `index.md` — 首页（封面 + 引言）
+- `_chapters/` — 六个章节 + 结语 + 附录（按 `order` 排序）
+- `_layouts/`、`_includes/` — Jekyll 模板
+- `assets/css/main.scss` — 样式
+- `assets/images/` — 图片素材
 
 ## 说明与免责声明
 
