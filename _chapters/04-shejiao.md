@@ -3,6 +3,7 @@ layout: chapter
 title: "第四章 社交与文化篇：在英国如何适应与融入"
 nav: "第四章 社交与文化篇"
 order: 5
+num: "04"
 toc:
   - title: "4.1 跨文化交流技巧"
     anchor: "4-1"

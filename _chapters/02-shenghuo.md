@@ -3,6 +3,7 @@ layout: chapter
 title: "第二章 生活篇：在英国如何安顿下来"
 nav: "第二章 生活篇"
 order: 3
+num: "02"
 toc:
   - title: "2.1 住宿选择与适应"
     anchor: "2-1"

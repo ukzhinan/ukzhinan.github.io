@@ -3,6 +3,7 @@ layout: chapter
 title: "第三章 工作与实习篇：在英国如何积累经验与提升竞争力"
 nav: "第三章 工作与实习篇"
 order: 4
+num: "03"
 toc:
   - title: "3.1 打工政策与合法权益"
     anchor: "3-1"

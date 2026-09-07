@@ -3,6 +3,7 @@ layout: chapter
 title: "第五章 安全与应急篇：英国留学生的守护指南"
 nav: "第五章 安全与应急篇"
 order: 6
+num: "05"
 toc:
   - title: "5.1 紧急联系电话与资源"
     anchor: "5-1"

@@ -3,6 +3,7 @@ layout: chapter
 title: "结语"
 nav: "结语"
 order: 8
+num: "结"
 toc:
 ---
 
@@ -18,4 +19,5 @@ toc:
 
 不负时光，不负自己，愿你学有所成，心有所安，未来可期。
 
-by Steven在英国 | [小红书](https://www.xiaohongshu.com/user/profile/5f8aebe4000000000101f6f4) | [B站](https://space.bilibili.com/400662621) | [YouTube](https://www.youtube.com/@stevenukexplorer)
+by Steven在英国  
+欢迎关注我的小红书: [@Steven英伦科技说](https://www.xiaohongshu.com/user/profile/5f8aebe4000000000101f6f4)

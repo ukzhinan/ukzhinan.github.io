@@ -3,6 +3,7 @@ layout: chapter
 title: "第一章 学业篇：在英国如何高效学习"
 nav: "第一章 学业篇"
 order: 2
+num: "01"
 toc:
   - title: "1.1 英国高等教育的特点"
     anchor: "1-1"

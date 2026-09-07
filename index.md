@@ -6,17 +6,14 @@ order: 1
 ---
 
 
-![英国生存手册封面]({{ site.baseurl }}/assets/images/uk_survive_book_cover.png){: .cover}
 
-**英国生存手册 — 第一版** 
-(2025年8月 / v1.1)
-[该指南的网页版（实时更新）](https://silken-mule-579.notion.site/23a3dcda1bed8042a8fae1f7bd2a3873)
+**英国生存手册** 
+(2026年9月 / v1.2)
 
-作者：Steven在英国 | [小红书](https://www.xiaohongshu.com/user/profile/5f8aebe4000000000101f6f4) | [B站](https://space.bilibili.com/400662621) | [YouTube](https://www.youtube.com/@stevenukexplorer)
+作者：Steven在英国 | 小红书: [@Steven英伦科技说](https://www.xiaohongshu.com/user/profile/5f8aebe4000000000101f6f4)  
 邮箱：[xdaiuk@gmail.com](mailto:xdaiuk@gmail.com)
-![微信二维码]({{ site.baseurl }}/assets/images/wechat.jpg){: .qr}
 
-> **免责声明**：本指南中的部分推荐链接（银行、能源、宽带、手机套餐、VPN、返现平台等）为作者的合作/返利链接，使用前请自行甄别；文中涉及的政策与价格（最低工资、签证工作时长、票价、税率等）会随时间调整，请以英国政府官方（gov.uk）等权威来源的最新信息为准。
+> **免责声明**：本指南中的部分推荐链接（银行、能源、宽带、手机套餐、VPN、返现平台等）为作者的合作/返利链接，这些收益将用于支付网站成本，同时帮助我保持这本手册免费；文中涉及的政策与价格（最低工资、签证工作时长、票价、税率等）会随时间调整，请以英国政府官方（gov.uk）等权威来源的最新信息为准。
 {: .callout .callout-warning}
 
 出国留学，对于许多人来说，不仅仅是学业道路上的一次重要选择，更是一段影响深远的人生旅程。它是一扇通向更广阔世界的大门，也是一场关于自我探索与重塑的修行。尤其是对于来自中国的学生而言，选择赴英求学意味着背负着家庭的厚望与投资，也代表着个人对未知领域的好奇与向往。这段旅程看似浪漫而充满机遇，但真正走上这条路，才会发现它并非一路平坦。
@@ -46,5 +43,5 @@ order: 1
 
 留学不是孤军奋战，而是一段需要智慧、勇气与同理心的协作旅程。愿你在英国的每一天，不仅积累知识，更积累一种面对世界的从容与自信；不仅学有所成，更活出一个更加坚韧、独立而温暖的自己。
 
-Steven
+Steven  
 写于 2025年08月09日

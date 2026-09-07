@@ -3,6 +3,7 @@ layout: chapter
 title: "第六章 英国生活进阶篇：从生存到享受"
 nav: "第六章 英国生活进阶篇"
 order: 7
+num: "06"
 toc:
   - title: "6.1 在英国玩转国际旅行"
     anchor: "6-1"

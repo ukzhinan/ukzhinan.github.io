@@ -3,6 +3,7 @@ layout: chapter
 title: "附录：英国留学生一页速查表"
 nav: "附录"
 order: 9
+num: "附"
 toc:
   - title: "📞 紧急与实用联系电话"
     anchor: "sec-1"

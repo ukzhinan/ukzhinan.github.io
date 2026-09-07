@@ -2,6 +2,15 @@
 layout: default
 ---
 <div class="home">
-  <h1 class="home-title">{{ page.title }}</h1>
-  {{ content }}
+  <header class="hero">
+    <img class="hero-cover" src="{{ '/assets/images/uk_survive_book_cover.png' | relative_url }}" alt="英国生存手册封面">
+    <div class="hero-text">
+      <h1 class="home-title">{{ page.title }}</h1>
+      <p class="home-subtitle">{{ site.description }}</p>
+      <div class="hero-rule"></div>
+    </div>
+  </header>
+  <div class="home-body">
+    {{ content }}
+  </div>
 </div>
