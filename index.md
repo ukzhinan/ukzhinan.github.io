@@ -11,7 +11,7 @@ order: 1
 **英国生存手册** 
 (2026年9月 / v1.3)
 
-作者：Steven在英国 —— [英国大学副教授，2013 年来英]({{ '/about/' | relative_url }})，先做留学生、后留在英国高校任教  
+作者：Steven在英国 —— 英国大学副教授，2013 年来英，先做留学生、后留在英国高校任教  
 小红书: [@Steven英伦科技说](https://www.xiaohongshu.com/user/profile/5f8aebe4000000000101f6f4)  
 邮箱：[xdaiuk@gmail.com](mailto:xdaiuk@gmail.com)
 
