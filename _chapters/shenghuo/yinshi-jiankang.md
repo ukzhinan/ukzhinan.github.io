@@ -80,7 +80,7 @@ faq:
 - [**Tuck**](https://www.tuckapp.co/app?referralCode=STEVE47)：万能返现 App，几乎支持所有购物平台，每单返现 3%–15%；用推荐码 **STEVE47** 可获得新手礼包。
 - [**EverUp**](https://everup.onelink.me/9lgD/i93ma2rt)：返现 + 储蓄结合的 App，购物返现的同时还能享受储蓄利率与抽奖机会。
 
-另外值得一提的是，在英国Amazon是不可或缺的生活购物网站，同时它也在很多城市开展了超市送货业务，学生身份的话可以注册 [Amazon Prime Student](https://www.amazon.co.uk/joinstudent?tag=xdaiuk-21)，享受前 6 个月免费，之后可按学生价（约为普通 Prime 的一半）续订，具体金额以 Amazon 页面显示为准。
+另外值得一提的是，在英国Amazon是不可或缺的生活购物网站，同时它也在很多城市开展了超市送货业务，学生身份的话可以注册 [Amazon Prime Student](https://www.amazon.co.uk/joinstudent?tag=xdaiuk05-21)，享受前 6 个月免费，之后可按学生价（约为普通 Prime 的一半）续订，具体金额以 Amazon 页面显示为准。
 
 
 <h2 id="sec-3">落地就办：注册 GP</h2>
