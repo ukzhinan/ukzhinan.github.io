@@ -1,0 +1,37 @@
+<script>
+/* 外链与联盟链接点击追踪 —— 联盟清单来自 _data/affiliates.yml */
+(function () {
+  var AFF = {{ site.data.affiliates.domains | jsonify }};
+  var SELF = window.location.hostname;
+  function nearestLink(node) {
+    while (node && node !== document) {
+      if (node.tagName === 'A' && node.href) return node;
+      node = node.parentElement;
+    }
+    return null;
+  }
+  document.addEventListener('click', function (e) {
+    if (typeof gtag !== 'function') return;
+    var a = nearestLink(e.target);
+    if (!a) return;
+    var url;
+    try { url = new URL(a.href, window.location.href); } catch (err) { return; }
+    if (url.protocol !== 'http:' && url.protocol !== 'https:') return;
+    if (url.hostname === SELF) return;
+    var params = {
+      link_url: a.href,
+      link_domain: url.hostname,
+      link_text: (a.textContent || '').replace(/\s+/g, ' ').trim().slice(0, 100),
+      page_path: window.location.pathname
+    };
+    gtag('event', 'outbound_click', params);
+    for (var i = 0; i < AFF.length; i++) {
+      if (a.href.indexOf(AFF[i].match) !== -1) {
+        params.affiliate = AFF[i].name;
+        gtag('event', 'affiliate_click', params);
+        break;
+      }
+    }
+  }, true);
+})();
+</script>

@@ -2,8 +2,9 @@
 layout: default
 ---
 <article class="chapter">
-  <header class="chapter-header">
-    <span class="roundel roundel--num">{{ page.num }}</span>
+  {% include breadcrumb.html %}
+
+  <header class="chapter-header chapter-header--section">
     <h1>{{ page.title }}</h1>
   </header>
 
@@ -13,7 +14,7 @@ layout: default
 
   {% if page.toc %}
   <nav class="toc">
-    <div class="toc-title">本章目录</div>
+    <div class="toc-title">本节目录</div>
     <ul>
       {% for item in page.toc %}
         <li><a href="#{{ item.anchor }}">{{ item.title }}</a></li>

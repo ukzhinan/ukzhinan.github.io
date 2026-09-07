@@ -4,10 +4,28 @@ baseurl: ""
 url: "https://ukzhinan.com"
 google_analytics: G-TF0W0N9S33
 
+author:
+  name: "Steven在英国"
+  url: "https://www.xiaohongshu.com/user/profile/5f8aebe4000000000101f6f4"
+published_date: "2025-08-09"
+
+# AdSense：client 填了才会加载广告脚本；两个 slot 各自填了才会渲染对应广告位。
+# slot ID 需要在 AdSense 后台「广告 → 按广告单元」创建后获得，留空则不显示广告。
+adsense:
+  client: "ca-pub-8821428748194648"
+  slot_in_article: ""
+  slot_bottom: ""
+
+# 站长平台验证码（在各家后台获取后填入，留空则不输出对应 meta 标签）
+verification:
+  google: ""
+  bing: ""
+  baidu: ""
+
 collections:
   chapters:
     output: true
-    permalink: /:name/
+    permalink: /:path/
 
 defaults:
   - scope:
@@ -19,6 +37,8 @@ defaults:
 exclude:
   - README.md
   - docs/
+  # 原始封面留作素材，线上只用压缩后的 cover.* 与 og-cover.jpg
+  - assets/images/uk_survive_book_cover.png
 
 kramdown:
   auto_ids: false

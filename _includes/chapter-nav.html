@@ -1,0 +1,24 @@
+{% comment %} Prev/next across the flattened reading order (chapters + their sections). {% endcomment %}
+{% assign allpages = site.chapters | sort: "weight" %}
+{% assign prev = nil %}
+{% assign next = nil %}
+{% assign seen = false %}
+{% for doc in allpages %}
+  {% if doc.url == page.url %}
+    {% assign seen = true %}
+  {% elsif seen == false %}
+    {% assign prev = doc %}
+  {% elsif next == nil %}
+    {% assign next = doc %}
+  {% endif %}
+{% endfor %}
+<nav class="chapter-nav">
+  {% if prev %}
+    <a class="nav-prev" href="{{ prev.url | relative_url }}">← {{ prev.nav }}</a>
+  {% else %}
+    <a class="nav-prev" href="{{ '/' | relative_url }}">← 引言</a>
+  {% endif %}
+  {% if next %}
+    <a class="nav-next" href="{{ next.url | relative_url }}">{{ next.nav }} →</a>
+  {% endif %}
+</nav>

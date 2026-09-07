@@ -1,0 +1,10 @@
+{% comment %} Auto-detects affiliate links in the page body; no manual flag to keep in sync. {% endcomment %}
+{% assign has_aff = false %}
+{% for d in site.data.affiliates.domains %}
+  {% if page.content contains d.match %}{% assign has_aff = true %}{% endif %}
+{% endfor %}
+{% if has_aff or page.affiliate %}
+<div class="callout callout-warning disclosure">
+  <strong>合作链接声明</strong>：本页含作者的合作/返利链接，通过它们注册或购买，作者可能获得少量佣金，这些收益用于支付网站成本、让本手册保持免费。这不影响推荐内容——所有推荐都基于实际使用体验，你也可以直接搜索服务商官网前往。各家的优惠与返现金额会随时调整，请以对方页面显示为准。
+</div>
+{% endif %}

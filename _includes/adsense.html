@@ -1,0 +1,16 @@
+{% comment %}
+  一个广告位。用法：{% include adsense.html slot=site.adsense.slot_bottom %}
+  client 或 slot 未配置时什么都不输出，避免线上出现空白占位。
+  .ad-slot 预留最小高度以减少 CLS（Core Web Vitals）。
+{% endcomment %}
+{% if site.adsense.client and include.slot and include.slot != "" and page.ads != false %}
+<div class="ad-slot">
+  <ins class="adsbygoogle"
+       style="display:block"
+       data-ad-client="{{ site.adsense.client }}"
+       data-ad-slot="{{ include.slot }}"
+       data-ad-format="auto"
+       data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+{% endif %}

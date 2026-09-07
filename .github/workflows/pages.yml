@@ -1,0 +1,58 @@
+# 用仓库 Gemfile 里的 Jekyll 版本构建并部署到 GitHub Pages。
+# 不用 GitHub Pages 的经典构建（它固定在 Jekyll 3.10.x），避免线上与本地版本不一致。
+name: Build and deploy site
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# 同时只跑一个部署；进行中的不取消，避免部署到一半被打断
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2'
+          bundler-cache: true
+
+      - uses: actions/configure-pages@v5
+
+      - name: Build with Jekyll
+        run: bundle exec jekyll build --trace
+        env:
+          JEKYLL_ENV: production
+
+      - name: Check build output
+        run: |
+          test -f _site/index.html
+          test -f _site/sitemap.xml
+          test -f _site/ads.txt
+          test -f _site/robots.txt
+          pages=$(find _site -name index.html | wc -l)
+          echo "built $pages pages"
+          test "$pages" -ge 40
+
+      - uses: actions/upload-pages-artifact@v3
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

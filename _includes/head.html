@@ -1,7 +1,15 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="google-adsense-account" content="ca-pub-8821428748194648">
-{% assign seo_title = page.title | default: site.title %}
+{% if site.adsense.client %}
+<meta name="google-adsense-account" content="{{ site.adsense.client }}">
+{% if page.ads != false %}
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ site.adsense.client }}" crossorigin="anonymous"></script>
+{% endif %}
+{% endif %}
+{% if site.verification.google and site.verification.google != "" %}<meta name="google-site-verification" content="{{ site.verification.google }}">
+{% endif %}{% if site.verification.bing and site.verification.bing != "" %}<meta name="msvalidate.01" content="{{ site.verification.bing }}">
+{% endif %}{% if site.verification.baidu and site.verification.baidu != "" %}<meta name="baidu-site-verification" content="{{ site.verification.baidu }}">
+{% endif %}{% assign seo_title = page.title | default: site.title %}
 {% if page.url != '/' %}
   {% assign seo_title = seo_title | append: ' · ' | append: site.title %}
 {% endif %}
@@ -14,12 +22,15 @@
 <meta property="og:title" content="{{ seo_title }}">
 <meta property="og:description" content="{{ seo_desc }}">
 <meta property="og:url" content="{{ page.url | absolute_url }}">
-<meta property="og:image" content="{{ '/assets/images/uk_survive_book_cover.png' | absolute_url }}">
+<meta property="og:image" content="{{ '/assets/images/og-cover.jpg' | absolute_url }}">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
 <meta property="og:locale" content="zh_CN">
-<meta name="twitter:card" content="summary">
+<meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="{{ seo_title }}">
 <meta name="twitter:description" content="{{ seo_desc }}">
-<meta name="twitter:image" content="{{ '/assets/images/uk_survive_book_cover.png' | absolute_url }}">
+<meta name="twitter:image" content="{{ '/assets/images/og-cover.jpg' | absolute_url }}">
+{% include structured-data.html %}
 <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
 {% if site.google_analytics %}
 <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
@@ -29,4 +40,5 @@
   gtag('js', new Date());
   gtag('config', '{{ site.google_analytics }}');
 </script>
+{% include analytics-events.html %}
 {% endif %}

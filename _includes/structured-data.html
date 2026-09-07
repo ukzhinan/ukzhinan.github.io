@@ -1,0 +1,93 @@
+{% comment %}
+  JSON-LD: WebSite + Person once per page, plus Article/WebPage and a
+  BreadcrumbList that mirrors the visible breadcrumb on section pages.
+{% endcomment %}
+{% assign hub = nil %}
+{% if page.parent %}
+  {% assign hub = site.chapters | where: "key", page.parent | first %}
+{% endif %}
+{% assign seo_desc = page.description | default: site.description %}
+{% assign cover = '/assets/images/og-cover.jpg' | absolute_url %}
+{% assign site_id = site.url | append: '/#website' %}
+{% assign person_id = site.url | append: '/#person' %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": {{ site_id | jsonify }},
+      "url": {{ site.url | append: '/' | jsonify }},
+      "name": {{ site.title | jsonify }},
+      "description": {{ site.description | jsonify }},
+      "inLanguage": "zh-CN",
+      "publisher": { "@id": {{ person_id | jsonify }} }
+    },
+    {
+      "@type": "Person",
+      "@id": {{ person_id | jsonify }},
+      "name": {{ site.author.name | jsonify }},
+      "url": {{ site.author.url | jsonify }}
+    },
+{% if page.url == '/' %}
+    {
+      "@type": "WebPage",
+      "@id": {{ page.url | absolute_url | jsonify }},
+      "url": {{ page.url | absolute_url | jsonify }},
+      "name": {{ page.title | jsonify }},
+      "description": {{ seo_desc | jsonify }},
+      "isPartOf": { "@id": {{ site_id | jsonify }} },
+      "inLanguage": "zh-CN",
+      "primaryImageOfPage": { "@type": "ImageObject", "url": {{ cover | jsonify }} }
+    }
+{% else %}
+    {
+      "@type": "Article",
+      "@id": {{ page.url | absolute_url | append: '#article' | jsonify }},
+      "headline": {{ page.title | jsonify }},
+      "description": {{ seo_desc | jsonify }},
+      "inLanguage": "zh-CN",
+      "image": {{ cover | jsonify }},
+      "datePublished": {{ site.published_date | jsonify }},
+      "dateModified": {{ page.updated | default: site.published_date | date: '%Y-%m-%d' | jsonify }},
+      "author": { "@id": {{ person_id | jsonify }} },
+      "publisher": { "@id": {{ person_id | jsonify }} },
+      "isPartOf": { "@id": {{ site_id | jsonify }} },
+      "mainEntityOfPage": { "@id": {{ page.url | absolute_url | jsonify }} },
+      "breadcrumb": { "@id": {{ page.url | absolute_url | append: '#breadcrumb' | jsonify }} }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": {{ page.url | absolute_url | append: '#breadcrumb' | jsonify }},
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "首页",
+          "item": {{ site.url | append: '/' | jsonify }}
+        },
+{% if hub %}
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": {{ hub.nav | jsonify }},
+          "item": {{ hub.url | absolute_url | jsonify }}
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": {{ page.nav | jsonify }}
+        }
+{% else %}
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": {{ page.nav | default: page.title | jsonify }}
+        }
+{% endif %}
+      ]
+    }
+{% endif %}
+  ]
+}
+</script>

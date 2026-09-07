@@ -1,8 +1,12 @@
 ---
 layout: chapter
 title: "附录：英国留学生一页速查表"
+description: "英国留学生一页速查表：紧急与实用联系电话、常用官方网站、必备手机APP，以及租房、看病、报税等常用生活技能资源汇总，建议收藏备查。"
 nav: "附录"
+permalink: /fulu/
 order: 9
+weight: 900
+updated: 2026-09-07
 num: "附"
 toc:
   - title: "📞 紧急与实用联系电话"

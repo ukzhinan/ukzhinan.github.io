@@ -1,4 +1,5 @@
-{% assign docs = site.chapters | sort: "order" %}
+{% assign docs = site.chapters | sort: "weight" %}
+{% assign tops = docs | where_exp: "d", "d.parent == nil" %}
 <nav class="sidebar">
   <div class="sidebar-brand">
     <span class="roundel">UK</span>
@@ -11,13 +12,31 @@
         <span>引言</span>
       </a>
     </li>
-    {% for doc in docs %}
+    {% for doc in tops %}
       <li class="nav-item {% if page.url == doc.url %}active{% endif %}">
         <a href="{{ doc.url | relative_url }}">
           <span class="badge">{{ doc.num }}</span>
           <span>{{ doc.nav }}</span>
         </a>
       </li>
+      {% comment %} Expand a chapter's sections only while the reader is inside that chapter. {% endcomment %}
+      {% if doc.key %}
+        {% assign kids = docs | where: "parent", doc.key %}
+        {% assign expand = false %}
+        {% if page.url == doc.url %}{% assign expand = true %}{% endif %}
+        {% if page.parent == doc.key %}{% assign expand = true %}{% endif %}
+        {% if expand and kids.size > 0 %}
+          <li class="nav-sub-wrap">
+            <ul class="nav-sub">
+              {% for kid in kids %}
+                <li class="nav-subitem {% if page.url == kid.url %}active{% endif %}">
+                  <a href="{{ kid.url | relative_url }}">{{ kid.nav }}</a>
+                </li>
+              {% endfor %}
+            </ul>
+          </li>
+        {% endif %}
+      {% endif %}
     {% endfor %}
   </ul>
 </nav>

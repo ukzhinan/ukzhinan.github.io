@@ -19,6 +19,9 @@
   --red-dark: #b31b12;
   --blue: #123c6b;
   --blue-soft: #eaf0f6;
+  --link: #1256a0;
+  --link-hover: #b31b12;
+  --link-underline: #9db8d6;
   --green: #1f7a45;
   --green-soft: #e8f3ec;
   --amber: #9a6b00;
@@ -40,7 +43,7 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
-a { color: var(--blue); text-decoration: none; }
+a { color: var(--link); text-decoration: none; }
 a:hover { text-decoration: underline; text-underline-offset: 3px; }
 
 :focus-visible { outline: 2px solid var(--red); outline-offset: 2px; }
@@ -315,8 +318,131 @@ img.qr { display: block; margin: 16px 0; max-width: 200px; border: 1px solid var
   .nav-item a { padding: 6px 12px; border: 1px solid var(--line); border-radius: 20px; }
   .nav-item .badge { position: static; transform: none; margin-right: -6px; }
   .nav-item a { gap: 8px; }
+  .nav-sub { flex-basis: 100%; padding-left: 4px; }
+  .nav-sub { display: flex; flex-wrap: wrap; gap: 6px; }
+  .nav-subitem a { border: 1px solid var(--line); border-radius: 20px; padding: 5px 10px; }
   .content { margin-left: 0; padding: 24px 20px 48px; }
   .hero { flex-direction: column; align-items: flex-start; gap: 24px; }
   .hero-cover { width: 180px; }
   .home-title { font-size: 1.9em; }
 }
+
+/* ---------- Nested sidebar sections ---------- */
+.nav-sub-wrap { list-style: none; }
+.nav-sub {
+  list-style: none;
+  margin: 2px 0 6px;
+  padding: 0 0 0 20px;
+}
+.nav-subitem a {
+  display: block;
+  padding: 5px 10px;
+  border-radius: 6px;
+  color: var(--muted);
+  font-size: 14px;
+}
+.nav-subitem a:hover { background: var(--paper); color: var(--ink); text-decoration: none; }
+.nav-subitem.active a { color: var(--red); font-weight: 600; }
+
+/* ---------- Breadcrumb ---------- */
+.breadcrumb {
+  font-size: 14px;
+  color: var(--muted);
+  margin-bottom: 18px;
+}
+.breadcrumb a { color: var(--muted); }
+.breadcrumb a:hover { color: var(--red); }
+.breadcrumb .sep { margin: 0 6px; color: var(--line); }
+.breadcrumb .crumb-current { color: var(--ink); }
+.chapter-header--section { margin-bottom: 20px; }
+
+/* ---------- Chapter hub section list ---------- */
+.hub-list {
+  border-top: 1px solid var(--line);
+  margin-top: 32px;
+  padding-top: 20px;
+}
+.hub-list ol { margin: 12px 0 0; padding-left: 22px; }
+.hub-list li { margin-bottom: 18px; }
+.hub-link { font-size: 17px; font-weight: 600; }
+.hub-desc {
+  margin: 4px 0 0;
+  color: var(--muted);
+  font-size: 14px;
+  line-height: 1.6;
+}
+
+.page-meta {
+  font-size: 13px;
+  color: var(--muted);
+  margin: -8px 0 24px;
+}
+
+.disclosure { font-size: 14px; }
+.offer-note { color: var(--muted); font-size: 14px; }
+
+.footer-note {
+  font-size: 13px;
+  color: var(--muted);
+  margin-top: 6px;
+}
+
+/* 广告位：预留高度，避免加载时页面跳动（CLS） */
+.ad-slot {
+  margin: 32px 0;
+  min-height: 100px;
+  text-align: center;
+  overflow: hidden;
+}
+
+/* ---------- 正文链接：默认可见 ---------- */
+/* 正文里的链接必须一眼能认出来，不能只靠颜色区分（WCAG 1.4.1）。
+   UI 区域（侧边栏、目录、上下页、页尾）沿用上面克制的无下划线样式。 */
+.chapter-body a,
+.home-body a,
+.hub-list a,
+.callout a {
+  color: var(--link);
+  text-decoration: underline;
+  text-decoration-color: var(--link-underline);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+  transition: color .12s ease, text-decoration-color .12s ease;
+}
+.chapter-body a:hover,
+.home-body a:hover,
+.hub-list a:hover,
+.callout a:hover {
+  color: var(--link-hover);
+  text-decoration-color: var(--link-hover);
+  text-decoration-thickness: 2px;
+}
+
+/* 加粗链接（手册里大量 [**服务名**](…) 的写法）需要更实的下划线才配得上字重 */
+.chapter-body strong a,
+.chapter-body a strong,
+.hub-list a {
+  text-decoration-color: var(--link);
+}
+
+/* 表格里的链接是主要的行动入口，给足权重 */
+.chapter-body table a {
+  font-weight: 600;
+}
+
+/* 站外链接标记：告诉读者这一步会离开本站，与合作链接披露相互印证 */
+.chapter-body a[href^="http"]::after,
+.home-body a[href^="http"]::after {
+  content: "↗";
+  display: inline-block;
+  margin-left: 2px;
+  font-size: .78em;
+  line-height: 1;
+  vertical-align: super;
+  color: var(--muted);
+  text-decoration: none;
+}
+.chapter-body a[href^="http"]:hover::after,
+.home-body a[href^="http"]:hover::after { color: var(--link-hover); }
+/* 邮件链接不算“离开本站”，不加箭头 */
+.chapter-body a[href^="mailto"]::after { content: none; }

@@ -1,0 +1,25 @@
+# 本站使用的合作/返利链接。点击追踪（GA4）与页面顶部的披露提示都由这份清单驱动，
+# 新增或移除联盟链接时只需改这里。match 同时用于匹配正文与实际点击的 URL。
+domains:
+  - name: Monzo
+    match: "join.monzo.com"
+  - name: Revolut
+    match: "revolut.com/referral"
+  - name: PayPal
+    match: "py.pl"
+  - name: InvestEngine
+    match: "investengine.com/referral"
+  - name: giffgaff
+    match: "giffgaff.com/orders/affiliate"
+  - name: Virgin Media
+    match: "aklam.io"
+  - name: Octopus Energy
+    match: "share.octopus.energy"
+  - name: TopCashback
+    match: "topcashback.co.uk/ref"
+  - name: Tuck
+    match: "tuckapp.co"
+  - name: EverUp
+    match: "everup.onelink.me"
+  - name: 穿梭 Transocks
+    match: "transocks.com"

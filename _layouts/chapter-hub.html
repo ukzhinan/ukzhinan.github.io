@@ -1,0 +1,36 @@
+---
+layout: default
+---
+<article class="chapter">
+  <header class="chapter-header">
+    <span class="roundel roundel--num">{{ page.num }}</span>
+    <h1>{{ page.title }}</h1>
+  </header>
+
+  {% include page-meta.html %}
+
+  {% include disclosure.html %}
+
+  <div class="chapter-body">
+    {{ content }}
+  </div>
+
+  {% assign kids = site.chapters | where: "parent", page.key | sort: "weight" %}
+  {% if kids.size > 0 %}
+  <div class="hub-list">
+    <div class="toc-title">本章包含 {{ kids.size }} 个专题</div>
+    <ol>
+      {% for kid in kids %}
+      <li>
+        <a class="hub-link" href="{{ kid.url | relative_url }}">{{ kid.nav }}</a>
+        <p class="hub-desc">{{ kid.description }}</p>
+      </li>
+      {% endfor %}
+    </ol>
+  </div>
+  {% endif %}
+
+  {% include adsense.html slot=site.adsense.slot_bottom %}
+
+  {% include chapter-nav.html %}
+</article>

@@ -7,7 +7,7 @@
     <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
     <priority>1.0</priority>
   </url>
-  {% assign docs = site.chapters | sort: "order" %}
+  {% assign docs = site.chapters | sort: "weight" %}
   {% for doc in docs %}
   <url>
     <loc>{{ doc.url | absolute_url }}</loc>

@@ -3,7 +3,12 @@ layout: default
 ---
 <div class="home">
   <header class="hero">
-    <img class="hero-cover" src="{{ '/assets/images/uk_survive_book_cover.png' | relative_url }}" alt="英国生存手册封面">
+    <picture>
+      <source srcset="{{ '/assets/images/cover.webp' | relative_url }}" type="image/webp">
+      <img class="hero-cover" src="{{ '/assets/images/cover.png' | relative_url }}"
+           width="480" height="676" fetchpriority="high" decoding="async"
+           alt="英国生存手册封面">
+    </picture>
     <div class="hero-text">
       <h1 class="home-title">{{ page.title }}</h1>
       <p class="home-subtitle">{{ site.description }}</p>

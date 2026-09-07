@@ -41,7 +41,23 @@ order: 1
 - **人际关系**：与导师有效沟通、与不同文化背景的同学相处、建立职业与社交网络。
 - **心理建设**：面对挫折时如何自我调节，如何在孤独中找到支持与力量。
 
-本指南正是在这样的背景下诞生的。它并不是一篇理想化的“留学美好生活宣言”，而是一份务实、具体、以“过来人”视角撰写的实用参考。我将从**学习、生活、工作、文化适应**四大方面出发，既提供方法和资源，也分享真实的案例与应对策略。希望它能帮助你减少在摸索过程中的盲目和试错成本，让你在初来乍到的日子里有一个清晰的方向感。
+本指南正是在这样的背景下诞生的。它并不是一篇理想化的“留学美好生活宣言”，而是一份务实、具体、以“过来人”视角撰写的实用参考。我将从**生活、学业、社交文化、工作实习**等方面出发，既提供方法和资源，也分享真实的案例与应对策略。希望它能帮助你减少在摸索过程中的盲目和试错成本，让你在初来乍到的日子里有一个清晰的方向感。
+
+## 从这里开始
+
+手册按你实际会遇到的顺序编排。如果你还没出发或刚落地，建议从**生活篇**读起；如果只想解决某个具体问题，直接点进对应专题。
+
+- **[第一章 生活篇]({{ '/shenghuo/' | relative_url }})** —— 落地后要办的事：[租房]({{ '/shenghuo/zufang/' | relative_url }})、[看病与超市省钱]({{ '/shenghuo/yinshi-jiankang/' | relative_url }})、[交通]({{ '/shenghuo/jiaotong/' | relative_url }})、[银行开户]({{ '/shenghuo/yinhang-licai/' | relative_url }})、[手机与宽带]({{ '/shenghuo/shouji-wangluo/' | relative_url }})
+- **[第二章 学业篇]({{ '/xueye/' | relative_url }})** —— 学习方式的转变：[Essay 与 Report 写作]({{ '/xueye/essay-report/' | relative_url }})、[与导师沟通]({{ '/xueye/daoshi-goutong/' | relative_url }})、[考试与 Presentation]({{ '/xueye/kaoshi-presentation/' | relative_url }})
+- **[第三章 社交与文化篇]({{ '/shejiao/' | relative_url }})** —— 怎么听懂英国人、怎么交到朋友，以及必须提前知道的[诈骗套路与法律常识]({{ '/shejiao/fang-zhapian/' | relative_url }})、[心理健康求助路径]({{ '/shejiao/xinli-jiankang/' | relative_url }})
+- **[第四章 工作与实习篇]({{ '/gongzuo/' | relative_url }})** —— [签证工时与合法权益]({{ '/gongzuo/dagong-zhengce/' | relative_url }})、[怎么找兼职]({{ '/gongzuo/zhao-jianzhi/' | relative_url }})、[简历与求职信模板]({{ '/gongzuo/jianli-qiuzhixin/' | relative_url }})、[面试]({{ '/gongzuo/mianshi/' | relative_url }})
+- **[第五章 生活进阶篇]({{ '/jinjie/' | relative_url }})** —— [假期欧洲旅行]({{ '/jinjie/lvxing/' | relative_url }})、[考驾照]({{ '/jinjie/jiazhao/' | relative_url }})、[税务与退税]({{ '/jinjie/shuiwu/' | relative_url }})、[学生优惠]({{ '/jinjie/youhui-xuesheng/' | relative_url }})、[毕业后职业规划]({{ '/jinjie/zhiye-fazhan/' | relative_url }})
+- **[第六章 安全与应急篇]({{ '/anquan/' | relative_url }})** —— [紧急电话]({{ '/anquan/jinji-dianhua/' | relative_url }})、[突发情况处理步骤]({{ '/anquan/tufa-qingkuang/' | relative_url }})、[日常防范]({{ '/anquan/geren-fangfan/' | relative_url }})、[应急准备]({{ '/anquan/yingji-bao/' | relative_url }})
+
+另外两页值得单独收藏：[附录一页速查表]({{ '/fulu/' | relative_url }})（电话、网站、APP 汇总）和[优惠与返利合集]({{ '/youhui/' | relative_url }})（能省钱的渠道集中列表）。
+
+> **只有十分钟的话**，先做这三件事：[注册 GP]({{ '/shenghuo/yinshi-jiankang/' | relative_url }})、[申请 Council Tax 豁免]({{ '/jinjie/youhui-xuesheng/' | relative_url }})（住校外一年可能省几百镑）、[注册 emergencySMS]({{ '/anquan/jinji-dianhua/' | relative_url }})（发短信 register 到 999）。
+{: .callout .callout-tip}
 
 留学不是孤军奋战，而是一段需要智慧、勇气与同理心的协作旅程。愿你在英国的每一天，不仅积累知识，更积累一种面对世界的从容与自信；不仅学有所成，更活出一个更加坚韧、独立而温暖的自己。
 

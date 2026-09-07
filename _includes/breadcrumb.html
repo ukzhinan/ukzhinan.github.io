@@ -1,0 +1,10 @@
+{% assign hub = site.chapters | where: "key", page.parent | first %}
+{% if hub %}
+<nav class="breadcrumb">
+  <a href="{{ '/' | relative_url }}">首页</a>
+  <span class="sep">›</span>
+  <a href="{{ hub.url | relative_url }}">{{ hub.nav }}</a>
+  <span class="sep">›</span>
+  <span class="crumb-current">{{ page.nav }}</span>
+</nav>
+{% endif %}
