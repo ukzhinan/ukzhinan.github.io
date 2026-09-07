@@ -1,6 +1,7 @@
 ---
 layout: home
 title: "英国生存手册：为中国留学生提供全面的适应指南"
+description: "英国生存手册——为中国留学生提供从学业、生活、工作到文化适应的全面英国留学指南。"
 nav: 引言
 order: 1
 ---
@@ -10,7 +11,8 @@ order: 1
 **英国生存手册** 
 (2026年9月 / v1.2)
 
-作者：Steven在英国 | 小红书: [@Steven英伦科技说](https://www.xiaohongshu.com/user/profile/5f8aebe4000000000101f6f4)  
+作者：Steven在英国  
+小红书: [@Steven英伦科技说](https://www.xiaohongshu.com/user/profile/5f8aebe4000000000101f6f4)  
 邮箱：[xdaiuk@gmail.com](mailto:xdaiuk@gmail.com)
 
 > **声明**：本指南中的部分推荐链接为作者的合作/返利链接，这些收益将用于支付网站成本，同时帮助我保持这本手册免费；文中涉及的政策与价格（最低工资、签证工作时长、票价、税率等）会随时间调整，请以英国政府官方（gov.uk）等权威来源的最新信息为准。

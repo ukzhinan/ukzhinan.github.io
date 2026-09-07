@@ -115,7 +115,11 @@ toc:
 | **Waitrose / M&S** | 高档        | 有机、优质肉类     | 只买打折或自有品牌                 |
 | **Too Good To Go** | 食物浪费拯救App | 低价“惊喜包”     | 每单£3-5可得原价£15以上食物         |
 
-这里要良心推荐一个我用了一年的万能省钱app，[Tuck](https://www.tuckapp.co/)，这个软件几乎支持所有的购物平台。每一单都能有3%-15%不等的cashback。在iOS/Android市场下搜索并下载，并且用我的推荐码：**STEVE47**，可以获得新手礼包。
+在英国购物省钱，除了超市会员卡，**返现（Cashback）平台**也是我离不开的工具——通过返现链接下单，每一单都能拿回一定比例的现金。以下三个是我用过并推荐的：
+
+- [**TopCashback**](https://www.topcashback.co.uk/ref/automaticdai/?source=App-iOS-TAFPage)：英国最大的返现平台，覆盖几千家零售商（Amazon、Boots、ASOS 等），免费注册，返现比例通常较高。
+- [**Tuck**](https://www.tuckapp.co/app?referralCode=STEVE47)：万能返现 App，几乎支持所有购物平台，每单返现 3%–15%；用推荐码 **STEVE47** 可获得新手礼包。
+- [**EverUp**](https://everup.onelink.me/9lgD/i93ma2rt)：返现 + 储蓄结合的 App，购物返现的同时还能享受储蓄利率与抽奖机会。
 
 另外值得一提的是，在英国Amazon是不可或缺的生活购物网站，同时它也在很多城市开展了超市送货业务，学生身份的话可以注册 [Amazon Prime Student](http://www.amazon.co.uk/joinstudent?tag=xdaiuk-21)，享受前6个月免费，之后也可以半价使用（£4.49/month）。
 
@@ -145,7 +149,7 @@ toc:
 **实用APP推荐**
 
 - **Too Good To Go**（廉价获取临期食品）
-- **Tuck**（购物Cashback）
+- **TopCashback / Tuck / EverUp**（购物返现）
 - **Hungry Panda / 饭团外卖**（中餐外卖平台）
 - **Tesco / Sainsbury’s / Aldi 官方App**（会员优惠、电子积分卡）
 - **Yuka**（扫描食品条码查看健康评分）
