@@ -19,14 +19,14 @@ layout: default
   {% if kids.size > 0 %}
   <div class="hub-list">
     <div class="toc-title">本章包含 {{ kids.size }} 个专题</div>
-    <ol>
+    <ul>
       {% for kid in kids %}
       <li>
         <a class="hub-link" href="{{ kid.url | relative_url }}">{{ kid.nav }}</a>
         <p class="hub-desc">{{ kid.description }}</p>
       </li>
       {% endfor %}
-    </ol>
+    </ul>
   </div>
   {% endif %}
 

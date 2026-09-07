@@ -1,5 +1,5 @@
 {% comment %} Prev/next across the flattened reading order (chapters + their sections). {% endcomment %}
-{% assign allpages = site.chapters | sort: "weight" %}
+{% assign allpages = site.chapters | where_exp: "d", "d.sidebar != false" | sort: "weight" %}
 {% assign prev = nil %}
 {% assign next = nil %}
 {% assign seen = false %}

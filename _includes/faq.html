@@ -1,0 +1,40 @@
+{% comment %}
+  从 frontmatter 的 faq: 列表渲染常见问题，并输出 FAQPage 结构化数据。
+  用法（任意专题页都可加）：
+
+    faq:
+      - q: "问题"
+        a: "答案，支持 Markdown。"
+
+  答案走 markdownify，所以可以写链接和加粗；JSON-LD 里再 strip_html 成纯文本。
+  <details> 默认折叠，但内容在 DOM 里，搜索引擎与站内 Ctrl+F 都能取到。
+{% endcomment %}
+{% if page.faq and page.faq.size > 0 %}
+<section class="faq">
+  <h2 id="faq">常见问题</h2>
+  {% for item in page.faq %}
+  <details class="faq-item">
+    <summary>{{ item.q }}</summary>
+    <div class="faq-a">{{ item.a | markdownify }}</div>
+  </details>
+  {% endfor %}
+</section>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": {{ page.url | absolute_url | append: '#faq' | jsonify }},
+  "inLanguage": "zh-CN",
+  "mainEntity": [{% for item in page.faq %}
+    {
+      "@type": "Question",
+      "name": {{ item.q | jsonify }},
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": {{ item.a | markdownify | strip_html | normalize_whitespace | strip | jsonify }}
+      }
+    }{% unless forloop.last %},{% endunless %}{% endfor %}
+  ]
+}
+</script>
+{% endif %}

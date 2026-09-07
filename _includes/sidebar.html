@@ -1,8 +1,20 @@
 {% assign docs = site.chapters | sort: "weight" %}
-{% assign tops = docs | where_exp: "d", "d.parent == nil" %}
+{% comment %} sidebar: false 的页面（如隐私政策）不进侧边栏，只从页脚与「关于」页进入 {% endcomment %}
+{% assign tops = docs | where_exp: "d", "d.parent == nil and d.sidebar != false" %}
 <nav class="sidebar">
   <div class="sidebar-brand">
-    <span class="roundel">UK</span>
+    <span class="roundel roundel--flag" aria-hidden="true">
+      <svg viewBox="0 0 64 64" focusable="false">
+        <clipPath id="brand-cc">
+          <path d="M32,32 h32 v32 z v32 h-32 z h-32 v-32 z v-32 h32 z"/>
+        </clipPath>
+        <rect width="64" height="64" fill="#012169"/>
+        <path d="M0,0 L64,64 M64,0 L0,64" stroke="#ffffff" stroke-width="13"/>
+        <path d="M0,0 L64,64 M64,0 L0,64" clip-path="url(#brand-cc)" stroke="#C8102E" stroke-width="8"/>
+        <path d="M32,0 V64 M0,32 H64" stroke="#ffffff" stroke-width="21"/>
+        <path d="M32,0 V64 M0,32 H64" stroke="#C8102E" stroke-width="13"/>
+      </svg>
+    </span>
     <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
   </div>
   <ul class="sidebar-nav">
