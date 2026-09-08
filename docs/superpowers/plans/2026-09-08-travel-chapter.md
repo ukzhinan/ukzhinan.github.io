@@ -218,7 +218,7 @@ grep -rnE 'num: "7\.[1-4]"' _chapters/anquan
 
 ```bash
 cd /home/yfrl/uk-handbook
-ruby -ryaml -e '
+ruby -ryaml -rdate -e '
   Dir.glob("_chapters/**/*.md").map { |f|
     d = YAML.safe_load(File.read(f).split("---",3)[1], permitted_classes: [Date, Time]) rescue nil
     [d && d["weight"] || 9999, d && d["nav"]]
@@ -1073,7 +1073,7 @@ bundle exec jekyll build --trace 2>&1 | tail -5
 find _site -name index.html | wc -l
 
 # 侧边栏与上下页的顺序
-ruby -ryaml -e '
+ruby -ryaml -rdate -e '
   Dir.glob("_chapters/**/*.md").map { |f|
     d = YAML.safe_load(File.read(f).split("---",3)[1], permitted_classes: [Date, Time]) rescue nil
     [d && d["weight"] || 9999, d && d["nav"]]
