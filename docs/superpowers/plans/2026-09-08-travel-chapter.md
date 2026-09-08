@@ -1083,7 +1083,8 @@ ruby -ryaml -rdate -e '
 # 没有残留的旧链接与旧编号
 grep -rn 'jinjie/lvxing' --include=*.md _chapters index.md README.md   # 应无输出
 grep -rn '第六章 安全' --include=*.md _chapters index.md README.md      # 应无输出
-grep -rnE 'num: "5\.6"|num: "6\.[1-4]"' _chapters                       # 应无输出
+grep -rn 'num: "5\.6"' _chapters                                        # 应无输出
+grep -rn 'num: "6\.' _chapters/anquan                                    # 应无输出（6.x 已让给旅游篇）
 
 # 章数与专题数
 grep -c 'hub-link' _site/lvxing/index.html    # 5
