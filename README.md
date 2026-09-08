@@ -79,8 +79,11 @@ bundle exec jekyll build
 | 每年 3 月 | 伦敦公交单程价、Hopper、日封顶 | `shenghuo/jiaotong` | [TfL](https://tfl.gov.uk/fares/find-fares/bus-and-tram-fares) |
 | 每年一次 | Railcard / Coachcard 年费 | `shenghuo/jiaotong`、`jinjie/youhui-xuesheng`、`youhui` | [railcard.co.uk](https://www.railcard.co.uk/)、[National Express](https://www.nationalexpress.com/en/offers/coachcards) |
 | 不定期 | 签证工时、驾照工本费 | `gongzuo/dagong-zhengce`、`jinjie/jiazhao` | gov.uk |
+| 每年一次；俄罗斯免签试行 2026-09-14 到期，是全站最先该核的一条 | 免签与易签国家清单、快照日期 | `lvxing/mianqian` | [外交部《中外互免签证协定一览表》](https://cs.mfa.gov.cn/gyls/lsgz/fwxx/)、IATA Travel Centre |
 
 手机套餐、Prime Student、返现金额这类商业价格变动太频繁，页面上只写量级并注明「以官网为准」，不逐条追。
+
+**签证政策变动不预告，且过期信息会让读者在登机口被拦——所以 `lvxing/mianqian` 的三张表各自带快照日期，与 frontmatter 的 `updated` 分开，改错别字时不要顺手刷新快照日期。**
 
 ## 说明与免责声明
 
