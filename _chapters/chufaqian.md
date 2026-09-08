@@ -118,11 +118,12 @@ faq:
 
 <h2 id="sec-6">落地采购：别从国内背、在 Amazon 一次买齐</h2>
 
-上一节「别带的」清单里的东西——电饭煲、厨具、床品——落地后在 Amazon 一起买，比从国内背过来省事得多。下面这几件是留学生圈里口碑稳、买的人最多的，落地第一周就能陆续用上：
+上一节「别带的」清单里的东西——电饭煲、厨具、床品——落地后在 Amazon 一起买，比从国内背过来省事得多。下面这几件是留学生圈里口碑稳、买的人最多的，落地后基本都会用到：
 
 - **多口充电器**：[Anker 6 口 USB-C 充电站](https://www.amazon.co.uk/dp/B0CNSHPMW4?tag=xdaiuk05-21)（114W）——手机、平板、电脑一个插头全搞定，桌面和床头各放一个，不用一堆充电头抢插座。
+- **滤水壶**：[BRITA 滤水壶](https://www.amazon.co.uk/dp/B0FC6T7FJD?tag=xdaiuk05-21)——英国水质偏硬，烧水壶和锅底易结水垢，合租和宿舍的标配（详见 [1.2 饮食与健康]({{ '/shenghuo/yinshi-jiankang/' | relative_url }})）。
 - **空气炸锅**：[Philips 空气炸锅 6.2L](https://www.amazon.co.uk/dp/B0CWP7WXB6?tag=xdaiuk05-21)——不会做饭也能吃好，几乎不用油、不用看火，留学生圈人手一个。
-- **加湿器**：[Levoit 加湿器](https://www.amazon.co.uk/dp/B0D72N7642?tag=xdaiuk05-21)（25dB 静音、上加水）——冬天暖气房干燥，皮肤和睡眠都会舒服很多。
 - **打印机**：[HP Envy 6120e 一体机](https://www.amazon.co.uk/dp/B0DC6PFYW1?tag=xdaiuk05-21)——打印、扫描、复印三合一，还送 3 个月 Instant Ink；作业和阅读材料打印出来更顺手。
-
-厨房类的滤水壶、锅具见 [1.2 饮食与健康]({{ '/shenghuo/yinshi-jiankang/' | relative_url }})，维生素 D 见 [3.4 心理健康]({{ '/shejiao/xinli-jiankang/' | relative_url }})，夜间安全用的[个人警报器]({{ '/anquan/geren-fangfan/' | relative_url }}) 见第六章。
+- **加湿器**：[Levoit 加湿器](https://www.amazon.co.uk/dp/B0D72N7642?tag=xdaiuk05-21)（25dB 静音、上加水）——冬天暖气房干燥，皮肤和睡眠都会舒服很多。
+- **维生素 D**：[H&B 维生素 D](https://www.amazon.co.uk/dp/B0B3JMN3KN?tag=xdaiuk05-21)——英国冬天日照极短，补充维生素 D 很常见（详见 [3.4 心理健康]({{ '/shejiao/xinli-jiankang/' | relative_url }})）。
+- **个人警报器**：[TECKNET 个人安全警报器](https://www.amazon.co.uk/dp/B0DMSHL85J?tag=xdaiuk05-21)（可充电、一拉即响）——夜间独行多一层保障（详见 [6.3 个人防范]({{ '/anquan/geren-fangfan/' | relative_url }})）。
