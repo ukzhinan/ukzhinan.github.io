@@ -1,6 +1,6 @@
 # 英国生存手册
 
-一份面向中国留学生的英国适应指南，覆盖**生活、学业、社交文化、工作实习、生活进阶、安全应急**六大方面，外加**行前准备**，共 6 章 + 行前准备 + 附录速查表。
+一份面向中国留学生的英国适应指南，覆盖**生活、学业、社交文化、工作实习、生活进阶、旅游、安全应急**七大方面，外加**行前准备**，共 7 章 + 行前准备 + 附录速查表。
 
 - **作者**：Steven在英国（邮箱 [xdaiuk@gmail.com](mailto:xdaiuk@gmail.com)）
 - **版本**：2026年9月 / v1.3
@@ -17,8 +17,9 @@
 | 第二章 学业篇 | `/xueye/` | 6（高等教育特点、听课笔记、Essay 写作、导师沟通、考试与 Presentation、毕业论文） |
 | 第三章 社交与文化篇 | `/shejiao/` | 4（跨文化交流、拓展社交圈、防诈骗与法律、心理健康） |
 | 第四章 工作与实习篇 | `/gongzuo/` | 7（打工政策、兼职类型、找工作、简历求职信、面试、职场礼仪、实习与 Placement） |
-| 第五章 生活进阶篇 | `/jinjie/` | 6（国际旅行、驾照、税务、学生优惠、职业发展、回国发展） |
-| 第六章 安全与应急篇 | `/anquan/` | 4（紧急电话、突发情况、个人防范、应急包） |
+| 第五章 生活进阶篇 | `/jinjie/` | 5（驾照、税务、学生优惠、职业发展、回国发展） |
+| 第六章 旅游篇 | `/lvxing/` | 5（出行规划与签证总览、申根签证、免签与易签国家、廉航与订票、英国境内旅行） |
+| 第七章 安全与应急篇 | `/anquan/` | 4（紧急电话、突发情况、个人防范、应急包） |
 | 结语 | `/jieyu/` | — |
 | 附录1. 速查表 | `/fulu/` | 紧急电话、关键数字、落地 30 天清单、有时限的事项 |
 | 附录2. 优惠与返利 | `/youhui/` | 合作链接集中页 |
@@ -78,8 +79,11 @@ bundle exec jekyll build
 | 每年 3 月 | 伦敦公交单程价、Hopper、日封顶 | `shenghuo/jiaotong` | [TfL](https://tfl.gov.uk/fares/find-fares/bus-and-tram-fares) |
 | 每年一次 | Railcard / Coachcard 年费 | `shenghuo/jiaotong`、`jinjie/youhui-xuesheng`、`youhui` | [railcard.co.uk](https://www.railcard.co.uk/)、[National Express](https://www.nationalexpress.com/en/offers/coachcards) |
 | 不定期 | 签证工时、驾照工本费 | `gongzuo/dagong-zhengce`、`jinjie/jiazhao` | gov.uk |
+| 每年一次；俄罗斯免签试行 2026-09-14 到期，是全站最先该核的一条 | 免签与易签国家清单、快照日期 | `lvxing/mianqian` | [外交部《中外互免签证协定一览表》](https://cs.mfa.gov.cn/gyls/lsgz/fwxx/)、IATA Travel Centre |
 
 手机套餐、Prime Student、返现金额这类商业价格变动太频繁，页面上只写量级并注明「以官网为准」，不逐条追。
+
+**签证政策变动不预告，且过期信息会让读者在登机口被拦——所以 `lvxing/mianqian` 的三张表各自带快照日期，与 frontmatter 的 `updated` 分开，改错别字时不要顺手刷新快照日期。**
 
 ## 说明与免责声明
 

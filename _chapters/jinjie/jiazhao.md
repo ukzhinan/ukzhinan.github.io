@@ -2,11 +2,11 @@
 layout: section
 title: "英国驾照怎么考：中国驾照能开多久、考试流程与新手保险"
 description: "持中国驾照在英国可驾驶 12 个月，之后必须换英国驾照。本节讲完整考照流程——临时驾照、理论考试与 Hazard Perception、路考预约排队，以及新手车险为什么贵和怎么降。"
-nav: "5.2 在英国申请驾照"
+nav: "5.1 在英国申请驾照"
 parent: jinjie
-weight: 602
+weight: 601
 updated: 2026-09-07
-num: "5.2"
+num: "5.1"
 toc:
   - title: "先搞清楚：你现在能不能开车"
     anchor: "sec-3"

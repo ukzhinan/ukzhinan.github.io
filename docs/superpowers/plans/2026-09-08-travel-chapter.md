@@ -80,6 +80,7 @@ test "$(find _site -name index.html | wc -l)" -ge 40 && echo "page count OK"
 
 - 申根短期签证费 **€90**（成人）、**€45**（6–11 岁）、6 岁以下免，**自 2024-06-11 起**。Visa Code 规定每三年复核，下次在 2027 年。（欧盟委员会 Migration and Home Affairs）
 - 网上大量「2026 年 6 月起涨到 €90」的说法是二手错误，**不要采信**。
+- **塞浦路斯**：不在申根区，赴塞需单独办理。持**双次或多次入境**的有效申根签证、或申根成员国签发的居留许可者可免签入境；**英国签证与英国居留不算**（脱欧后不在此列）。
 - 申根区 **29 个成员国**。保加利亚、罗马尼亚已于 **2025-01-01** 全面加入；**塞浦路斯不在申根区**。
 - **EES 自 2026-04-10 起在所有申根区外部边界全面运行**，取代护照盖章，登记姓名、证件信息与生物识别数据（指纹 + 面部图像），自动记录出入境时间并自动计算停留天数。首次入境耗时明显变长。
 - **ETIAS 仍未启动且已延期**：欧盟在 2026 年 7 月从官网撤下 Q4 2026 的目标，现在指向 2027 年，具体日期未定。ETIAS 面向**免签国**公民，中国护照持有人赴申根区仍需申根签证，两者不重叠。**旧页写的「预计 2026 年第四季度启动」必须更正。**
@@ -94,6 +95,8 @@ test "$(find _site -name index.html | wc -l)" -ge 40 && echo "page count OK"
 美洲：巴巴多斯（2017-06-01）、巴哈马（2014-02-12）、多米尼克（2022-09-19）、格林纳达（2015-06-10）、安提瓜和巴布达（2024-05-11）、苏里南（2021-05-01）。
 非洲：塞舌尔（2013-06-26）、毛里求斯（2013-10-31）。
 大洋洲：斐济（2015-03-14）、汤加（2016-08-19）、萨摩亚（2025-04-02）、所罗门群岛（2024-12-28）。
+- **原表自身的更新日期**：抄录时，外交部《中外互免签证协定一览表》页面标注的最近更新日期为 **2026-05-29**。不同使领馆的转载镜像标注的日期可能更早（有镜像标 2026-02-25），以外交部主站页面为准。读者需要知道的是**原表本身有多新**，不只是我们哪天抄的——两个日期都要写在表头。
+
 （外交部《中外互免签证协定一览表》。**只收录「适用护照种类」明确含「普通护照」的条目**——仅覆盖外交/公务护照的协定不进表，这是二手清单最常见的错误来源。厄瓜多尔在表内但标注「目前暂停执行」，**不要收录**。）
 
 **这份清单是核实过的摘录，不保证穷尽原表。** 页面上必须写明这一点并给出原表链接，让读者能自己去查本表没收的国家——不要把它写成「全部免签国家」。同理，本次核查中拿不到可靠来源的条目（例如圣马力诺）一律不写，宁缺勿错。
@@ -218,7 +221,7 @@ grep -rnE 'num: "7\.[1-4]"' _chapters/anquan
 
 ```bash
 cd /home/yfrl/uk-handbook
-ruby -ryaml -e '
+ruby -ryaml -rdate -e '
   Dir.glob("_chapters/**/*.md").map { |f|
     d = YAML.safe_load(File.read(f).split("---",3)[1], permitted_classes: [Date, Time]) rescue nil
     [d && d["weight"] || 9999, d && d["nav"]]
@@ -1073,7 +1076,7 @@ bundle exec jekyll build --trace 2>&1 | tail -5
 find _site -name index.html | wc -l
 
 # 侧边栏与上下页的顺序
-ruby -ryaml -e '
+ruby -ryaml -rdate -e '
   Dir.glob("_chapters/**/*.md").map { |f|
     d = YAML.safe_load(File.read(f).split("---",3)[1], permitted_classes: [Date, Time]) rescue nil
     [d && d["weight"] || 9999, d && d["nav"]]
@@ -1083,7 +1086,8 @@ ruby -ryaml -e '
 # 没有残留的旧链接与旧编号
 grep -rn 'jinjie/lvxing' --include=*.md _chapters index.md README.md   # 应无输出
 grep -rn '第六章 安全' --include=*.md _chapters index.md README.md      # 应无输出
-grep -rnE 'num: "5\.6"|num: "6\.[1-4]"' _chapters                       # 应无输出
+grep -rn 'num: "5\.6"' _chapters                                        # 应无输出
+grep -rn 'num: "6\.' _chapters/anquan                                    # 应无输出（6.x 已让给旅游篇）
 
 # 章数与专题数
 grep -c 'hub-link' _site/lvxing/index.html    # 5

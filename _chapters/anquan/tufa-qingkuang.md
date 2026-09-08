@@ -2,11 +2,11 @@
 layout: section
 title: "在英国遇到突发情况怎么办：盗窃、护照丢失、eVisa、被锁门外与警方问话"
 description: "英国留学十种突发情况的处理步骤：遭遇盗窃抢劫、eVisa 与 UKVI 账户（BRP 卡已停用）、护照丢失补办、医疗紧急、遭遇诈骗、手机银行卡丢失、被锁在门外、火警，以及被警方问话时的口译与律师权利。"
-nav: "6.2 常见突发情况与处理步骤"
+nav: "7.2 常见突发情况与处理步骤"
 parent: anquan
-weight: 702
+weight: 802
 updated: 2026-09-07
-num: "6.2"
+num: "7.2"
 toc:
   - title: "① 遭遇盗窃/抢劫"
     anchor: "sec-1"

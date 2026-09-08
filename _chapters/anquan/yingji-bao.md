@@ -2,11 +2,11 @@
 layout: section
 title: "英国留学应急准备：随身、宿舍、云端三层清单"
 description: "英国留学应急准备按随身、宿舍、云端分三层：现金与备用卡、急救包与手电、护照与 eVisa 等关键文件的云端备份，以及停电拨 105、暖气故障、冬季水管冻裂等英国特有突发情况和每学期的检查清单。"
-nav: "6.4 建立个人应急包"
+nav: "7.4 建立个人应急包"
 parent: anquan
-weight: 704
+weight: 804
 updated: 2026-09-07
-num: "6.4"
+num: "7.4"
 toc:
   - title: "分三层准备：随身、宿舍、云端"
     anchor: "sec-1"
@@ -71,7 +71,7 @@ faq:
 把这些扫描或截图后存到云盘，并**另存一份在离线设备上**：
 
 - 护照信息页；
-- **eVisa / UKVI 账户的登录信息与 share code 生成方式**（BRP 卡已停用，见 [6.2 常见突发情况与处理步骤]({{ '/anquan/tufa-qingkuang/' | relative_url }})）；
+- **eVisa / UKVI 账户的登录信息与 share code 生成方式**（BRP 卡已停用，见 [7.2 常见突发情况与处理步骤]({{ '/anquan/tufa-qingkuang/' | relative_url }})）；
 - CAS、录取通知、在读证明；
 - NHS number 与注册的 GP 诊所信息；
 - 租房合同、押金保护（DPS）凭证；
