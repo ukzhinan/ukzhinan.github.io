@@ -204,7 +204,7 @@ faq:
 
 **Inventory / check-in report（物品与状况清单）** —— 入住时房东或中介会给一份记录房屋现状的清单。这是退租时判断"哪些损坏该扣你钱"的核心依据。务必：入住当天自己再拍一遍全屋照片和视频（带时间戳），把清单上没写到的既有损坏补充进去并要求对方确认。这一步花二十分钟，退租时可能省下几百镑。
 
-**账单与 Council Tax** —— 确认是否 bills included，以及封顶额度。如果不含，入住后要自己开通水、电、网络：电力推荐[小章鱼 Octopus](https://share.octopus.energy/peach-snake-892)，价格与服务都在第一梯队；宽带可以看看 [Virgin Media](https://aklam.io/gmY1NK) 的高速套餐；水按当地供应商办理即可。全日制学生可以申请 **Council Tax 豁免**，但**必须主动申请**，不办会照常收到账单（详见 [5.4 最大化利用学生身份优惠]({{ '/jinjie/youhui-xuesheng/' | relative_url }})）。
+**账单与 Council Tax** —— 确认是否 bills included，以及封顶额度。如果不含，入住后要自己开通水、电、网络：电力推荐[小章鱼 Octopus](https://share.octopus.energy/peach-snake-892)，价格与服务都在第一梯队；宽带可以看看 [Virgin Media](https://aklam.io/gmY1NK) 的高速套餐；水按当地供应商办理即可。全日制学生可以申请 **Council Tax 豁免**，但**必须主动申请**，不办会照常收到账单（详见 [5.3 最大化利用学生身份优惠]({{ '/jinjie/youhui-xuesheng/' | relative_url }})）。
 
 
 <h2 id="sec-5">押金：怎么保护、怎么要回</h2>

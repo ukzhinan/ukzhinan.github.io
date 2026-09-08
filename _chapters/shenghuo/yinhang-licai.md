@@ -216,4 +216,4 @@ faq:
 - [**PayPal**](https://py.pl/12COrO)：电子支付
 - **ClearScore / Credit Karma / Experian**：信用评分查询
 - **Emma**：多账户聚合与预算管理
-- [**InvestEngine**](https://investengine.com/referral/u/gtnweo/)：低费率 ETF 投资与 ISA 免税账户（先建立应急储蓄再考虑投资，详见 [5.3 税务与退税]({{ '/jinjie/shuiwu/' | relative_url }})）
+- [**InvestEngine**](https://investengine.com/referral/u/gtnweo/)：低费率 ETF 投资与 ISA 免税账户（先建立应急储蓄再考虑投资，详见 [5.2 税务与退税]({{ '/jinjie/shuiwu/' | relative_url }})）
