@@ -58,7 +58,7 @@ Steven
 - **[第三章 社交与文化篇]({{ '/shejiao/' | relative_url }})** —— 怎么听懂英国人、怎么交到朋友，以及必须提前知道的[诈骗套路与法律常识]({{ '/shejiao/fang-zhapian/' | relative_url }})、[心理健康求助路径]({{ '/shejiao/xinli-jiankang/' | relative_url }})
 - **[第四章 工作与实习篇]({{ '/gongzuo/' | relative_url }})** —— [签证工时与合法权益]({{ '/gongzuo/dagong-zhengce/' | relative_url }})、[怎么找兼职]({{ '/gongzuo/zhao-jianzhi/' | relative_url }})、[简历与求职信模板]({{ '/gongzuo/jianli-qiuzhixin/' | relative_url }})、[面试]({{ '/gongzuo/mianshi/' | relative_url }})、[实习与 Placement]({{ '/gongzuo/shixi/' | relative_url }})
 - **[第五章 生活进阶篇]({{ '/jinjie/' | relative_url }})** —— [假期欧洲旅行]({{ '/jinjie/lvxing/' | relative_url }})、[考驾照]({{ '/jinjie/jiazhao/' | relative_url }})、[税务与退税]({{ '/jinjie/shuiwu/' | relative_url }})、[学生优惠]({{ '/jinjie/youhui-xuesheng/' | relative_url }})、[毕业后职业规划]({{ '/jinjie/zhiye-fazhan/' | relative_url }})、[回国发展]({{ '/jinjie/huiguo/' | relative_url }})
-- **[第六章 安全与应急篇]({{ '/anquan/' | relative_url }})** —— [紧急电话]({{ '/anquan/jinji-dianhua/' | relative_url }})、[突发情况处理步骤]({{ '/anquan/tufa-qingkuang/' | relative_url }})、[日常防范]({{ '/anquan/geren-fangfan/' | relative_url }})、[应急准备]({{ '/anquan/yingji-bao/' | relative_url }})
+- **[第七章 安全与应急篇]({{ '/anquan/' | relative_url }})** —— [紧急电话]({{ '/anquan/jinji-dianhua/' | relative_url }})、[突发情况处理步骤]({{ '/anquan/tufa-qingkuang/' | relative_url }})、[日常防范]({{ '/anquan/geren-fangfan/' | relative_url }})、[应急准备]({{ '/anquan/yingji-bao/' | relative_url }})
 
 另外两页值得单独收藏：[**附录1. 速查表**]({{ '/fulu/' | relative_url }})——紧急电话、2026/27 年度的关键数字（最低工资、免税额、押金上限、处方费）、落地 30 天待办清单，以及有时限的几件事，一页看完；[**附录2. 优惠与返利**]({{ '/youhui/' | relative_url }})——能省钱的渠道集中列表。
 

@@ -44,7 +44,7 @@ toc:
 | **领事保护** | **+86-10-12308** | 中国外交部 24 小时热线；驻英使领馆值班号以官网为准 |
 | **学校保安** | 校方提供 | 开学第一周就存进手机 |
 
-详见 [6.1 紧急联系电话与资源]({{ '/anquan/jinji-dianhua/' | relative_url }})、[3.3 防诈骗与法律常识]({{ '/shejiao/fang-zhapian/' | relative_url }})。
+详见 [7.1 紧急联系电话与资源]({{ '/anquan/jinji-dianhua/' | relative_url }})、[3.3 防诈骗与法律常识]({{ '/shejiao/fang-zhapian/' | relative_url }})。
 
 <h2 id="sec-2">关键数字（2026/27）</h2>
 
