@@ -1,6 +1,6 @@
 # 英国生存手册
 
-一份面向中国留学生的英国适应指南，覆盖**生活、学业、社交文化、工作实习、生活进阶、旅游、安全应急**七大方面，外加**行前准备**，共 7 章 + 行前准备 + 附录速查表。
+一份面向中国留学生的英国适应指南，覆盖**生活、学业、社交文化、工作实习、生活进阶、旅游、安全应急**七大方面，外加**行前准备**，共 7 章 + 行前准备 + 三个附录。
 
 - **作者**：Steven在英国（邮箱 [xdaiuk@gmail.com](mailto:xdaiuk@gmail.com)）
 - **版本**：2026年9月 / v1.3
@@ -23,6 +23,7 @@
 | 结语 | `/jieyu/` | — |
 | 附录1. 速查表 | `/fulu/` | 紧急电话、关键数字、落地 30 天清单、有时限的事项 |
 | 附录2. 优惠与返利 | `/youhui/` | 合作链接集中页 |
+| 附录3. 常用英语 | `/yingyu/` | 中英文对照表（178 条，口语说法与正式表达） |
 | 关于 / 隐私政策 | `/about/`、`/privacy/` | — |
 
 ## 网站
@@ -63,7 +64,7 @@ bundle exec jekyll build
 ### 结构
 
 - `index.md` — 首页（封面 + 引言）
-- `_chapters/` — 行前准备 + 六个章节 + 结语 + 附录（按 `weight` 排序）
+- `_chapters/` — 行前准备 + 七个章节 + 结语 + 三个附录（按 `weight` 排序）
 - `_layouts/`、`_includes/` — Jekyll 模板
 - `assets/css/main.scss` — 样式
 - `assets/images/` — 图片素材
@@ -78,7 +79,7 @@ bundle exec jekyll build
 | 每年 4 月 | 个人免税额、ISA 额度、税务年度标注 | `jinjie/shuiwu`、`fulu` | [gov.uk](https://www.gov.uk/income-tax-rates) |
 | 每年 3 月 | 伦敦公交单程价、Hopper、日封顶 | `shenghuo/jiaotong` | [TfL](https://tfl.gov.uk/fares/find-fares/bus-and-tram-fares) |
 | 每年一次 | Railcard / Coachcard 年费 | `shenghuo/jiaotong`、`jinjie/youhui-xuesheng`、`youhui` | [railcard.co.uk](https://www.railcard.co.uk/)、[National Express](https://www.nationalexpress.com/en/offers/coachcards) |
-| 不定期 | 签证工时、驾照工本费 | `gongzuo/dagong-zhengce`、`jinjie/jiazhao` | gov.uk |
+| 不定期 | 签证工时、驾照工本费 | `gongzuo/dagong-zhengce`、`jinjie/jiazhao`、`yingyu`（「打工时间限制」一条） | gov.uk |
 | 每年一次；俄罗斯免签试行 2026-09-14 到期，是全站最先该核的一条 | 免签与易签国家清单、快照日期 | `lvxing/mianqian` | [外交部《中外互免签证协定一览表》](https://cs.mfa.gov.cn/gyls/lsgz/fwxx/)、IATA Travel Centre |
 
 手机套餐、Prime Student、返现金额这类商业价格变动太频繁，页面上只写量级并注明「以官网为准」，不逐条追。

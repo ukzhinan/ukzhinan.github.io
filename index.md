@@ -61,7 +61,7 @@ Steven
 - **[第六章 旅游篇]({{ '/lvxing/' | relative_url }})** —— [出行规划与签证总览]({{ '/lvxing/guihua/' | relative_url }})、[申根签证全流程]({{ '/lvxing/shengen/' | relative_url }})、[免签与易签国家清单]({{ '/lvxing/mianqian/' | relative_url }})、[廉航与订票]({{ '/lvxing/dingpiao/' | relative_url }})、[英国境内旅行]({{ '/lvxing/jingnei/' | relative_url }})
 - **[第七章 安全与应急篇]({{ '/anquan/' | relative_url }})** —— [紧急电话]({{ '/anquan/jinji-dianhua/' | relative_url }})、[突发情况处理步骤]({{ '/anquan/tufa-qingkuang/' | relative_url }})、[日常防范]({{ '/anquan/geren-fangfan/' | relative_url }})、[应急准备]({{ '/anquan/yingji-bao/' | relative_url }})
 
-另外两页值得单独收藏：[**附录1. 速查表**]({{ '/fulu/' | relative_url }})——紧急电话、2026/27 年度的关键数字（最低工资、免税额、押金上限、处方费）、落地 30 天待办清单，以及有时限的几件事，一页看完；[**附录2. 优惠与返利**]({{ '/youhui/' | relative_url }})——能省钱的渠道集中列表。
+另外三页值得单独收藏：[**附录1. 速查表**]({{ '/fulu/' | relative_url }})——紧急电话、2026/27 年度的关键数字（最低工资、免税额、押金上限、处方费）、落地 30 天待办清单，以及有时限的几件事，一页看完；[**附录2. 优惠与返利**]({{ '/youhui/' | relative_url }})——能省钱的渠道集中列表；[**附录3. 常用英语**]({{ '/yingyu/' | relative_url }})——178 个高频词的口语说法与正式书面表达对照，写邮件、交作业、办事时查。
 
 每个专题页末尾都有**常见问题**，收录的是那些「不知道就会吃亏」的问题：房东要求预付一整年能不能拒绝、志愿服务算不算签证工时、注册 GP 到底要不要证件、查重多少才算安全。
 
