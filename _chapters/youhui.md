@@ -4,7 +4,7 @@ title: "英国留学生优惠、返利与推荐码合集"
 description: "英国留学生能用的优惠与返利渠道合集：数字银行与支付、手机套餐与宽带、电费、购物返现平台与推荐码、学生折扣与 Railcard，一页集中列出并说明适合谁用。"
 nav: "附录2. 优惠与返利"
 permalink: /youhui/
-order: 10
+order: 12
 weight: 950
 updated: 2026-09-07
 ads: false
