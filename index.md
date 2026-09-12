@@ -60,6 +60,7 @@ Steven
 - **[第五章 生活进阶篇]({{ '/jinjie/' | relative_url }})** —— [考驾照]({{ '/jinjie/jiazhao/' | relative_url }})、[税务与退税]({{ '/jinjie/shuiwu/' | relative_url }})、[学生优惠]({{ '/jinjie/youhui-xuesheng/' | relative_url }})、[毕业后职业规划]({{ '/jinjie/zhiye-fazhan/' | relative_url }})、[回国发展]({{ '/jinjie/huiguo/' | relative_url }})
 - **[第六章 旅游篇]({{ '/lvxing/' | relative_url }})** —— [出行规划与签证总览]({{ '/lvxing/guihua/' | relative_url }})、[申根签证全流程]({{ '/lvxing/shengen/' | relative_url }})、[免签与易签国家清单]({{ '/lvxing/mianqian/' | relative_url }})、[廉航与订票]({{ '/lvxing/dingpiao/' | relative_url }})、[英国境内旅行]({{ '/lvxing/jingnei/' | relative_url }})
 - **[第七章 安全与应急篇]({{ '/anquan/' | relative_url }})** —— [紧急电话]({{ '/anquan/jinji-dianhua/' | relative_url }})、[突发情况处理步骤]({{ '/anquan/tufa-qingkuang/' | relative_url }})、[日常防范]({{ '/anquan/geren-fangfan/' | relative_url }})、[应急准备]({{ '/anquan/yingji-bao/' | relative_url }})
+- **[第八章 买房篇]({{ '/maifang/' | relative_url }})** —— [买还是继续租]({{ '/maifang/mai-vs-zu/' | relative_url }})、[预算与贷款]({{ '/maifang/daikuan/' | relative_url }})、[找房看房与出价]({{ '/maifang/kanfang-chujia/' | relative_url }})、[税费总账]({{ '/maifang/shuifei/' | relative_url }})、[从 offer 到交房]({{ '/maifang/liucheng/' | relative_url }})、[苏格兰买房]({{ '/maifang/sugelan/' | relative_url }})
 
 另外三页值得单独收藏：[**附录1. 速查表**]({{ '/fulu/' | relative_url }})——紧急电话、2026/27 年度的关键数字（最低工资、免税额、押金上限、处方费）、落地 30 天待办清单，以及有时限的几件事，一页看完；[**附录2. 优惠与返利**]({{ '/youhui/' | relative_url }})——能省钱的渠道集中列表；[**附录3. 常用英语**]({{ '/yingyu/' | relative_url }})——178 个高频词的口语说法与正式书面表达对照，写邮件、交作业、办事时查。
 
