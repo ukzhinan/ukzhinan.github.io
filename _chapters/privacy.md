@@ -5,7 +5,7 @@ description: "《英国生存手册》的隐私政策：本站收集哪些数据
 nav: "隐私政策"
 sidebar: false
 permalink: /privacy/
-order: 12
+order: 15
 weight: 970
 updated: 2026-09-07
 ads: false

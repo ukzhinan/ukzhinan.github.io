@@ -4,7 +4,7 @@ title: "关于本手册与作者"
 description: "《英国生存手册》的作者是一位 2013 年来英、现任英国大学副教授的过来人。本页说明手册的写作初衷、内容维护方式与信息可靠性原则、合作链接政策，以及纠错与反馈渠道。"
 nav: "关于"
 permalink: /about/
-order: 11
+order: 14
 weight: 960
 updated: 2026-09-07
 ads: false
