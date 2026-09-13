@@ -6,7 +6,7 @@ description: "在英国申请按揭的实操：LTV 与首付比例怎么定、�
 nav: "8.2 预算与贷款"
 parent: maifang
 weight: 812
-updated: 2026-09-12
+updated: 2026-09-13
 num: "8.2"
 toc:
   - title: "首付、LTV 与按揭担保计划"
@@ -127,6 +127,10 @@ Lifetime ISA（LISA）是英国政府给首次购房者的储蓄补贴，用对�
 {: .callout .callout-warning}
 
 还有一个前提别忽略：LISA 需要符合英国税务居民等资格条件，**离开英国之后账户怎么处理要另外查**，以 [gov.uk](https://www.gov.uk/lifetime-isa) 为准。
+
+**去哪里开户？** 提供 LISA 的机构并不多，而且分两类：**现金型**（Cash LISA，按利率计息、本金不波动）和**股票型**（Stocks & Shares LISA，随市场涨跌）。离买房还有五年以上可以考虑股票型，两三年内就要动用的首付放现金型更稳妥。
+
+[Tembo](https://www.tembomoney.com/savings/join/tkn-3pltz4-j1zo78) 是其中一家，现金型与股票型 LISA 都有，同时提供免费的按揭咨询，存款受 FSCS 保障。**利率、费率和有无附加条件各家不同且随时会调整**，开户前自己比一轮，以对方页面显示的为准。
 
 <h2 id="sec-6">AIP、正式申请与 broker</h2>
 
