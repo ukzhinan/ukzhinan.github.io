@@ -1,7 +1,8 @@
 ---
 layout: section
 title: "英国留学生税务：签证对自雇的限制、税码多扣税与退税"
-description: "英国留学生税务实用指南：学生签证禁止自雇这条红线、PAYE 与 tax code 1257L、BR/0T 应急税码导致多扣税怎么办、如何通过 Personal Tax Account 申请退税，以及 Stocks & Shares ISA 免税投资。"
+seo_title: "英国留学生税务：自雇限制、税码多扣与退税"
+description: "英国留学生税务指南：学生签证禁止自雇这条红线、PAYE 与 tax code 1257L、BR/0T 应急税码多扣税怎么办，以及如何通过 Personal Tax Account 退税。"
 nav: "5.2 学生税务规划"
 parent: jinjie
 weight: 602

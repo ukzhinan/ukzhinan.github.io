@@ -1,18 +1,29 @@
 ---
 ---
 <?xml version="1.0" encoding="UTF-8"?>
+{%- comment -%}
+  lastmod 取各页 frontmatter 的 updated，而不是构建时间：每次部署都把全站标成
+  「刚更新」会让搜索引擎学会忽略这个信号。首页取全站最新的 updated。
+  priority 分层：首页 > 章节总览 > 专题页 > 关于 > 隐私政策。
+{%- endcomment -%}
+{%- assign latest = site.chapters | sort: "updated" | last -%}
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>{{ '/' | absolute_url }}</loc>
-    <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+    <lastmod>{{ latest.updated | default: site.published_date | date_to_xmlschema }}</lastmod>
     <priority>1.0</priority>
   </url>
-  {% assign docs = site.chapters | sort: "weight" %}
-  {% for doc in docs %}
+{%- assign docs = site.chapters | sort: "weight" -%}
+{%- for doc in docs -%}
+{%- if doc.sitemap == false or doc.noindex -%}{%- continue -%}{%- endif -%}
+{%- assign priority = '0.8' -%}
+{%- if doc.layout == 'chapter-hub' -%}{%- assign priority = '0.9' -%}{%- endif -%}
+{%- if doc.url == '/about/' -%}{%- assign priority = '0.5' -%}{%- endif -%}
+{%- if doc.url == '/privacy/' -%}{%- assign priority = '0.3' -%}{%- endif %}
   <url>
     <loc>{{ doc.url | absolute_url }}</loc>
-    <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
-    <priority>0.8</priority>
+    <lastmod>{{ doc.updated | default: site.published_date | date_to_xmlschema }}</lastmod>
+    <priority>{{ priority }}</priority>
   </url>
-  {% endfor %}
+{%- endfor %}
 </urlset>

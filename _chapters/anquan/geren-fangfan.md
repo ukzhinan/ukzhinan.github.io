@@ -1,7 +1,8 @@
 ---
 layout: section
 title: "英国留学日常安全：夜间出行、Ask for Angela、住所与网络防范"
-description: "英国日常安全防范清单：夜间路线规划与手机被抢风险、饮品被下药与 Ask for Angela 求助暗语、住所门窗与陌生上门核实、自行车防盗与财物保险、公共 WiFi 与双重验证，以及靠左行驶的过马路习惯。"
+seo_title: "英国留学日常安全：夜间出行与 Ask for Angela"
+description: "英国日常安全清单：夜间路线与手机被抢风险、饮品被下药与 Ask for Angela 暗语、住所门窗与陌生上门核实、自行车防盗、公共 WiFi 与双重验证。"
 nav: "7.3 个人防范与日常安全"
 parent: anquan
 weight: 803

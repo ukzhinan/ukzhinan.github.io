@@ -1,7 +1,8 @@
 ---
 layout: section
 title: "英国大学 Essay 和 Report 怎么写：结构、引用规范与常见错误"
-description: "英国大学 Essay 与 Report 写作全流程：读懂题意与写作指令、研究与资料收集、结构与逻辑搭建、引用规范与学术诚信、如何利用反馈改进，附中国学生常犯的论文错误清单。"
+seo_title: "英国大学 Essay 和 Report 怎么写"
+description: "英国大学 Essay 与 Report 写作全流程：读懂题意与写作指令、资料收集、结构与逻辑搭建、引用规范与学术诚信，附中国学生常犯的错误清单。"
 nav: "2.3 如何写好 Essay 和 Report"
 parent: xueye
 weight: 303

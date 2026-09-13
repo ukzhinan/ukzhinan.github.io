@@ -1,6 +1,7 @@
 ---
 layout: section
 title: "英国留学交通指南：城市内出行、跨城火车与 16-25 Railcard"
+seo_title: "英国留学交通指南：城市出行与 16-25 Railcard"
 description: "英国留学生出行全攻略：Oyster 卡与 Contactless 刷卡通勤、跨城火车与 National Express、Megabus 长途大巴对比、16-25 Railcard 申请步骤和省钱组合策略。"
 nav: "1.3 日常出行与交通"
 parent: shenghuo

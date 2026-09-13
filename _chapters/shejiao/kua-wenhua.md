@@ -1,6 +1,7 @@
 ---
 layout: section
 title: "英国人说话怎么听懂：英式含蓄对照表、口音适应与 Seminar 发言"
+seo_title: "英国人说话怎么听懂：英式含蓄对照表与口音适应"
 description: "英国跨文化交流实用指南：英式含蓄说法的真实含义对照表、中英沟通风格差异、各地口音适应方法、邮件语气梯度、Seminar 插话句式，以及 banter 幽默文化。"
 nav: "3.1 跨文化交流技巧"
 parent: shejiao

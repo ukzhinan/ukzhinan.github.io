@@ -1,7 +1,8 @@
 ---
 layout: section
 title: "留英工作怎么规划：Graduate Route、招聘时间线与 Careers Service"
-description: "在英国留下工作的路径与时间线：Graduate Route 毕业生签证时长将于 2027 年 1 月 1 日由 2 年缩短为 18 个月、申请费用与递交时机、Skilled Worker 需要雇主担保的现实、Graduate Scheme 秋招为什么要提前一年准备，以及学校 Careers Service 和校友 networking 的具体用法。"
+seo_title: "留英工作规划：Graduate Route 与秋招时间线"
+description: "留英工作路径与时间线：Graduate Route 将于 2027 年 1 月起从 2 年缩短为 18 个月、Skilled Worker 需雇主担保，以及 Graduate Scheme 秋招为什么要提前一年准备。"
 nav: "5.4 提前布局职业发展"
 parent: jinjie
 weight: 604

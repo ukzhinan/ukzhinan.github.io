@@ -1,6 +1,7 @@
 ---
 layout: section
 title: "怎么和英国导师打交道：Office Hour、学术邮件礼仪与沟通技巧"
+seo_title: "怎么和英国导师打交道：Office Hour 与邮件礼仪"
 description: "如何与英国导师有效沟通：Office Hour 的正确使用方式、英式学术邮件的礼仪与模板、跨文化交流注意点，以及让导师记住你的具体做法。"
 nav: "2.4 如何与导师打交道"
 parent: xueye

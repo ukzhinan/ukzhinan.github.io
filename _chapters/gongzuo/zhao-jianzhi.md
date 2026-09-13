@@ -1,6 +1,7 @@
 ---
 layout: section
 title: "英国留学生怎么找兼职：求职流程 SOP 与招聘网站推荐"
+seo_title: "英国留学生怎么找兼职：求职 SOP 与招聘网站"
 description: "初到英国怎么找兼职：一套可直接照做的求职流程 SOP，从准备材料、锁定目标岗位到投递跟进，并推荐 Indeed、Reed、StudentJob 等常用招聘网站与 APP。"
 nav: "4.3 如何找兼职工作"
 parent: gongzuo

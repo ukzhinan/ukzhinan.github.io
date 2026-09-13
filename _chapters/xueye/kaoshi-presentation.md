@@ -1,6 +1,7 @@
 ---
 layout: section
 title: "英国大学考试与 Presentation 怎么准备：考试类型、复习方法与演示技巧"
+seo_title: "英国大学考试与 Presentation 怎么准备"
 description: "英国大学考试类型概览与高效复习方法，以及 Presentation 的准备策略——从结构设计、视觉呈现到现场表达和问答应对。"
 nav: "2.5 考试与 Presentation"
 parent: xueye

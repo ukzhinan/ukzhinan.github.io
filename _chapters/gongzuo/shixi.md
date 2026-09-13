@@ -1,7 +1,8 @@
 ---
 layout: section
 title: "英国留学生实习指南：实习 vs 兼职、Placement 签证工时与申请时间线"
-description: "英国留学生实习（Internship / Placement）完全指南：实习和兼职的区别、placement 是否计入学生签证工时、暑期实习与 placement year、申请时间线为什么比你想的早，以及「无薪实习」的合法边界与转正。"
+seo_title: "英国留学生实习：Placement 工时与申请时间线"
+description: "英国留学生实习（Internship / Placement）指南：实习和兼职的区别、placement 是否计入签证工时、申请时间线为什么比你想的早，以及无薪实习的合法边界。"
 nav: "4.7 实习与 Placement"
 parent: gongzuo
 weight: 507

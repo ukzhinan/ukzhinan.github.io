@@ -1,7 +1,7 @@
 ---
 layout: section
 title: "英国买房流程：律师、测量、交换合同与交割"
-description: "从卖方接受 offer 到拿到钥匙的完整流程：conveyancing 各阶段在做什么、searches 查的是什么、三级 RICS 测量怎么选以及为什么按揭估值不能替代它、交换合同这条法律分界线意味着什么（此前可无责退出，此后毁约赔定金），以及交房后每月还要付哪些持有成本。"
+description: "从接受 offer 到拿钥匙的完整流程：conveyancing 各阶段在做什么、searches 查什么、三级 RICS 测量怎么选，以及交换合同这条法律分界线意味着什么。"
 nav: "8.5 从 offer 到交房"
 parent: maifang
 weight: 815

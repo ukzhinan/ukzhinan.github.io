@@ -1,6 +1,7 @@
 ---
 layout: section
 title: "英国大学怎么听课记笔记：课前准备、笔记方法与 Lecture Capture"
+seo_title: "英国大学听课与记笔记：方法与 Lecture Capture"
 description: "英国大学听课与笔记技巧：课前预习 Reading List 的重要性、课堂高效笔记方法、Lecture Capture 录播的正确用法，以及课后整理与复习的节奏。"
 nav: "2.2 听课与记笔记技巧"
 parent: xueye

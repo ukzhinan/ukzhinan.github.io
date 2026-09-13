@@ -1,7 +1,8 @@
 ---
 layout: section
 title: "英国紧急电话大全：999、111、101 与没信号时怎么求助"
-description: "英国紧急联系方式全整理：999 报警急救、101 非紧急报警、111 医疗建议、Action Fraud 反诈热线，以及没有信号时的紧急呼叫、需提前注册的 emergencySMS 短信报警、用 what3words 报位，和手机急救卡的设置。"
+seo_title: "英国紧急电话大全：999、111、101 与求助方式"
+description: "英国紧急联系方式整理：999 报警急救、101 非紧急报警、111 医疗建议、Action Fraud 反诈热线，以及没信号时的紧急呼叫、emergencySMS 短信报警与 what3words 报位。"
 nav: "7.1 紧急联系电话与资源"
 parent: anquan
 weight: 801

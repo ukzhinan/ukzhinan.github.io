@@ -1,7 +1,8 @@
 ---
 layout: section
 title: "英国高等教育有什么不同：Lecture、Seminar、Tutorial 与评分体系"
-description: "英国大学和国内有什么不同：Lecture、Seminar、Workshop、Tutorial 四种课堂形态的区别，模块选课的自由度与自我管理要求，以及 First Class 70 分制评分体系和多元化评估方式。"
+seo_title: "英国大学课堂：Lecture、Seminar 与评分体系"
+description: "英国大学和国内有什么不同：Lecture、Seminar、Workshop、Tutorial 四种课堂的区别，模块选课的自由度，以及 First Class 70 分制评分体系。"
 nav: "2.1 英国高等教育的特点"
 parent: xueye
 weight: 301

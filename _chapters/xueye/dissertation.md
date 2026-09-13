@@ -1,7 +1,8 @@
 ---
 layout: section
 title: "英国毕业论文 Dissertation 怎么写：选题、导师、结构与时间管理"
-description: "英国硕士毕业论文（Dissertation）完全指南：它与平时 Essay 的区别、选题与 supervisor 匹配、research proposal 与伦理审批、结构与常见误区、夏季三个月的时间管理，以及提交前的检查清单和常见失败模式。"
+seo_title: "英国毕业论文 Dissertation 怎么写：选题与结构"
+description: "英国硕士毕业论文（Dissertation）指南：与平时 Essay 的区别、选题与 supervisor 匹配、结构与常见误区、夏季三个月的时间管理，以及提交前的检查清单。"
 nav: "2.6 毕业论文（Dissertation）"
 parent: xueye
 weight: 306

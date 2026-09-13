@@ -1,6 +1,7 @@
 ---
 layout: section
 title: "英国留学饮食与健康：超市省钱攻略与注册 GP 看病"
+seo_title: "英国留学饮食与健康：超市省钱与注册 GP 看病"
 description: "英国留学生怎么吃得好又省钱：Tesco、Sainsbury、Aldi、Lidl、Asda 超市省钱攻略表，适应英国饮食的三步法，以及注册 GP、使用 NHS 的健康管理要点。"
 nav: "1.2 饮食与健康"
 parent: shenghuo

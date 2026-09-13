@@ -1,7 +1,8 @@
 ---
 layout: section
 title: "英国学生身份能省多少钱：Council Tax 豁免、折扣平台与软件优惠"
-description: "英国学生身份的省钱清单：最该先办的 Council Tax 豁免（需主动申请）、UNiDAYS 与 Student Beans 与 TOTUM 的覆盖差异、免费软件与学生价订阅、博物馆与剧院学生票、NHS 费用减免，并按回本速度排序。"
+seo_title: "英国学生优惠：Council Tax 豁免与折扣平台"
+description: "英国学生身份的省钱清单：最该先办的 Council Tax 豁免、UNiDAYS 与 Student Beans 的覆盖差异、免费软件与学生票、NHS 费用减免，按回本速度排序。"
 nav: "5.3 最大化利用学生身份优惠"
 parent: jinjie
 weight: 603

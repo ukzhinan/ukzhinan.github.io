@@ -1,7 +1,8 @@
 ---
 layout: section
 title: "英国留学租房指南：宿舍选择、私人租房流程与 2026 年新租赁法"
-description: "英国留学住宿完全指南：学校宿舍与 PBSA 怎么选、2026 年 5 月生效的 Renters' Rights Act 对留学生意味着什么（预付租金上限一个月、两个月通知退租）、看房清单、合同条款逐条解读、押金保护与要回押金的完整路径，以及识别租房骗局。"
+seo_title: "英国留学租房指南：宿舍、私租与新租赁法"
+description: "英国留学住宿指南：学校宿舍与 PBSA 怎么选、2026 年 5 月生效的 Renters' Rights Act 对留学生意味着什么、合同与押金保护，以及怎么识别租房骗局。"
 nav: "1.1 住宿选择与适应"
 parent: shenghuo
 weight: 201

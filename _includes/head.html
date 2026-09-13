@@ -11,7 +11,7 @@
 {% if site.verification.google and site.verification.google != "" %}<meta name="google-site-verification" content="{{ site.verification.google }}">
 {% endif %}{% if site.verification.bing and site.verification.bing != "" %}<meta name="msvalidate.01" content="{{ site.verification.bing }}">
 {% endif %}{% if site.verification.baidu and site.verification.baidu != "" %}<meta name="baidu-site-verification" content="{{ site.verification.baidu }}">
-{% endif %}{% assign seo_title = page.title | default: site.title %}
+{% endif %}{% assign seo_title = page.seo_title | default: page.title | default: site.title %}
 {% if page.url != '/' %}
   {% assign seo_title = seo_title | append: ' · ' | append: site.title %}
 {% endif %}
@@ -20,7 +20,12 @@
 <meta name="description" content="{{ seo_desc }}">
 {% if page.noindex %}<meta name="robots" content="noindex, follow">
 {% endif %}<link rel="canonical" href="{{ page.url | absolute_url }}">
-<meta property="og:type" content="website">
+{% assign is_article = true %}
+{% if page.url == '/' or page.noindex %}{% assign is_article = false %}{% endif %}
+<meta property="og:type" content="{% if is_article %}article{% else %}website{% endif %}">
+{% if is_article %}<meta property="article:published_time" content="{{ site.published_date }}">
+<meta property="article:modified_time" content="{{ page.updated | default: site.published_date | date: '%Y-%m-%d' }}">
+{% endif %}
 <meta property="og:site_name" content="{{ site.title }}">
 <meta property="og:title" content="{{ seo_title }}">
 <meta property="og:description" content="{{ seo_desc }}">
@@ -28,6 +33,7 @@
 <meta property="og:image" content="{{ '/assets/images/og-cover.jpg' | absolute_url }}">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="{{ site.title }}封面">
 <meta property="og:locale" content="zh_CN">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="{{ seo_title }}">

@@ -1,7 +1,7 @@
 ---
 layout: chapter
 title: "隐私政策与 Cookie 说明"
-description: "《英国生存指南》的隐私政策：本站收集哪些数据、使用哪些 Cookie（Google Analytics 与 Google AdSense）、合作链接如何工作，以及你在英国 GDPR 下的权利与拒绝方式。"
+description: "《英国生存指南》隐私政策：本站收集哪些数据、使用哪些 Cookie（Google Analytics 与 AdSense）、合作链接如何工作，以及你在英国 GDPR 下的权利。"
 nav: "隐私政策"
 sidebar: false
 permalink: /privacy/

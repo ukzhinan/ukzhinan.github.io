@@ -1,7 +1,8 @@
 ---
 layout: section
 title: "英国留学心理健康：求助路径、文化适应曲线与特殊情况申请"
-description: "英国留学生心理健康实用指南：为什么第二学期最难、学校 Counselling 与 NHS Talking Therapies 自行转介、Nightline 与 Samaritans 116 123、学业压力的特殊情况申请，以及该主动求助的信号清单。"
+seo_title: "英国留学心理健康：求助路径与特殊情况申请"
+description: "英国留学生心理健康指南：为什么第二学期最难、学校 Counselling 与 NHS Talking Therapies 自行转介、Nightline 与 Samaritans 116 123，以及该主动求助的信号。"
 nav: "3.4 心理健康与情绪调适"
 parent: shejiao
 weight: 404

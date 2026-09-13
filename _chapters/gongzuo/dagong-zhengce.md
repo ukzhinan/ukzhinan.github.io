@@ -1,7 +1,8 @@
 ---
 layout: section
 title: "英国留学生打工政策：签证工时怎么算、法定权益与最低工资"
-description: "英国学生签证打工规定详解：每周 20 小时怎么计算、volunteering 与 voluntary work 的区别、超时打工的后果、National Insurance Number 与 share code 手续、2026 年最低工资标准、带薪年假与休息时间等法定权益，以及看懂工资单和维权渠道。"
+seo_title: "英国留学生打工政策：签证工时与最低工资"
+description: "英国学生签证打工规定：每周 20 小时怎么算、volunteering 的区别、超时打工的后果、NIN 与 share code 手续、2026 年最低工资与带薪年假等法定权益。"
 nav: "4.1 打工政策与合法权益"
 parent: gongzuo
 weight: 501

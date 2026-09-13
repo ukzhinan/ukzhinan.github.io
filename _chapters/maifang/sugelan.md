@@ -1,7 +1,8 @@
 ---
 layout: section
 title: "在苏格兰买房：Home Report、offers over 与 LBTT"
-description: "苏格兰买房与英格兰完全不同的一套规则：卖方提供的 Home Report 让买家看房前就能拿到估价与状况报告、offers over 与 closing date 的竞价机制、missives 取代交换合同因而约束力产生的时点不同、LBTT 分档与首次购房减免，以及按全额房价计征的 8% 附加住宅税 ADS。"
+seo_title: "苏格兰买房：Home Report、offers over 与 LBTT"
+description: "苏格兰买房是另一套规则：Home Report 让买家看房前就拿到估价、offers over 与 closing date 竞价、missives 取代交换合同，以及 LBTT 与 8% 附加住宅税 ADS。"
 nav: "8.6 苏格兰买房的不同之处"
 parent: maifang
 weight: 816

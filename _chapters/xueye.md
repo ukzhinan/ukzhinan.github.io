@@ -1,7 +1,7 @@
 ---
 layout: chapter-hub
 title: "英国大学怎么读：学业适应完全指南"
-description: "英国大学学业指南：高等教育特点与评分体系、听课记笔记方法、Essay 与 Report 写作、与导师沟通、考试与 Presentation 准备、毕业论文 Dissertation，六个专题帮你完成学习方式的转变。"
+description: "英国大学学业指南：评分体系与课堂形态、听课记笔记、Essay 与 Report 写作、与导师沟通、考试与 Presentation、毕业论文 Dissertation 六个专题。"
 nav: "第二章 学业篇"
 key: xueye
 permalink: /xueye/

@@ -1,7 +1,8 @@
 ---
 layout: section
 title: "英国看房与出价：产权类型、看房清单与 chain 怎么回事"
-description: "在英国找房看房出价的实操：挂牌平台怎么用、freehold 与 leasehold 的区别以及剩余年限、ground rent、service charge 各意味着什么、看房时要逐项确认的清单、出价与还价的常见做法、chain 是什么，以及交换合同前双方都可以无责退出这一点对买家的实际影响。"
+seo_title: "英国看房与出价：产权类型、看房清单与 chain"
+description: "在英国找房看房出价的实操：freehold 与 leasehold 的区别、ground rent 与 service charge 各是什么、看房要逐项确认的清单、出价与还价，以及 chain 是什么。"
 nav: "8.3 找房、看房与出价"
 parent: maifang
 weight: 813

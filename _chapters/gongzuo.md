@@ -1,7 +1,7 @@
 ---
 layout: chapter-hub
 title: "英国留学生打工与实习完全指南"
-description: "英国留学生打工与实习指南：学生签证工时规定、NIN 与最低工资、常见兼职类型对比、求职流程与招聘网站、英文简历与求职信模板、面试与职场礼仪、实习与 Placement，七个专题逐一讲清。"
+description: "英国留学生打工与实习指南：签证工时、NIN 与最低工资、常见兼职类型、求职流程与招聘网站、英文简历与求职信、面试与职场礼仪、实习与 Placement 七个专题。"
 nav: "第四章 工作与实习篇"
 key: gongzuo
 permalink: /gongzuo/

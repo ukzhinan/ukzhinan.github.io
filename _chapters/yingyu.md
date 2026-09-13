@@ -1,7 +1,7 @@
 ---
 layout: chapter
 title: "英国留学常用中英文对照表：口语说法与正式表达"
-description: "英国留学常用中英文对照表：178 个高频词的口语说法与正式书面表达对照，分学校与学习、校园生活、日常生活、学术写作与研究、安全与自救五类，说明 module 与 course、dissertation 与 thesis、chemist 与 pharmacy 等英式用词的区别，供写邮件、交作业、办事时查。"
+description: "英国留学常用中英文对照表：178 个高频词的口语与正式书面说法，分五类整理，说明 module 与 course、dissertation 与 thesis 等英式用词的区别，写邮件办事时备查。"
 nav: "附录3. 常用英语"
 permalink: /yingyu/
 order: 13

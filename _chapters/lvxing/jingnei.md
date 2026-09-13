@@ -1,7 +1,8 @@
 ---
 layout: section
 title: "英国境内旅行：Advance 票、Railcard 叠加与 split ticketing"
-description: "英国境内假期出行怎么省：Advance 票的提前量、16-25 与 26-30 Railcard 与 Advance 叠加、split ticketing 拆票、长途大巴的取舍，以及苏格兰高地、湖区、北威尔士与康沃尔的季节、交通和成本量级。"
+seo_title: "英国境内旅行省钱：Advance 票与 Railcard"
+description: "英国境内出行怎么省：Advance 票的提前量、Railcard 与 Advance 叠加、split ticketing 拆票，以及高地、湖区、北威尔士与康沃尔的季节与成本量级。"
 nav: "6.5 英国境内旅行"
 parent: lvxing
 weight: 705
