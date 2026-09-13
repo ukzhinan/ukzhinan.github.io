@@ -1,7 +1,7 @@
 ---
 layout: chapter
 title: "结语"
-description: "《英国生存手册》结语：留学不只是读书，而是一整套生活系统的搭建过程。写给正在适应英国的中国留学生。"
+description: "《英国生存指南》结语：留学不只是读书，而是一整套生活系统的搭建过程。写给正在适应英国的中国留学生。"
 nav: "结语"
 permalink: /jieyu/
 order: 10

@@ -4,7 +4,7 @@ sitemap: false
 ---
 {
   "name": "{{ site.title }}",
-  "short_name": "英国手册",
+  "short_name": "英国指南",
   "description": "{{ site.description }}",
   "start_url": "{{ '/' | relative_url }}",
   "display": "standalone",

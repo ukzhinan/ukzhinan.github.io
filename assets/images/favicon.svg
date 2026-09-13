@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="英国生存手册">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="英国生存指南">
   <!-- Union Jack，按官方构造法（含 St Patrick 十字的 counterchange）适配为正方形 -->
   <clipPath id="cc">
     <path d="M32,32 h32 v32 z v32 h-32 z h-32 v-32 z v-32 h32 z"/>

@@ -1,14 +1,14 @@
 ---
 layout: home
-title: "英国生存手册：为中国留学生提供全面的适应指南"
-description: "英国生存手册——为中国留学生提供从学业、生活、工作到文化适应的全面英国留学指南。"
+title: "英国生存指南：为中国留学生提供全面的适应指南"
+description: "英国生存指南——为中国留学生提供从学业、生活、工作到文化适应的全面英国留学指南。"
 nav: 引言
 order: 1
 ---
 
 
 
-**英国生存手册** 
+**英国生存指南** 
 (2026年9月 / v1.3)
 
 作者：Steven在英国 —— 英国大学副教授，2013 年来英，先做留学生、后留在英国高校任教  
@@ -50,7 +50,7 @@ Steven
 
 ## 从这里开始
 
-手册按你实际会遇到的顺序编排。如果你**还没出发**，从[出发前准备]({{ '/chufaqian/' | relative_url }})读起；**刚落地**，从[生活篇]({{ '/shenghuo/' | relative_url }})读起；只想解决某个具体问题，直接点进对应专题。
+指南按你实际会遇到的顺序编排。如果你**还没出发**，从[出发前准备]({{ '/chufaqian/' | relative_url }})读起；**刚落地**，从[生活篇]({{ '/shenghuo/' | relative_url }})读起；只想解决某个具体问题，直接点进对应专题。
 
 - **[出发前准备]({{ '/chufaqian/' | relative_url }})** —— 人还在国内就该办的事：行前清单、行李带什么别带什么、钱怎么带过去、出发前在国内要办完的几件事
 - **[第一章 生活篇]({{ '/shenghuo/' | relative_url }})** —— 落地后要办的事：[租房]({{ '/shenghuo/zufang/' | relative_url }})、[看病与超市省钱]({{ '/shenghuo/yinshi-jiankang/' | relative_url }})、[交通]({{ '/shenghuo/jiaotong/' | relative_url }})、[银行开户]({{ '/shenghuo/yinhang-licai/' | relative_url }})、[手机与宽带]({{ '/shenghuo/shouji-wangluo/' | relative_url }})、[跨境物流与二手出清]({{ '/shenghuo/kuajing-wuliu/' | relative_url }})
