@@ -34,7 +34,7 @@ toc:
 | --- | --- | --- |
 | [Monzo](https://join.monzo.com/c/46yyr358) | 数字银行 | 刚落地、还没有地址证明，需要一个能马上用的账户 |
 | [Revolut](https://revolut.com/referral/?referral-code=xiaotigp2!SEP1-26-AR-TR-TR5RMH2&geo-redirect) | 数字银行 / 多币种 | 经常有境外消费或多币种需求 |
-| [PayPal](https://py.pl/12COrO) | 电子支付 | 所有人——不少英国网站只支持 PayPal 付款 |
+| [PayPal](https://py.pl/H8Ax6) | 电子支付 | 所有人——不少英国网站只支持 PayPal 付款 |
 | [InvestEngine](https://investengine.com/referral/u/gtnweo/) | 低费率 ETF / ISA | 生活有结余、想做长期小额投资 |
 | [Tembo](https://www.tembomoney.com/savings/join/tkn-3pltz4-j1zo78) | 储蓄 / Lifetime ISA | 打算将来在英国买房，想用 Lifetime ISA 攒首付（须 18–39 岁开户） |
 

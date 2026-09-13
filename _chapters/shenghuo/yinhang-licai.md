@@ -155,7 +155,7 @@ faq:
 
 **Wise、PayPal 不在 FSCS 范围内**并不意味着不安全——它们受监管要求把客户资金与自有资金隔离存放。但这是另一套机制，不要把大额资金长期停在这类账户里当储蓄用。
 
-数字银行推荐至少开一个：[**Monzo**](https://join.monzo.com/c/46yyr358)、**Starling**、[**Revolut**](https://revolut.com/referral/?referral-code=xiaotigp2!SEP1-26-AR-TR-TR5RMH2&geo-redirect) 都可以手机开户。另外建议注册一个 [**PayPal**](https://py.pl/12COrO)，英国不少网站只接受它付款。
+数字银行推荐至少开一个：[**Monzo**](https://join.monzo.com/c/46yyr358)、**Starling**、[**Revolut**](https://revolut.com/referral/?referral-code=xiaotigp2!SEP1-26-AR-TR-TR5RMH2&geo-redirect) 都可以手机开户。另外建议注册一个 [**PayPal**](https://py.pl/H8Ax6)，英国不少网站只接受它付款。
 
 
 <h2 id="sec-5">国际汇款与转账</h2>
@@ -214,7 +214,7 @@ faq:
 
 - [**Monzo**](https://join.monzo.com/c/46yyr358) **/ Starling**：数字银行
 - **Wise** / [**Revolut**](https://revolut.com/referral/?referral-code=xiaotigp2!SEP1-26-AR-TR-TR5RMH2&geo-redirect)：国际汇款与多币种
-- [**PayPal**](https://py.pl/12COrO)：电子支付
+- [**PayPal**](https://py.pl/H8Ax6)：电子支付
 - **ClearScore / Credit Karma / Experian**：信用评分查询
 - **Emma**：多账户聚合与预算管理
 - [**InvestEngine**](https://investengine.com/referral/u/gtnweo/)：低费率 ETF 投资与 ISA 免税账户（先建立应急储蓄再考虑投资，详见 [5.2 税务与退税]({{ '/jinjie/shuiwu/' | relative_url }})）
