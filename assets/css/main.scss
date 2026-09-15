@@ -260,6 +260,9 @@ blockquote {
 /* ---------- Images ---------- */
 img { max-width: 100%; height: auto; }
 img.qr { display: block; margin: 16px 0; max-width: 200px; border: 1px solid var(--line); }
+/* 赞助二维码：一张图里两个码并排，限宽 520 保证单个码仍扫得动 */
+.sponsor-qr { margin: 24px 0; max-width: 520px; }
+.sponsor-qr img { display: block; border: 1px solid var(--line); border-radius: 4px; }
 
 /* ---------- Home ---------- */
 .hero {
