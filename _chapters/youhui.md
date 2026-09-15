@@ -72,7 +72,7 @@ toc:
 | 权益 | 说明 |
 | --- | --- |
 | [16-25 Railcard](https://www.railcard.co.uk/) | 火车票 1/3 折扣，一年 £35、3 年 £80；26–30 岁可申请 26-30 Railcard，26 岁以上全日制学生同样可申请 16-25 |
-| UNiDAYS / TOTUM | 覆盖服装、餐饮、软件等的学生折扣平台 |
+| [UNiDAYS](https://www.myunidays.com/GB/en-GB) / [TOTUM](https://www.totum.com/) | 覆盖服装、餐饮、软件等的学生折扣平台 |
 
 <h2 id="sec-6">影音与回国服务</h2>
 

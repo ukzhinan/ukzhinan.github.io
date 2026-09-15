@@ -46,9 +46,9 @@ faq:
 
 <h2 id="sec-1">常用学生折扣平台</h2>
 
-- **UNiDAYS**：服饰、电子产品、餐饮折扣。
-- **TOTUM Card**：全国商家折扣卡，部分包含ISIC国际学生证。
-- **Student Beans**：类似UNiDAYS，但覆盖品牌不同。
+- [**UNiDAYS**](https://www.myunidays.com/GB/en-GB)：服饰、电子产品、餐饮折扣。
+- [**TOTUM Card**](https://www.totum.com/)：全国商家折扣卡，部分包含ISIC国际学生证。
+- [**Student Beans**](https://www.studentbeans.com/)：类似UNiDAYS，但覆盖品牌不同。
 
 <h2 id="sec-2">交通优惠</h2>
 
