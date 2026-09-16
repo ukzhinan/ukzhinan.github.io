@@ -42,7 +42,7 @@ toc:
 
 指南里那些看起来过于具体的提醒——为什么 Seminar 上要提前写好一句话再去、为什么导师说 "That's an interesting point" 通常不是在夸你、为什么延期申请必须赶在截止日期之前——大多来自这两个身份的叠加。
 
-- 小红书：[@Steven英伦科技说](https://www.xiaohongshu.com/user/profile/5f8aebe4000000000101f6f4)
+- 小红书：[@Steven在英国](https://www.xiaohongshu.com/user/profile/5f8aebe4000000000101f6f4)
 - 邮箱：[xdaiuk@gmail.com](mailto:xdaiuk@gmail.com)
 
 指南长期免费，也会持续更新。

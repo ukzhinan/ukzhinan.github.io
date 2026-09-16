@@ -155,7 +155,7 @@ faq:
 
 **Wise、PayPal 不在 FSCS 范围内**并不意味着不安全——它们受监管要求把客户资金与自有资金隔离存放。但这是另一套机制，不要把大额资金长期停在这类账户里当储蓄用。
 
-数字银行推荐至少开一个：[**Monzo**](https://join.monzo.com/c/f9ykv2pc)、**Starling**、[**Revolut**](https://revolut.com/referral/?referral-code=xiaotigp2!SEP1-26-AR-TR-TR5RMH2&geo-redirect) 都可以手机开户。另外建议注册一个 [**PayPal**](https://py.pl/H8Ax6)，英国不少网站只接受它付款。
+数字银行推荐至少开一个：[**Monzo**](https://join.monzo.com/c/f9ykv2pc)、**Starling**、[**Revolut**](https://revolut.com/referral/?referral-code=xiaotigp2!SEP2-26-AR-H3&geo-redirect) 都可以手机开户。另外建议注册一个 [**PayPal**](https://py.pl/H8Ax6)，英国不少网站只接受它付款。
 
 
 <h2 id="sec-5">国际汇款与转账</h2>
@@ -167,7 +167,7 @@ faq:
 常用渠道：
 
 - **Wise**：按接近中间价的汇率加透明费率，成本低、到账快，是多数留学生的默认选择。
-- [**Revolut**](https://revolut.com/referral/?referral-code=xiaotigp2!SEP1-26-AR-TR-TR5RMH2&geo-redirect)：多币种账户，一定额度内境外消费免手续费。
+- [**Revolut**](https://revolut.com/referral/?referral-code=xiaotigp2!SEP2-26-AR-H3&geo-redirect)：多币种账户，一定额度内境外消费免手续费。
 - **传统银行电汇**：适合金额很大、需要正式汇款凭证（如缴学费）的场景。
 
 **几个实务提醒**
@@ -213,7 +213,7 @@ faq:
 **实用 App**
 
 - [**Monzo**](https://join.monzo.com/c/f9ykv2pc) **/ Starling**：数字银行
-- **Wise** / [**Revolut**](https://revolut.com/referral/?referral-code=xiaotigp2!SEP1-26-AR-TR-TR5RMH2&geo-redirect)：国际汇款与多币种
+- **Wise** / [**Revolut**](https://revolut.com/referral/?referral-code=xiaotigp2!SEP2-26-AR-H3&geo-redirect)：国际汇款与多币种
 - [**PayPal**](https://py.pl/H8Ax6)：电子支付
 - **ClearScore / Credit Karma / Experian**：信用评分查询
 - **Emma**：多账户聚合与预算管理
