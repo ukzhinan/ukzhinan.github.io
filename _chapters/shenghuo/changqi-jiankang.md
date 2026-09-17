@@ -3,11 +3,11 @@ layout: section
 title: "英国留学慢性病与长期用药：医疗衔接、专科转诊和学习支持"
 seo_title: "英国留学长期用药与大学学习支持指南"
 description: "长期用药学生的行前资料、抵英医疗衔接、重复处方与专科转诊，以及大学 disability support、合理调整和支持计划的申请步骤。"
-nav: "1.10 长期用药与学习支持"
+nav: "1.11 长期用药与学习支持"
 parent: shenghuo
-weight: 210
+weight: 211
 updated: 2026-09-17
-num: "1.10"
+num: "1.11"
 toc:
   - title: "出发前准备医疗摘要"
     anchor: "sec-1"

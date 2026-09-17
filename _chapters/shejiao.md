@@ -7,7 +7,7 @@ key: shejiao
 permalink: /shejiao/
 order: 4
 weight: 400
-updated: 2026-09-07
+updated: 2026-09-17
 num: "03"
 ---
 
@@ -17,4 +17,4 @@ num: "03"
 
 这一章拆成四个专题：先理解英国人怎么说话，再找到进入社交圈的具体入口，然后是必须提前知道的[诈骗套路与法律边界]({{ '/shejiao/fang-zhapian/' | relative_url }})，最后是当你撑不住时可以走的[求助路径]({{ '/shejiao/xinli-jiankang/' | relative_url }})——包括学校 Counselling、可自行转介的 NHS Talking Therapies，以及 24 小时免费的 Samaritans 116 123。
 
-现在就可以记住一个号码：接到任何自称银行、要求你转账或提供信息的可疑电话，**挂断后拨 159**——它会把你接到自己开户银行的反诈团队，免费，而且这个短号无法被伪造。
+现在就可以记住一个号码：接到任何自称银行、要求你转账或提供信息的可疑电话，**挂断后拨 159**——按提示选择参与银行的反诈团队。费用依运营商；银行未参与时用卡背面或 App 中的号码联系，见 [159 官方说明](https://stopscamsuk.org.uk/campaign/get-help-now/)。

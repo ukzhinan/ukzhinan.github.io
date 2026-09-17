@@ -13,7 +13,7 @@ order: 1
 
 作者：Steven在英国 —— 英国大学副教授，2013 年来英，先做留学生、后留在英国高校任教  
 小红书: [@Steven在英国](https://www.xiaohongshu.com/user/profile/5f8aebe4000000000101f6f4)  
-邮箱：[xdaiuk@gmail.com](mailto:xdaiuk@gmail.com)
+合作邮箱：[xdaiuk@gmail.com](mailto:xdaiuk@gmail.com)
 
 > **声明**：本指南中的部分推荐链接为作者的合作/返利链接，这些收益将用于支付网站成本，同时帮助我保持这本指南免费；文中涉及的政策与价格（最低工资、签证工作时长、票价、税率等）会随时间调整，请以英国政府官方（gov.uk）等权威来源的最新信息为准。
 {: .callout .callout-warning}
@@ -53,11 +53,11 @@ Steven
 指南按你实际会遇到的顺序编排。如果你**还没出发**，从[出发前准备]({{ '/chufaqian/' | relative_url }})读起；**刚落地**，从[生活篇]({{ '/shenghuo/' | relative_url }})读起；只想解决某个具体问题，直接点进对应专题。
 
 - **[出发前准备]({{ '/chufaqian/' | relative_url }})** —— 人还在国内就该办的事：行前清单、行李带什么别带什么、钱怎么带过去、出发前在国内要办完的几件事
-- **[第一章 生活篇]({{ '/shenghuo/' | relative_url }})** —— 落地后要办的事：[租房]({{ '/shenghuo/zufang/' | relative_url }})、[看病与超市省钱]({{ '/shenghuo/yinshi-jiankang/' | relative_url }})、[交通]({{ '/shenghuo/jiaotong/' | relative_url }})、[银行开户]({{ '/shenghuo/yinhang-licai/' | relative_url }})、[手机与宽带]({{ '/shenghuo/shouji-wangluo/' | relative_url }})、[跨境物流与二手出清]({{ '/shenghuo/kuajing-wuliu/' | relative_url }})
+- **[第一章 生活篇]({{ '/shenghuo/' | relative_url }})** —— 落地后要办的事：[租房]({{ '/shenghuo/zufang/' | relative_url }})、[看病与超市省钱]({{ '/shenghuo/yinshi-jiankang/' | relative_url }})、[交通]({{ '/shenghuo/jiaotong/' | relative_url }})、[银行开户]({{ '/shenghuo/yinhang-licai/' | relative_url }})、[手机与宽带]({{ '/shenghuo/shouji-wangluo/' | relative_url }})、[跨境物流与二手出清]({{ '/shenghuo/kuajing-wuliu/' | relative_url }})、[学生省钱攻略]({{ '/shenghuo/youhui-xuesheng/' | relative_url }})
 - **[第二章 学业篇]({{ '/xueye/' | relative_url }})** —— 学习方式的转变：[Essay 与 Report 写作]({{ '/xueye/essay-report/' | relative_url }})、[与导师沟通]({{ '/xueye/daoshi-goutong/' | relative_url }})、[考试与 Presentation]({{ '/xueye/kaoshi-presentation/' | relative_url }})、[毕业论文]({{ '/xueye/dissertation/' | relative_url }})
 - **[第三章 社交与文化篇]({{ '/shejiao/' | relative_url }})** —— 怎么听懂英国人、怎么交到朋友，以及必须提前知道的[诈骗套路与法律常识]({{ '/shejiao/fang-zhapian/' | relative_url }})、[心理健康求助路径]({{ '/shejiao/xinli-jiankang/' | relative_url }})
 - **[第四章 工作与实习篇]({{ '/gongzuo/' | relative_url }})** —— [签证工时与合法权益]({{ '/gongzuo/dagong-zhengce/' | relative_url }})、[怎么找兼职]({{ '/gongzuo/zhao-jianzhi/' | relative_url }})、[简历与求职信模板]({{ '/gongzuo/jianli-qiuzhixin/' | relative_url }})、[面试]({{ '/gongzuo/mianshi/' | relative_url }})、[实习与 Placement]({{ '/gongzuo/shixi/' | relative_url }})
-- **[第五章 生活进阶篇]({{ '/jinjie/' | relative_url }})** —— [考驾照]({{ '/jinjie/jiazhao/' | relative_url }})、[税务与退税]({{ '/jinjie/shuiwu/' | relative_url }})、[学生优惠]({{ '/jinjie/youhui-xuesheng/' | relative_url }})、[毕业后职业规划]({{ '/jinjie/zhiye-fazhan/' | relative_url }})、[回国发展]({{ '/jinjie/huiguo/' | relative_url }})
+- **[第五章 生活进阶篇]({{ '/jinjie/' | relative_url }})** —— [考驾照]({{ '/jinjie/jiazhao/' | relative_url }})、[税务与退税]({{ '/jinjie/shuiwu/' | relative_url }})、[毕业后职业规划]({{ '/jinjie/zhiye-fazhan/' | relative_url }})、[回国发展]({{ '/jinjie/huiguo/' | relative_url }})
 - **[第六章 旅游篇]({{ '/lvxing/' | relative_url }})** —— [出行规划与签证总览]({{ '/lvxing/guihua/' | relative_url }})、[申根签证全流程]({{ '/lvxing/shengen/' | relative_url }})、[免签与易签国家清单]({{ '/lvxing/mianqian/' | relative_url }})、[廉航与订票]({{ '/lvxing/dingpiao/' | relative_url }})、[英国境内旅行]({{ '/lvxing/jingnei/' | relative_url }})
 - **[第七章 安全与应急篇]({{ '/anquan/' | relative_url }})** —— [紧急电话]({{ '/anquan/jinji-dianhua/' | relative_url }})、[突发情况处理步骤]({{ '/anquan/tufa-qingkuang/' | relative_url }})、[日常防范]({{ '/anquan/geren-fangfan/' | relative_url }})、[应急准备]({{ '/anquan/yingji-bao/' | relative_url }})
 - **[第八章 买房篇]({{ '/maifang/' | relative_url }})** —— [买还是继续租]({{ '/maifang/mai-vs-zu/' | relative_url }})、[预算与贷款]({{ '/maifang/daikuan/' | relative_url }})、[找房看房与出价]({{ '/maifang/kanfang-chujia/' | relative_url }})、[税费总账]({{ '/maifang/shuifei/' | relative_url }})、[从 offer 到交房]({{ '/maifang/liucheng/' | relative_url }})、[苏格兰买房]({{ '/maifang/sugelan/' | relative_url }})
@@ -66,10 +66,10 @@ Steven
 
 每个专题页末尾都有**常见问题**，收录的是那些「不知道就会吃亏」的问题：房东要求预付一整年能不能拒绝、志愿服务算不算签证工时、注册 GP 到底要不要证件、查重多少才算安全。
 
-> **只有十分钟的话**，先做这三件事：[注册 GP]({{ '/shenghuo/yinshi-jiankang/' | relative_url }})（**不需要**护照或住址证明，诊所不能以此拒绝）、[申请 Council Tax 豁免]({{ '/jinjie/youhui-xuesheng/' | relative_url }})（住校外一年可能省几百镑）、[注册 emergencySMS]({{ '/anquan/jinji-dianhua/' | relative_url }})（发短信 register 到 999，事发时才办来不及）。
+> **只有十分钟的话**，先做这三件事：[注册 GP]({{ '/shenghuo/yinshi-jiankang/' | relative_url }})（英格兰不以提供护照或住址证明为必要条件）、[申请 Council Tax 豁免]({{ '/shenghuo/youhui-xuesheng/' | relative_url }})（住校外一年可能省几百镑）、[保存紧急联系方式]({{ '/anquan/jinji-dianhua/' | relative_url }})（了解 999 与无法说话时的求助方式；有听力或言语障碍可预先注册 emergencySMS）。
 {: .callout .callout-tip}
 
-> **两条时效性提醒。** 其一，**英格兰的私人租房规则在 2026 年 5 月 1 日大改**：没有固定期限合同了，租客提前 2 个月通知即可退租，**预付租金上限 1 个月**——"没有英国担保人就预付一整年"已是违法要求（[详情]({{ '/shenghuo/zufang/' | relative_url }})）。其二，**毕业生签证（Graduate Route）的时长正在缩短**：本硕毕业生在 **2026 年 12 月 31 日前**递交仍可拿 **2 年**，2027 年 1 月 1 日起为 18 个月（[详情]({{ '/jinjie/zhiye-fazhan/' | relative_url }})）。
+> **两条时效性提醒。** 其一，**英格兰的私人租房规则在 2026 年 5 月 1 日大改**：适用的 assured 租约改为周期租约，通常可提前 2 个月书面通知退租，**预付租金上限 1 个月**——"没有英国担保人就预付一整年"在适用租约的新收款安排中已不允许；宿舍等有例外（[详情]({{ '/shenghuo/zufang/' | relative_url }})）。其二，**毕业生签证（Graduate Route）的时长正在缩短**：本硕毕业生在 **2026 年 12 月 31 日前**递交仍可拿 **2 年**，2027 年 1 月 1 日起为 18 个月（[详情]({{ '/jinjie/zhiye-fazhan/' | relative_url }})）。
 {: .callout .callout-warning}
 
 ## 常见问题，直接找步骤

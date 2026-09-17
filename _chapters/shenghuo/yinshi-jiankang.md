@@ -48,7 +48,7 @@ faq:
 <h2 id="sec-1">适应英国饮食的三步法</h2>
 
 1. **建立“基础厨房”**  
-    初来英国，建议先购置一套基础厨具：电饭煲（必备）、炒锅、煮锅、菜刀、砧板、滤水壶。英国水质偏硬，烧水壶和锅底容易结水垢，[BRITA 滤水壶](https://www.amazon.co.uk/dp/B0FC6T7FJD?tag=xdaiuk05-21)几乎是合租和宿舍的标配。大多数学校宿舍厨房有烤箱、炉灶、微波炉，但餐具需自备。IKEA、Wilko、Argos、Amazon是购买厨具的好去处。
+    初来英国，建议先购置一套基础厨具：电饭煲（按饮食习惯选择）、炒锅、煮锅、菜刀、砧板、滤水壶。英国水质偏硬，烧水壶和锅底容易结水垢，[BRITA 滤水壶](https://www.amazon.co.uk/dp/B0FC6T7FJD?tag=xdaiuk05-21)几乎是合租和宿舍的标配。大多数学校宿舍厨房有烤箱、炉灶、微波炉，但餐具需自备。IKEA、Wilko、Argos、Amazon是购买厨具的好去处。
     
 2. **锁定中餐食材来源**
     - **中超（Chinese Supermarket）**：如龙凤行、大中华、裕丰行等，米面粮油、火锅底料、调味料齐全。
@@ -75,7 +75,7 @@ faq:
 > **Yellow Sticker 时间**：多数超市在傍晚闭店前 1–2 小时集中贴临期折扣标签，面包、肉类、熟食最常见，折扣常到五折以下。买回来分装冷冻，是压低伙食费最有效的一招。
 {: .callout .callout-tip}
 
-在英国购物省钱，除了超市会员卡，**返现（Cashback）平台**也是我离不开的工具——通过返现链接下单，每一单都能拿回一定比例的现金。以下三个是我用过并推荐的：
+在英国购物省钱，除了超市会员卡，**返现（Cashback）平台**也是我离不开的工具——通过返现链接下单，符合活动及追踪条件的订单可能获得返现，到账前不要当作已省下的钱。以下三个是我用过并推荐的：
 
 - [**TopCashback**](https://www.topcashback.co.uk/ref/automaticdai/?source=App-iOS-TAFPage)：英国最大的返现平台，覆盖几千家零售商（Amazon、Boots、ASOS 等），免费注册，返现比例通常较高。
 - [**Tuck**](https://www.tuckapp.co/app?referralCode=STEVE47)：万能返现 App，几乎支持所有购物平台，每单返现 3%–15%；用推荐码 **STEVE47** 可获得新手礼包。
@@ -83,6 +83,8 @@ faq:
 
 另外值得一提的是，在英国Amazon是不可或缺的生活购物网站，同时它也在很多城市开展了超市送货业务，学生身份的话可以注册 [Amazon Prime Student](https://www.amazon.co.uk/joinstudent?tag=xdaiuk05-21)，享受前 6 个月免费，之后可按学生价（约为普通 Prime 的一半）续订，具体金额以 Amazon 页面显示为准。
 
+
+本页 GP 注册材料、NHS App 和费用主要按**英格兰**说明；苏格兰、威尔士及北爱尔兰的服务入口与收费分别核对。北爱尔兰紧急但不危及生命的求助请查 [当地 GP out-of-hours](https://www.nidirect.gov.uk/articles/gp-out-hours-service)，不直接套用 111 流程。
 
 <h2 id="sec-3">落地就办：注册 GP</h2>
 
@@ -195,4 +197,4 @@ GP（General Practitioner，家庭医生）是英国医疗体系的入口。除�
 - **Tesco / Sainsbury’s / Aldi 官方App**（会员优惠、电子积分卡）
 - **Yuka**（扫描食品条码查看健康评分）
 
-需要持续用药、专科转诊或学习调整时，继续看[1.10 长期用药与学习支持]({{ '/shenghuo/changqi-jiankang/' | relative_url }})，其中有医疗摘要清单、处方衔接步骤和学校支持申请模板。
+需要持续用药、专科转诊或学习调整时，继续看[1.11 长期用药与学习支持]({{ '/shenghuo/changqi-jiankang/' | relative_url }})，其中有医疗摘要清单、处方衔接步骤和学校支持申请模板。

@@ -6,7 +6,7 @@ nav: "附录2. 优惠与返利"
 permalink: /youhui/
 order: 12
 weight: 950
-updated: 2026-09-13
+updated: 2026-09-17
 ads: false
 num: "附"
 toc:
@@ -28,19 +28,19 @@ toc:
 
 <h2 id="sec-1">银行、支付与投资</h2>
 
-刚到英国最先要解决的就是账户问题。数字银行几分钟能开好、可以先用来收付款，但长期建议再开一个传统银行的学生账户来积累信用记录——详见 [1.4 理财与银行]({{ '/shenghuo/yinhang-licai/' | relative_url }})。
+刚到英国最先要解决的就是账户问题。开户须核对资格、材料和审批时间；数字银行也可能报送征信记录，不必为此固定开两类账户——详见 [1.4 理财与银行]({{ '/shenghuo/yinhang-licai/' | relative_url }})。
 
 | 服务 | 类型 | 适合谁 |
 | --- | --- | --- |
-| [Monzo](https://join.monzo.com/c/f9ykv2pc) | 数字银行 | 刚落地、还没有地址证明，需要一个能马上用的账户 |
+| [Monzo](https://join.monzo.com/c/f9ykv2pc) | 数字银行 | 希望在线开户，且符合身份及地址核验要求 |
 | [Revolut](https://revolut.com/referral/?referral-code=xiaotigp2!SEP2-26-AR-H3&geo-redirect) | 数字银行 / 多币种 | 经常有境外消费或多币种需求 |
-| [PayPal](https://py.pl/H8Ax6) | 电子支付 | 所有人——不少英国网站只支持 PayPal 付款 |
+| [PayPal](https://py.pl/H8Ax6) | 电子支付 | 需要对应支付方式或符合条款的买家保护 |
 | [InvestEngine](https://investengine.com/referral/u/gtnweo/) | 低费率 ETF / ISA | 生活有结余、想做长期小额投资 |
 | [Tembo](https://www.tembomoney.com/savings/join/tkn-3pltz4-j1zo78) | 储蓄 / Lifetime ISA | 打算将来在英国买房，想用 Lifetime ISA 攒首付（须 18–39 岁开户） |
 
 <h2 id="sec-2">手机套餐与宽带</h2>
 
-没有英国地址证明时，先用无合约的虚拟运营商过渡，落定后再签长约通常更划算——详见 [1.5 手机与网络]({{ '/shenghuo/shouji-wangluo/' | relative_url }})。
+没有英国地址证明时，先用无合约的虚拟运营商过渡，是否改签长约要按总价、覆盖和留英时间比较——详见 [1.5 手机与网络]({{ '/shenghuo/shouji-wangluo/' | relative_url }})。
 
 | 服务 | 类型 | 适合谁 |
 | --- | --- | --- |
@@ -62,16 +62,16 @@ toc:
 | 服务 | 说明 | 适合谁 |
 | --- | --- | --- |
 | [TopCashback](https://www.topcashback.co.uk/ref/automaticdai/?source=App-iOS-TAFPage) | 英国最大的返现平台，覆盖几千家零售商 | 网购频率高、愿意多点一步 |
-| [Tuck](https://www.tuckapp.co/app?referralCode=STEVE47) | 万能返现 App，每单返现 3%–15%，推荐码 **STEVE47** | 想覆盖更多购物平台 |
-| [EverUp](https://everup.onelink.me/9lgD/i93ma2rt) | 返现 + 储蓄结合，购物返现同时享储蓄利率 | 希望顺手把钱存起来 |
+| [Tuck](https://www.tuckapp.co/app?referralCode=STEVE47) | 返现 App，适用商家及比例按当前活动，推荐码 **STEVE47** | 想覆盖更多购物平台 |
+| [EverUp](https://everup.onelink.me/9lgD/i93ma2rt) | 购物返现服务；先核对当前产品、兑现方式和条件 | 希望顺手把钱存起来 |
 
 <h2 id="sec-5">学生折扣与交通</h2>
 
-这一组不是合作链接，纯粹是学生身份该用起来的权益。火车卡的回本速度通常最快——详见 [1.3 日常出行与交通]({{ '/shenghuo/jiaotong/' | relative_url }}) 和 [第五章 生活进阶篇]({{ '/jinjie/' | relative_url }})。
+这一组不是合作链接，纯粹是学生身份该用起来的权益。火车卡的回本速度通常最快——详见 [1.3 日常出行与交通]({{ '/shenghuo/jiaotong/' | relative_url }}) 和 [1.9 学生省钱攻略]({{ '/shenghuo/youhui-xuesheng/' | relative_url }})。
 
 | 权益 | 说明 |
 | --- | --- |
-| [16-25 Railcard](https://www.railcard.co.uk/) | 火车票 1/3 折扣，一年 £35、3 年 £80；26–30 岁可申请 26-30 Railcard，26 岁以上全日制学生同样可申请 16-25 |
+| [16-25 Railcard](https://www.railcard.co.uk/) | 合资格火车票减约 1/3，一年 £35、3 年 £80；26–30 岁可申请 26-30 Railcard，26 岁以上全日制学生同样可申请 16-25 |
 | [UNiDAYS](https://www.myunidays.com/GB/en-GB) / [TOTUM](https://www.totum.com/) | 覆盖服装、餐饮、软件等的学生折扣平台 |
 
 <h2 id="sec-6">影音与回国服务</h2>

@@ -2,7 +2,7 @@
 
 一份面向中国留学生的英国适应指南，覆盖**生活、学业、社交文化、工作实习、生活进阶、旅游、安全应急、买房**八大方面，外加**行前准备**，共 8 章 + 行前准备 + 三个附录。
 
-- **作者**：Steven在英国（邮箱 [xdaiuk@gmail.com](mailto:xdaiuk@gmail.com)）
+- **作者**：Steven在英国（合作邮箱 [xdaiuk@gmail.com](mailto:xdaiuk@gmail.com)）
 - **版本**：2026年9月 / v1.3
 - **网页版（实时更新）**：<https://silken-mule-579.notion.site/23a3dcda1bed8042a8fae1f7bd2a3873>
 
@@ -13,11 +13,11 @@
 | 章节 | URL | 专题数 |
 | --- | --- | --- |
 | 出发前准备 | `/chufaqian/` | 行前清单、行李、带钱方式、国内待办 |
-| 第一章 生活篇 | `/shenghuo/` | 10（租房、饮食健康、交通、银行理财、手机网络、跨境物流、水电账单、留学预算、消费投诉、长期用药与学习支持） |
+| 第一章 生活篇 | `/shenghuo/` | 11（租房、饮食健康、交通、银行理财、手机网络、跨境物流、水电账单、留学预算、学生省钱攻略、消费投诉、长期用药与学习支持） |
 | 第二章 学业篇 | `/xueye/` | 8（高等教育特点、听课笔记、Essay 写作、导师沟通、考试与 Presentation、毕业论文、挂科延期与申诉、小组作业） |
 | 第三章 社交与文化篇 | `/shejiao/` | 4（跨文化交流、拓展社交圈、防诈骗与法律、心理健康） |
 | 第四章 工作与实习篇 | `/gongzuo/` | 7（打工政策、兼职类型、找工作、简历求职信、面试、职场礼仪、实习与 Placement） |
-| 第五章 生活进阶篇 | `/jinjie/` | 5（驾照、税务、学生优惠、职业发展、回国发展） |
+| 第五章 生活进阶篇 | `/jinjie/` | 4（驾照、税务、职业发展、回国发展） |
 | 第六章 旅游篇 | `/lvxing/` | 5（出行规划与签证总览、申根签证、免签与易签国家、廉航与订票、英国境内旅行） |
 | 第七章 安全与应急篇 | `/anquan/` | 4（紧急电话、突发情况、个人防范、应急包） |
 | 第八章 买房篇 | `/maifang/` | 6（买还是继续租、预算与贷款、找房看房与出价、税费总账、从 offer 到交房、苏格兰买房） |
@@ -58,9 +58,10 @@ bundle exec jekyll serve
 
 ```bash
 bundle exec jekyll build
+python3 scripts/check_content.py
 ```
 
-静态文件输出到 `_site/`。
+静态文件输出到 `_site/`。内容检查会验证本地链接、图片与脚本路径、页内锚点、重复 ID、未展开的 Liquid 和 JSON-LD；部署前自动运行。外部站点和政策内容仍须人工复核。
 
 ### 结构
 
@@ -79,9 +80,9 @@ bundle exec jekyll build
 | 每年 4 月 | 最低工资四档 | `gongzuo/dagong-zhengce`、`gongzuo/jianzhi-leixing` | [gov.uk](https://www.gov.uk/national-minimum-wage-rates) |
 | 每年 4 月 | 个人免税额、ISA 额度、税务年度标注 | `jinjie/shuiwu`、`fulu` | [gov.uk](https://www.gov.uk/income-tax-rates) |
 | 每年 3 月 | 伦敦公交单程价、Hopper、日封顶 | `shenghuo/jiaotong` | [TfL](https://tfl.gov.uk/fares/find-fares/bus-and-tram-fares) |
-| 每年一次 | Railcard / Coachcard 年费 | `shenghuo/jiaotong`、`jinjie/youhui-xuesheng`、`youhui` | [railcard.co.uk](https://www.railcard.co.uk/)、[National Express](https://www.nationalexpress.com/en/offers/coachcards) |
+| 每年一次 | Railcard / Coachcard 年费 | `shenghuo/jiaotong`、`shenghuo/youhui-xuesheng`、`youhui` | [railcard.co.uk](https://www.railcard.co.uk/)、[National Express](https://www.nationalexpress.com/en/offers/coachcards) |
 | 不定期 | 签证工时、驾照工本费 | `gongzuo/dagong-zhengce`、`jinjie/jiazhao`、`yingyu`（「打工时间限制」一条） | gov.uk |
-| 每年一次；俄罗斯免签试行 2026-09-14 到期，是全站最先该核的一条 | 免签与易签国家清单、快照日期 | `lvxing/mianqian` | [外交部《中外互免签证协定一览表》](https://cs.mfa.gov.cn/gyls/lsgz/fwxx/)、IATA Travel Centre |
+| 每次行程前；俄罗斯旧免签试行已于 2026-09-14 到期，续期未核实 | 免签与易签国家清单、快照日期 | `lvxing/mianqian` | [外交部《中外互免签证协定一览表》](https://cs.mfa.gov.cn/gyls/lsgz/fwxx/)、IATA Travel Centre |
 | 每年 4 月 | SDLT 分档、首次购房减免门槛、追加房产附加税 | `maifang/shuifei`、`fulu` | [gov.uk](https://www.gov.uk/stamp-duty-land-tax/residential-property-rates) |
 | 每年 4 月 | LBTT 分档与 ADS、LTT 主表与高档表 | `maifang/shuifei`、`maifang/sugelan` | [revenue.scot](https://revenue.scot/taxes/land-buildings-transaction-tax)、[gov.wales](https://www.gov.wales/land-transaction-tax-rates-and-bands) |
 | 每年 4 月 | Lifetime ISA 年额度与 £450k 房价上限 | `maifang/daikuan`、`fulu` | [gov.uk](https://www.gov.uk/lifetime-isa) |
@@ -89,7 +90,7 @@ bundle exec jekyll build
 
 手机套餐、Prime Student、返现金额这类商业价格变动太频繁，页面上只写量级并注明「以官网为准」，不逐条追。
 
-**签证政策变动不预告，且过期信息会让读者在登机口被拦——所以 `lvxing/mianqian` 的三张表各自带快照日期，与 frontmatter 的 `updated` 分开，改错别字时不要顺手刷新快照日期。**
+**签证与入境规则应逐目的地核对，并保留来源和核对时点；不能把全站编辑日期当作每一项政策都已确认。** `lvxing/mianqian` 已将未经逐国核验的普通护照名单改为候选目的地索引，不能直接据此订票。
 
 **买房篇的每张税率表也各自带生效时点，同样与 frontmatter 的 `updated` 分开。**印花税分档已自 2025-04-01 回调（2022–2025 年的临时门槛 £250,000 / £425,000 已失效），而网上多数中文攻略仍在用旧数字——改错别字时不要顺手刷新这些生效时点，核实时也不要拿二手攻略当来源。
 
@@ -100,10 +101,12 @@ bundle exec jekyll build
 
 ## 实操专题的维护
 
-2026-09-17 新增生活篇 1.7–1.10、学业篇 2.7–2.8，并在租房页补充报修与退租证据清单。新页随 `parent` 和 `weight` 自动进入章节列表、侧栏、上下页导航与 sitemap。
+2026-09-17 新增水电账单、留学预算、消费投诉、长期用药与学习支持，以及学业篇 2.7–2.8；学生优惠移至生活篇 1.9「学生省钱攻略」，并在租房页补充报修与退租证据清单。新页随 `parent` 和 `weight` 自动进入章节列表、侧栏、上下页导航与 sitemap。
 
 - 水电页区分大不列颠能源账户与北爱尔兰制度，水费按地区说明；不写会频繁变动的套餐报价。
 - 预算页所有金额为教学算例，调整数字时同时核对月度、年度和资金占用合计，不将它们标作市场均价或签证资金门槛。
 - 消费投诉、报修、医疗和学业程序在相关段落附官方来源；复核时注意地区、合同和学校差异。
 - 学业申请不设全英统一期限，也不写「逾期一律无效」；保留校规、迟交理由和正式申请渠道的说明。
 - 修改页面的 `updated` 不代表顺带复核了旧页所有政策与金额；新增报修部分另标核对日期，原有税率、价格和签证快照仍按各自时点维护。
+
+本次全站内容审阅的范围、主要修订和复核边界见 [2026-09-17 审阅记录](docs/content-audit-2026-09-17.md)。

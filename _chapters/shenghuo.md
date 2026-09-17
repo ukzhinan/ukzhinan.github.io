@@ -1,7 +1,7 @@
 ---
 layout: chapter-hub
 title: "英国留学生活指南：落地英国要办的事"
-description: "英国留学生活指南：租房、饮食看病、交通、银行、通信、物流、水电账单、全年预算、消费投诉和长期用药与学习支持，十个专题按需查阅。"
+description: "英国留学生活指南：租房、饮食看病、交通、银行、通信、物流、水电账单、全年预算、学生省钱攻略、消费投诉和长期用药与学习支持，十一个专题按需查阅。"
 nav: "第一章 生活篇"
 key: shenghuo
 permalink: /shenghuo/
@@ -17,8 +17,8 @@ num: "01"
 
 有一个变化值得先知道：**2026 年 5 月 1 日起，英格兰的私人租房规则发生了近三十年来最大的一次改动**——固定期限合同取消、租客提前 2 个月通知即可退租、**预付租金上限 1 个月**。中介那句"你没有英国担保人，那就预付一整年"现在是违法要求（详见 [1.1 住宿选择与适应]({{ '/shenghuo/zufang/' | relative_url }})）。注意学校宿舍与 PBSA 不适用这套规则。
 
-几个新生最常踩的坑，提前知道能省不少事：私人租房的押金必须存入政府认可的押金保护方案（DPS），没进保护账户的押金后期很难要回；[16-25 Railcard]({{ '/shenghuo/jiaotong/' | relative_url }}) 对经常跨城的人几周就能回本；只用数字银行不建立传统银行记录，会影响之后的信用评分；住校外的全日制学生可以申请 **Council Tax 豁免**，但必须主动申请，不办会照常收到账单（详见 [5.3 最大化利用学生身份优惠]({{ '/jinjie/youhui-xuesheng/' | relative_url }})）。
+几个新生最常踩的坑，提前知道能省不少事：私人租房的押金必须存入政府认可的押金保护方案（DPS），没进保护账户的押金后期很难要回；[16-25 Railcard]({{ '/shenghuo/jiaotong/' | relative_url }}) 对经常跨城的人几周就能回本；只用数字银行不建立传统银行记录，会影响之后的信用评分；住校外的全日制学生可以申请 **Council Tax 豁免**，但必须主动申请，不办会照常收到账单（详见 [1.9 学生省钱攻略]({{ '/shenghuo/youhui-xuesheng/' | relative_url }})）。
 
 如果你已经安顿下来，这一章更适合当作按需查阅的手册——比如换房、换套餐、要往国内汇款、要从国内集运东西或毕业寄行李回国的时候，再回来看对应的一节。
 
-安顿下来后，四个实操专题帮你把生活安排完整：[1.7 水电账单]({{ '/shenghuo/shuidian-zhangdan/' | relative_url }})解决开户、抄表与搬家结清；[1.8 留学预算]({{ '/shenghuo/yusuan/' | relative_url }})把全年总额拆到付款日期；[1.9 消费投诉]({{ '/shenghuo/xiaofei-weiquan/' | relative_url }})处理退货、包裹和订阅；有持续健康需求时，提前看[1.10 长期用药与学习支持]({{ '/shenghuo/changqi-jiankang/' | relative_url }})。住房本身出问题则直接查[报修与投诉]({{ '/shenghuo/zufang/#sec-8' | relative_url }})。
+安顿下来后，五个实操专题帮你把生活安排完整：[1.7 水电账单]({{ '/shenghuo/shuidian-zhangdan/' | relative_url }})解决开户、抄表与搬家结清；[1.8 留学预算]({{ '/shenghuo/yusuan/' | relative_url }})把全年总额拆到付款日期；[1.9 学生省钱攻略]({{ '/shenghuo/youhui-xuesheng/' | relative_url }})接着梳理 Council Tax 豁免、交通折扣与软件优惠；[1.10 消费投诉]({{ '/shenghuo/xiaofei-weiquan/' | relative_url }})处理退货、包裹和订阅；有持续健康需求时，提前看[1.11 长期用药与学习支持]({{ '/shenghuo/changqi-jiankang/' | relative_url }})。住房本身出问题则直接查[报修与投诉]({{ '/shenghuo/zufang/#sec-8' | relative_url }})。

@@ -6,7 +6,7 @@ nav: "附录3. 常用英语"
 permalink: /yingyu/
 order: 13
 weight: 955
-updated: 2026-09-10
+updated: 2026-09-17
 num: "附"
 toc:
   - title: "学校与学习"
@@ -124,7 +124,7 @@ faq:
 | **校园商店** | uni shop | campus store | 校内商店，出售大学周边、文具和零食。 |
 | **志愿者活动** | volunteering | student volunteering | 学生参与社区服务或大学活动，增强简历竞争力。 |
 
-展开阅读：[3.2 拓展社交圈的途径]({{ '/shejiao/shejiao-quan/' | relative_url }})、[4.1 打工政策与合法权益]({{ '/gongzuo/dagong-zhengce/' | relative_url }})、[5.3 最大化利用学生身份优惠]({{ '/jinjie/youhui-xuesheng/' | relative_url }})。
+展开阅读：[3.2 拓展社交圈的途径]({{ '/shejiao/shejiao-quan/' | relative_url }})、[4.1 打工政策与合法权益]({{ '/gongzuo/dagong-zhengce/' | relative_url }})、[1.9 学生省钱攻略]({{ '/shenghuo/youhui-xuesheng/' | relative_url }})。
 
 <h2 id="sec-3">日常生活</h2>
 

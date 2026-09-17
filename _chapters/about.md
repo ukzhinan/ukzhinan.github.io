@@ -6,7 +6,7 @@ nav: "关于"
 permalink: /about/
 order: 14
 weight: 960
-updated: 2026-09-15
+updated: 2026-09-17
 ads: false
 num: "关"
 toc:
@@ -40,10 +40,10 @@ toc:
 
 这本指南的视角来自一条完整的路径：**先是留学生，后来留在英国高校任教**。前半段意味着这里写的坑我大多亲自踩过——租房、开户、看病、打工、报税，没有一项是从别处抄来的流程图；后半段意味着我在讲台的另一侧，又看过许多届学生反复卡在同样的地方，知道哪些问题是普遍的、哪些建议在真实约束下根本执行不了。
 
-指南里那些看起来过于具体的提醒——为什么 Seminar 上要提前写好一句话再去、为什么导师说 "That's an interesting point" 通常不是在夸你、为什么延期申请必须赶在截止日期之前——大多来自这两个身份的叠加。
+指南里那些看起来过于具体的提醒——为什么 Seminar 上要提前写好一句话再去、为什么听不准导师的反馈时应主动确认、为什么延期申请要尽早核对本校时限与迟交规则——大多来自这两个身份的叠加。
 
 - 小红书：[@Steven在英国](https://www.xiaohongshu.com/user/profile/5f8aebe4000000000101f6f4)
-- 邮箱：[xdaiuk@gmail.com](mailto:xdaiuk@gmail.com)
+- 合作邮箱：[xdaiuk@gmail.com](mailto:xdaiuk@gmail.com)
 
 指南长期免费，也会持续更新。
 

@@ -40,6 +40,7 @@ defaults:
 exclude:
   - README.md
   - docs/
+  - scripts/
   # 原始封面留作素材，线上只用压缩后的 cover.* 与 og-cover.jpg
   - assets/images/uk_survive_book_cover.png
 

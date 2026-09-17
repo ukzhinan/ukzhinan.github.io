@@ -35,6 +35,9 @@ jobs:
         env:
           JEKYLL_ENV: production
 
+      - name: Check local links and structured data
+        run: python3 scripts/check_content.py
+
       - name: Check build output
         run: |
           test -f _site/index.html

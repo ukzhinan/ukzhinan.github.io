@@ -7,7 +7,7 @@ key: gongzuo
 permalink: /gongzuo/
 order: 5
 weight: 500
-updated: 2026-09-07
+updated: 2026-09-17
 num: "04"
 ---
 
@@ -19,4 +19,4 @@ num: "04"
 
 这一章按实际流程拆成七个专题：先搞清政策边界和必办手续，再对比适合自己的兼职类型（含时薪区间与适配度对照表），然后走完整套求职流程——[简历与求职信]({{ '/gongzuo/jianli-qiuzhixin/' | relative_url }})（含可直接套用的模板）、[面试]({{ '/gongzuo/mianshi/' | relative_url }})，最后是入职后的职场礼仪。如果你的目标不是兼职而是职业发展，另见 [4.7 实习与 Placement]({{ '/gongzuo/shixi/' | relative_url }})——它是另一条线，申请节奏更接近 Graduate Scheme。
 
-如果你的目标不只是兼职而是毕业后留英工作，建议同时看 [5.4 提前布局职业发展]({{ '/jinjie/zhiye-fazhan/' | relative_url }})——大公司的 Graduate Scheme 秋招通常在入学后的第一个秋季就开始，一年制硕士最容易错过这个窗口。
+如果你的目标不只是兼职而是毕业后留英工作，建议同时看 [5.3 提前布局职业发展]({{ '/jinjie/zhiye-fazhan/' | relative_url }})——大公司的 Graduate Scheme 秋招通常在入学后的第一个秋季就开始，一年制硕士最容易错过这个窗口。

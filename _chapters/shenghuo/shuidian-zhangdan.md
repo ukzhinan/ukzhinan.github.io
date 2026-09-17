@@ -64,7 +64,7 @@ faq:
 
 水费不能照搬电费开户方式。英格兰和威尔士先查地址对应的水务公司，再确认是否按水表计费、污水处理是否另开账单；可通过 [Water UK 查询供应商](https://www.water.org.uk/customers/find-your-supplier)。苏格兰多数未装水表的住户通过 Council Tax 账单收取水与污水费，学生减免的适用情况须另核实，见 [Scottish Water 收费说明](https://www.scottishwater.co.uk/help-and-resources/faqs/charges-faqs/unmetered-household-charges-faqs)。北爱尔兰的家庭收费安排见 [NI Water 的收费与咨询入口](https://www.niwater.com/contact-us/billing-queries)。
 
-给合租房列一张总表：能源、水、[宽带]({{ '/shenghuo/shouji-wangluo/' | relative_url }})、[Council Tax]({{ '/jinjie/youhui-xuesheng/#sec-3' | relative_url }})、是否需要 [TV Licence](https://www.tvlicensing.co.uk/check-if-you-need-one)。每项写清付款人、周期、合同终止日。不要把「我是学生」当作所有账单的统一豁免理由。
+给合租房列一张总表：能源、水、[宽带]({{ '/shenghuo/shouji-wangluo/' | relative_url }})、[Council Tax]({{ '/shenghuo/youhui-xuesheng/#sec-3' | relative_url }})、是否需要 [TV Licence](https://www.tvlicensing.co.uk/check-if-you-need-one)。每项写清付款人、周期、合同终止日。不要把「我是学生」当作所有账单的统一豁免理由。
 
 <h2 id="sec-4">合租怎么分摊</h2>
 

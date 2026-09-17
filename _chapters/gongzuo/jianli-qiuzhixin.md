@@ -5,7 +5,7 @@ description: "英国兼职英文简历（CV）编写原则与常见错误，并�
 nav: "4.4 英文简历与求职信"
 parent: gongzuo
 weight: 504
-updated: 2026-09-07
+updated: 2026-09-17
 num: "4.4"
 toc:
   - title: "英文简历编写原则"
@@ -22,9 +22,9 @@ toc:
     anchor: "faq"
 faq:
   - q: "英国简历要不要放照片？"
-    a: "**绝对不要。** 这是中国学生最常犯、代价也最大的一个错误。英国有严格的反歧视法规，很多雇主和招聘系统收到带照片的简历会**直接丢弃**——不是因为你不够好，而是为了避免招聘过程被指控存在歧视。同理，**不要写年龄、出生日期、性别、婚姻状况、国籍、身份证号**。这些在中国简历里是标配，在英国是减分甚至出局项。"
+    a: "一般不放，重点写与岗位相关的经历、技能和成果，也无需写出生日期、婚姻状况或证件号码。不要把这种惯例理解为「法律禁止照片」或「带照片必被系统丢弃」；表演等特殊行业按明确的岗位要求提交。"
   - q: "那我的工作资格怎么体现？"
-    a: "不需要在简历上写签证细节，更不要写身份证号或护照号。如果岗位描述明确要求说明工作资格，可以在简历末尾或求职信里用一句话带过，例如「I have the right to work in the UK for up to 20 hours per week during term time」。正式的核验会在 offer 之后由雇主通过你的 **share code** 完成，不是简历阶段的事。"
+    a: "不需要在简历上写签证细节，更不要写身份证号或护照号。如果岗位描述明确要求说明工作资格，可以在简历末尾或求职信里用一句话带过，例如「I have the right to work in the UK for up to 20 hours per week during term time」。雇主必须在开工前核验工作资格，也可能在招聘过程中提前询问；按实际签证条件说明，不要默认人人都有每周 20 小时额度。"
   - q: "简历该写几页？"
     a: "兼职岗位**一页**，专业型或研究型岗位可以到两页。英国雇主平均花在一份简历上的时间只有几十秒，写满三页不会显得经验丰富，只会让人找不到重点。删掉与岗位无关的经历，比补充更多内容有效。"
   - q: "「References available upon request」还要写吗？"
@@ -48,14 +48,14 @@ faq:
 
 | 中国简历常见 | 英国简历 | 为什么 |
 | --- | --- | --- |
-| 证件照 | **绝对不要放** | 反歧视合规，很多雇主收到带照片的简历会直接丢弃 |
+| 证件照 | 一般不放 | 让筛选聚焦技能与经验；特殊行业按岗位要求 |
 | 年龄 / 出生日期 | 不写 | 同上，属于受保护特征 |
 | 性别、婚姻状况 | 不写 | 同上 |
 | 身份证号 / 护照号 | 不写 | 无关且涉及个人信息安全 |
 | 国籍 | 不必写 | 工作资格由 offer 后的 share code 核验，不在简历阶段 |
 | "References available upon request" | 省略 | 已过时，占地方；提前备好推荐人即可 |
 
-> 这一条是本页最重要的内容：**带照片的英国简历，很多时候连被读到的机会都没有**。不是内容不好，是流程上就被排除了。
+> 这一条是本页最重要的内容：**用有限篇幅展示与岗位相关的能力和成果**，一般无需照片及无关的个人信息。
 {: .callout .callout-warning}
 
 **然后是该怎么写**：
@@ -123,7 +123,7 @@ Personal Statement
 Detail-oriented Computer Science student at [University Name], with strong skills in Python, data analysis, and tutoring. Experienced in delivering customised learning sessions for students of varying skill levels.
 
 Experience  
-Math Tutor – Private (Remote & In-person) (2023 – Present)  
+Math Tutor – [Employer / Tutoring Centre] ([Dates])<br>
 - Delivered 1-on-1 sessions for GCSE and A-Level students.  
 - Improved student grades by an average of 20% over one term.  
 
@@ -215,3 +215,5 @@ Yours sincerely,
 6. **排版对 ATS 友好**：单栏、无表格、无文本框、关键信息不放在页眉页脚。
 7. **导出为 PDF**，文件名形如 `Zhang-Wei-CV.pdf`。
 8. **通读一遍找语法错**，或让 Careers Service 帮忙看——多数学校提供免费的简历诊断，用的人却不多。
+
+以上简历与求职信仅为格式示例，日期、雇主及成果须替换成自己的真实经历。持 Student 签证在英国从事家教或设计工作，应核实属于允许的雇佣关系；不可把模板当作开展自雇接单的许可。

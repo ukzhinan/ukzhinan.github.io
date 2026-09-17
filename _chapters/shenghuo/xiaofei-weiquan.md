@@ -3,11 +3,11 @@ layout: section
 title: "英国退货、退款与消费投诉：网购、包裹丢失和订阅取消"
 seo_title: "英国退货退款指南：消费投诉与取消订阅"
 description: "区分网购反悔与商品故障，整理退货证据、包裹未收到的联系步骤、订阅取消与消费投诉升级路径，附英文邮件模板。"
-nav: "1.9 退货退款与消费投诉"
+nav: "1.10 退货退款与消费投诉"
 parent: shenghuo
-weight: 209
+weight: 210
 updated: 2026-09-17
-num: "1.9"
+num: "1.10"
 toc:
   - title: "先判断是哪种问题"
     anchor: "sec-1"
