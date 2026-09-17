@@ -5,7 +5,7 @@ description: "英国留学行前准备完整清单：签证与住宿确认、行
 nav: "出发前准备"
 permalink: /chufaqian/
 weight: 199
-updated: 2026-09-07
+updated: 2026-09-17
 ads: false
 num: "备"
 toc:
@@ -127,3 +127,5 @@ faq:
 - **加湿器**：[Levoit 加湿器](https://www.amazon.co.uk/dp/B0D72N7642?tag=xdaiuk05-21)（25dB 静音、上加水）——冬天暖气房干燥，皮肤和睡眠都会舒服很多。
 - **维生素 D**：[H&B 维生素 D](https://www.amazon.co.uk/dp/B0B3JMN3KN?tag=xdaiuk05-21)——英国冬天日照极短，补充维生素 D 很常见（详见 [3.4 心理健康]({{ '/shejiao/xinli-jiankang/' | relative_url }})）。
 - **个人警报器**：[TECKNET 个人安全警报器](https://www.amazon.co.uk/dp/B0DMSHL85J?tag=xdaiuk05-21)（可充电、一拉即响）——夜间独行多一层保障（详见 [7.3 个人防范]({{ '/anquan/geren-fangfan/' | relative_url }})）。
+
+出发前再做两张表：[全年预算与付款时间线]({{ '/shenghuo/yusuan/' | relative_url }})，以及有长期治疗需求时的[医疗摘要与支持清单]({{ '/shenghuo/changqi-jiankang/' | relative_url }})。落地住进不包账单的房子，当天按[水电开户清单]({{ '/shenghuo/shuidian-zhangdan/' | relative_url }})拍表登记。

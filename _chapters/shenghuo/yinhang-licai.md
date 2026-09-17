@@ -6,7 +6,7 @@ description: "英国留学生银行开户指南：落地后开户的正确顺序
 nav: "1.4 理财与银行"
 parent: shenghuo
 weight: 204
-updated: 2026-09-07
+updated: 2026-09-17
 num: "1.4"
 toc:
   - title: "落地后的开户顺序"
@@ -218,3 +218,5 @@ faq:
 - **ClearScore / Credit Karma / Experian**：信用评分查询
 - **Emma**：多账户聚合与预算管理
 - [**InvestEngine**](https://investengine.com/referral/u/gtnweo/)：低费率 ETF 投资与 ISA 免税账户（先建立应急储蓄再考虑投资，详见 [5.2 税务与退税]({{ '/jinjie/shuiwu/' | relative_url }})）
+
+账户开好以后，用[1.8 留学预算与现金流]({{ '/shenghuo/yusuan/' | relative_url }})把学费、房租到期日和日常消费放到一张表里。

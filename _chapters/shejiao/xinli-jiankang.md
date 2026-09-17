@@ -6,7 +6,7 @@ description: "英国留学生心理健康指南：为什么第二学期最难、
 nav: "3.4 心理健康与情绪调适"
 parent: shejiao
 weight: 404
-updated: 2026-09-07
+updated: 2026-09-17
 num: "3.4"
 toc:
   - title: "文化适应曲线：第二学期往往最难"
@@ -31,7 +31,7 @@ faq:
   - q: "预约要等很久，等待期间能做什么？"
     a: "等待期不等于没有支持。**在英格兰，NHS Talking Therapies 通常可以自行转介（self-referral）**，不必先看 GP，可以在等待学校 counselling 的同时并行申请。另外：学校常有**同伴支持小组**和 wellbeing workshop；Samaritans 和 Shout 随时可用，不需要预约；许多学校提供免费的正念或睡眠课程。**告诉一个人**——朋友、personal tutor、宿舍的 Residence Life 团队——比独自等待有效得多。"
   - q: "状态不好影响了学业，学校能做什么？"
-    a: "有正式的制度出口，而且**必须在截止日期之前用**：**extension**（短期延期）和 **mitigating / extenuating circumstances**（重大突发情况，可影响成绩认定）。需要证明材料时，GP 的记录就是证据之一——这也是「先去看医生」的一个现实理由。硬扛着交一篇残稿、或者干脆缺考，可用的补救选项会少很多（见 [2.3 Essay 和 Report 怎么写]({{ '/xueye/essay-report/' | relative_url }})）。"
+    a: "有正式的制度出口，应**尽早按本校期限申请**；已经逾期也要询问迟交申请及证据要求：**extension**（短期延期）和 **mitigating / extenuating circumstances**（重大突发情况，可影响成绩认定）。需要证明材料时，GP 的记录就是证据之一——这也是「先去看医生」的一个现实理由。硬扛着交一篇残稿、或者干脆缺考，可用的补救选项会少很多（见 [2.7 学业困难](/xueye/xueye-kunnan/)）。"
   - q: "什么时候算「该求助了」？"
     a: "不要等到「够严重」才去。出现下列任意一条就值得找人谈：持续两周以上情绪低落或提不起兴趣；睡眠或食欲明显改变；无法集中注意力、开始逃课或拖到无法交作业；回避社交、连消息都不想回；用酒精或其他方式麻痹自己；出现伤害自己的念头（**这一条请立即求助，不要等**）。求助的门槛应该比你以为的低得多。"
   - q: "身边同学状态很差，我该怎么办？"
@@ -75,7 +75,7 @@ faq:
 
 <h2 id="sec-3">学业压力有正式的制度出口</h2>
 
-很多人硬扛的压力其实有制度可以缓解。英国大学普遍设有**特殊情况申请**（Extenuating / Mitigating Circumstances）：因病、家庭变故或心理健康问题影响了作业或考试，可以申请延期或补考机会。关键是**在截止日期前提交并附证明**（如 GP 信），事后补救的余地小得多。具体流程各校不同，问学院的 Student Support 或 Personal Tutor（沟通方式见 [2.4 如何与导师打交道]({{ '/xueye/daoshi-goutong/' | relative_url }})）。
+很多人硬扛的压力其实有制度可以缓解。英国大学普遍设有**特殊情况申请**（Extenuating / Mitigating Circumstances）：因病、家庭变故或心理健康问题影响了作业或考试，可以申请延期或补考机会。尽早按本校期限申请，核对证据与补交规则；已经逾期时说明迟交原因并询问补救流程。操作步骤见[2.7 学业困难]({{ '/xueye/xueye-kunnan/' | relative_url }})。长期状况还可联系[学习支持团队]({{ '/shenghuo/changqi-jiankang/#sec-4' | relative_url }})，讨论持续的合理调整。
 
 <h2 id="sec-4">什么时候该主动求助</h2>
 

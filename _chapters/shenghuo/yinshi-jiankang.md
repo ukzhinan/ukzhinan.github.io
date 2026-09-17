@@ -6,7 +6,7 @@ description: "英国留学生怎么吃得好又省钱：Tesco、Sainsbury、Aldi
 nav: "1.2 饮食与健康"
 parent: shenghuo
 weight: 202
-updated: 2026-09-07
+updated: 2026-09-17
 num: "1.2"
 toc:
   - title: "适应英国饮食的三步法"
@@ -194,3 +194,5 @@ GP（General Practitioner，家庭医生）是英国医疗体系的入口。除�
 - **Hungry Panda / 饭团外卖**（中餐外卖平台）
 - **Tesco / Sainsbury’s / Aldi 官方App**（会员优惠、电子积分卡）
 - **Yuka**（扫描食品条码查看健康评分）
+
+需要持续用药、专科转诊或学习调整时，继续看[1.10 长期用药与学习支持]({{ '/shenghuo/changqi-jiankang/' | relative_url }})，其中有医疗摘要清单、处方衔接步骤和学校支持申请模板。

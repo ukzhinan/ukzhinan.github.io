@@ -6,7 +6,7 @@ description: "英国大学和国内有什么不同：Lecture、Seminar、Worksho
 nav: "2.1 英国高等教育的特点"
 parent: xueye
 weight: 301
-updated: 2026-09-07
+updated: 2026-09-17
 num: "2.1"
 toc:
   - title: "四种课堂形态"
@@ -81,3 +81,5 @@ faq:
 > **案例**：
 > 我曾辅导过一位约克大学计算机硕士新生，她第一篇课程论文得了62分，一开始非常沮丧，觉得“才刚及格”。后来她才明白，在英国的标准中，这其实是不错的成绩——而且教授的反馈中明确指出了她的优点和改进方向。经过调整，她的下一篇论文就提升到了68分。
 {: .callout .callout-success}
+
+收到挂科或进度决定后，按[2.7 学业困难处理]({{ '/xueye/xueye-kunnan/' | relative_url }})核对补考条件、申请窗口与证据；小组评估的合作方法见[2.8 小组作业]({{ '/xueye/xiaozu-zuoye/' | relative_url }})。

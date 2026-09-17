@@ -2,11 +2,11 @@
 layout: section
 title: "英国留学租房指南：宿舍选择、私人租房流程与 2026 年新租赁法"
 seo_title: "英国留学租房指南：宿舍、私租与新租赁法"
-description: "英国留学住宿指南：学校宿舍与 PBSA 怎么选、2026 年 5 月生效的 Renters' Rights Act 对留学生意味着什么、合同与押金保护，以及怎么识别租房骗局。"
+description: "英国留学住宿指南：宿舍与 PBSA、私人租房新规、合同和押金保护，以及入住后暖气故障、潮湿发霉的报修投诉流程与退租证据清单。"
 nav: "1.1 住宿选择与适应"
 parent: shenghuo
 weight: 201
-updated: 2026-09-07
+updated: 2026-09-17
 num: "1.1"
 toc:
   - title: "第一年：学校宿舍与 PBSA"
@@ -23,9 +23,15 @@ toc:
     anchor: "sec-6"
   - title: "室友相处与文化适应"
     anchor: "sec-7"
+  - title: "入住后报修与投诉"
+    anchor: "sec-8"
+  - title: "退租证据清单"
+    anchor: "sec-9"
   - title: "常见问题"
     anchor: "faq"
 faq:
+  - q: "暖气坏了或墙上发霉，房东不处理怎么办？"
+    a: "先通过约定报修渠道通知房东或管理方，再用邮件保存日期、照片、影响和工单号，要求检查与维修安排。英格兰私人租房涉及健康安全且未解决时，可联系当地 council 的 environmental health 或 private sector housing 团队。不要自行停交房租；具体步骤见本页报修部分。"
   - q: "房东或中介要求我预付一整年房租，可以拒绝吗？"
     a: "在**英格兰**的私人租房里可以，而且这是违法要求。2026 年 5 月 1 日起，签约后房东最多只能收取 **1 个月**的预付租金，签约前则一分钱租金都不能收。过去中介常用「留学生没有英国收入记录」当理由要求预付 6–12 个月，现在这个做法已经不合法。学校宿舍和遵守国家规范的 PBSA 不受这条限制，仍可能按学期收费。"
   - q: "没有英国担保人（guarantor）怎么办？"
@@ -208,6 +214,8 @@ faq:
 **账单与 Council Tax** —— 确认是否 bills included，以及封顶额度。如果不含，入住后要自己开通水、电、网络：电力推荐[小章鱼 Octopus](https://share.octopus.energy/peach-snake-892)，价格与服务都在第一梯队；宽带可以看看 [Virgin Media](https://aklam.io/gmY1NK) 的高速套餐；水按当地供应商办理即可。全日制学生可以申请 **Council Tax 豁免**，但**必须主动申请**，不办会照常收到账单（详见 [5.3 最大化利用学生身份优惠]({{ '/jinjie/youhui-xuesheng/' | relative_url }})）。
 
 
+入住后的水电开户、读数和合租分摊，另见[1.7 水电账单]({{ '/shenghuo/shuidian-zhangdan/' | relative_url }})；比较房源时把租金、交通与账单一起放入[全年预算]({{ '/shenghuo/yusuan/' | relative_url }})。
+
 <h2 id="sec-5">押金：怎么保护、怎么要回</h2>
 
 英格兰有三家政府认可的押金保护方案：**Deposit Protection Service（DPS）**、**Tenancy Deposit Scheme（TDS）**、**mydeposits**。房东收到押金后必须在 **30 天内**把它存入其中一家，并向你提供 **prescribed information**（说明押金存在哪儿、怎么取回、争议怎么处理）。
@@ -270,6 +278,46 @@ faq:
 - **Tody**：清洁任务轮值分配。
 - **OpenRent**：直接联系房东，无中介费。
 - **Flatfair**：无押金租房方案，适合短期居住。
+
+<h2 id="sec-8">入住后报修与投诉</h2>
+
+**发现故障先报告，电话之后补一封邮件。** 以下投诉路径按英格兰私人租房说明；学校宿舍和 PBSA 先用运营方的报修与正式投诉系统，其他地区查当地住房规则。
+
+| 问题 | 第一动作 | 要保存什么 |
+| --- | --- | --- |
+| 暖气、热水故障 | 尽快通知房东或管理方，说明是否完全无法使用、是否有健康影响 | 首次报告日期、故障照片、工单号、对方承诺 |
+| 漏水、反复潮湿或霉斑 | 拍照并要求检查原因，说明位置、范围和复发时间 | 全景与近照、天气或漏水情况、历次维修记录 |
+| 普通设备损坏 | 核对 inventory 与合同，按报修渠道提交 | 入住状况、使用情况、故障日期 |
+| 火灾、疑似燃气泄漏或即时危险 | 先离开危险区域，联系相应紧急服务，再通知房东 | 在安全后记录；不要为取证留在危险处 |
+
+紧急联系方式见[安全与应急]({{ '/anquan/jinji-dianhua/' | relative_url }})。别自行拆修燃气或电气设备。
+
+**报修邮件要让人能安排工作**：完整地址、具体房间、首次发现时间、影响、照片、方便进入检查的时间，以及希望对方确认的下一步。
+
+> Subject: Repair request — [address], [heating / leak / damp]
+>
+> I first noticed [problem] on [date] and reported it via [channel/reference] on [date]. It affects [room and practical impact]. Attached are dated photos. Please confirm when the property will be inspected and the repair plan. I am available to arrange access at [times]. Please also advise on any immediate safety measures.
+
+反复发霉时，记录渗水、窗边或墙体潮湿的位置，要求调查成因。清除表面霉斑不代表已经解决问题；不要仅凭一句「少晾衣服」就停止追问，也不要仅凭照片自行判断责任。
+
+**一直没处理怎么办**：用原工单书面追问，随后按房东或管理方的正式投诉流程提交时间线。如果房屋问题可能损害健康或安全，可联系当地 council 的 environmental health / private sector housing 团队；大学住宿团队或学生会也可帮助整理材料。维修责任及议会求助入口见 [GOV.UK 租房维修指南](https://www.gov.uk/private-renting/repairs)。
+
+维修等待期间继续按约付租金；自行扣租或垫付后从房租中扣除可能引起新的争议，应先获得针对自己情况的住房建议。维修期限要结合紧迫性和适用制度判断，不把社房或别的地区的固定期限直接套到你的合同上。以上维修规则核对日期：**2026-09-17**。
+
+<h2 id="sec-9">退租证据清单</h2>
+
+退租不是拍几张照片就结束，还要证明你何时结束责任、如何交还房屋，以及对方为什么扣钱。
+
+| 时间 | 要做的事 | 保存材料 |
+| --- | --- | --- |
+| 确定离开前 | 核实适用的通知或解约流程，书面确认结束日期 | 通知、送达证明、对方确认 |
+| 清空后、交钥匙前 | 对照入住 inventory 逐间拍摄，记录已有损坏与未修问题 | 原始照片视频、入住清单、报修往来 |
+| 交房当天 | 拍表、交还所有钥匙、确认检查安排 | 最终读数、钥匙签收、check-out report |
+| 交房之后 | 留转寄地址，核对最终账单及押金明细 | 账单、付款证明、逐项扣款证据 |
+
+若中介声称「需要清洁 £200」，要求说明具体位置、证据和费用依据，再与入住清单对照。对有争议的报告书面指出不同意的项目，保存原件，不要只在电话里争论。
+
+押金争议按[本页押金流程](#sec-5)处理，并核对你所用方案的争议提交期限；不要因一直与房东协商而错过。能源结清见[搬家账单清单]({{ '/shenghuo/shuidian-zhangdan/#sec-6' | relative_url }})，离英事项见[回国准备]({{ '/jinjie/huiguo/' | relative_url }})。
 
 > **从长期租房转向考虑买房？** 先别看房源，先算两笔账：一次性成本要住多久才摊得平，见 [8.1 买还是继续租]({{ '/maifang/mai-vs-zu/' | relative_url }})；你的签证与收入能不能贷到款、能贷多少，见 [8.2 预算与贷款]({{ '/maifang/daikuan/' | relative_url }})。**买房本身不限签证身份，受限的是贷款**——这一点和多数人的印象相反。
 {: .callout .callout-info}

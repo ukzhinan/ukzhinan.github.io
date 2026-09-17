@@ -6,7 +6,7 @@ description: "英国硕士毕业论文（Dissertation）指南：与平时 Essay
 nav: "2.6 毕业论文（Dissertation）"
 parent: xueye
 weight: 306
-updated: 2026-09-07
+updated: 2026-09-17
 num: "2.6"
 toc:
   - title: "它和平时 Essay 不一样在哪"
@@ -45,7 +45,7 @@ faq:
   - q: "会不会有答辩（viva）？"
     a: "**授课型硕士多数没有正式 viva**，少数专业有一个简短的成果展示或口头答辩；研究型硕士和博士才有正式的 viva voce。具体以你们专业的模块手册为准。如果有答辩环节，提前了解形式、时长和评分占比，用 [2.5 考试与 Presentation]({{ '/xueye/kaoshi-presentation/' | relative_url }}) 里 presentation 的方法准备。"
   - q: "写不完能延期吗？"
-    a: "能，而且比硬交一篇残稿明智。毕业论文同样适用 **extension**（短期延期）和 **mitigating circumstances**（重大突发情况）两套机制，**关键是截止日前申请**。毕业论文逾期提交的后果通常比普通作业更重。身体或情绪状态出问题时，先看 GP 留下记录（见 [3.4 心理健康]({{ '/shejiao/xinli-jiankang/' | relative_url }})）。"
+    a: "能，而且比硬交一篇残稿明智。毕业论文同样适用 **extension**（短期延期）和 **mitigating circumstances**（重大突发情况）两套机制，**尽早按本校期限申请**；已逾期时询问迟交申请与证据要求，不能默认获批。具体步骤见 [2.7 学业困难](/xueye/xueye-kunnan/)。身体或情绪状态出问题时，先看 GP 留下记录（见 [3.4 心理健康](/shejiao/xinli-jiankang/)）。"
 ---
 
 对一年制硕士来说，毕业论文（Dissertation）是整段留学里**最大、最独立、占分最重**的一份作业——多数授课型硕士的夏季学期几乎全部投在它上面。它和你在 [2.3]({{ '/xueye/essay-report/' | relative_url }}) 里写的 Essay 不是一回事：没有老师给你出题、没有明确的「正确答案」，从选题到收数据到写作，每一步都要你自己拿主意。

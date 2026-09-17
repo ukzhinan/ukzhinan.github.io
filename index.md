@@ -71,3 +71,10 @@ Steven
 
 > **两条时效性提醒。** 其一，**英格兰的私人租房规则在 2026 年 5 月 1 日大改**：没有固定期限合同了，租客提前 2 个月通知即可退租，**预付租金上限 1 个月**——"没有英国担保人就预付一整年"已是违法要求（[详情]({{ '/shenghuo/zufang/' | relative_url }})）。其二，**毕业生签证（Graduate Route）的时长正在缩短**：本硕毕业生在 **2026 年 12 月 31 日前**递交仍可拿 **2 年**，2027 年 1 月 1 日起为 18 个月（[详情]({{ '/jinjie/zhiye-fazhan/' | relative_url }})）。
 {: .callout .callout-warning}
+
+## 常见问题，直接找步骤
+
+- 刚搬进不包账单的房子：[水电开户与抄表]({{ '/shenghuo/shuidian-zhangdan/' | relative_url }})；想算全年要准备多少钱：[留学预算与现金流]({{ '/shenghuo/yusuan/' | relative_url }})。
+- 暖气坏了、墙面发霉：[租房报修与投诉]({{ '/shenghuo/zufang/#sec-8' | relative_url }})；退货或取消订阅遇到问题：[消费投诉]({{ '/shenghuo/xiaofei-weiquan/' | relative_url }})。
+- 需要持续治疗或学习调整：[长期用药与学习支持]({{ '/shenghuo/changqi-jiankang/' | relative_url }})。
+- 挂科、交不出作业或要申诉：[学业困难处理]({{ '/xueye/xueye-kunnan/' | relative_url }})；小组分工和贡献有争议：[小组作业与合作]({{ '/xueye/xiaozu-zuoye/' | relative_url }})。

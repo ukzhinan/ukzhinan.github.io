@@ -6,7 +6,7 @@ description: "英国大学 Essay 与 Report 写作全流程：读懂题意与写
 nav: "2.3 如何写好 Essay 和 Report"
 parent: xueye
 weight: 303
-updated: 2026-09-07
+updated: 2026-09-17
 num: "2.3"
 toc:
   - title: "明确题意与写作指令"
@@ -39,7 +39,7 @@ faq:
   - q: "Essay 里能用 I think 吗？"
     a: "多数学科不鼓励，但原因常被误解——问题不在「第一人称」，而在于 I think 把观点降级成了个人感受，而学术写作要求观点由证据支撑。把「I think A is better」改成「The evidence from X suggests that A is more effective, although Y challenges this on the grounds of…」，立场更强而不是更弱。部分学科（反思性写作、部分社科）反而要求第一人称，以模块要求为准。"
   - q: "写不完，能申请延期吗？"
-    a: "能，而且比硬交一篇残稿明智得多。英国大学普遍有 **extension**（短期延期，通常用于可预见的小状况）和 **mitigating circumstances / extenuating circumstances**（重大突发情况，如疾病、事故、家庭变故）两套机制。关键是**在截止日期之前提出**，并准备好证明材料（如 GP 的证明）。逾期未申请就很难补救——逾期提交通常按天扣分，超过一定天数直接记零分。"
+    a: "能，而且比硬交一篇残稿明智得多。英国大学普遍有 **extension**（短期延期，通常用于可预见的小状况）和 **mitigating circumstances / extenuating circumstances**（重大突发情况，如疾病、事故、家庭变故）两套机制。尽早按本校申请期限提交，证据与补交要求以校规为准。已经逾期也应询问迟交申请或申诉流程，并说明迟交原因；详见 [2.7 学业困难](/xueye/xueye-kunnan/)。"
   - q: "论文格式用 Harvard 还是 APA？"
     a: "**看你学校和院系的规定**，不要凭喜好选，也不要在同一篇里混用。多数学校图书馆网站上有本校版本的引用指南（同为 Harvard，不同学校的细节也可能不同）。用 Zotero 或 EndNote 之类的工具自动生成，能省下大量校对时间，但生成后仍要抽查几条——工具对中文文献、报告类资料的处理经常出错。"
   - q: "学校的 Academic Writing Service 值得用吗？"
@@ -158,9 +158,9 @@ Essay和Report是英国大学评估学生学术能力的两大主要形式，也
 | 机制 | 适用情形 | 关键点 |
 | --- | --- | --- |
 | **Extension** | 可预见的小状况、短期延后 | 流程较轻，通常由模块负责人或学院审批 |
-| **Mitigating / Extenuating Circumstances** | 疾病、事故、家庭变故等重大突发情况 | 需要证明材料（如 GP 证明），可影响成绩认定 |
+| **Mitigating / Extenuating Circumstances** | 疾病、事故、家庭变故等重大突发情况 | 证据要求依校规，可能安排延期评估等补救 |
 
-**关键在于「截止日期之前提出」。** 逾期提交通常按天扣分，超过一定天数直接记零分，而事后再申请会困难得多。身体或情绪状况导致写不下去时，先去看 GP 并留下记录，这既是就医也是证据（见 [3.4 心理健康与支持系统]({{ '/shejiao/xinli-jiankang/' | relative_url }})）。
+**尽早核对本校申请期限并走正式渠道。** 逾期扣分、证据及迟交理由的规定因校而异，已经错过窗口也要及时询问可用流程，不要自行认定无法补救。未获批准前确认原提交要求如何适用。操作步骤、证据表与邮件模板见[2.7 挂科、延期与学业申诉]({{ '/xueye/xueye-kunnan/' | relative_url }})；需要照护时同时联系[心理健康支持]({{ '/shejiao/xinli-jiankang/' | relative_url }})。
 
 <h2 id="sec-8">中国学生常犯的论文错误清单</h2>
 
