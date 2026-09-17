@@ -8,7 +8,7 @@ key: lvxing
 permalink: /lvxing/
 order: 7
 weight: 700
-updated: 2026-09-08
+updated: 2026-09-17
 num: "06"
 ---
 
@@ -20,3 +20,5 @@ num: "06"
 {: .callout .callout-warning}
 
 不确定某个目的地要办什么手续，从 [6.1 出行规划与签证总览]({{ '/lvxing/guihua/' | relative_url }}) 开始；只想搞清楚申根签证怎么办，直接看 [6.2 申根签证全流程]({{ '/lvxing/shengen/' | relative_url }})；想找不用办申根签证也能去的地方，看 [6.3 免签与易签国家清单]({{ '/lvxing/mianqian/' | relative_url }})；机票和行李怎么订才不把省下的钱赔回去，看 [6.4 廉航与订票实操]({{ '/lvxing/dingpiao/' | relative_url }})；只想留在英国境内省着玩，看 [6.5 英国境内旅行]({{ '/lvxing/jingnei/' | relative_url }})。
+
+去欧洲之前也把换汇与支付安排好：[Revolut 多币种换汇与旅行支付]({{ '/lvxing/dingpiao/#sec-7' | relative_url }})介绍提前换汇、刷卡自动兑换、套餐费用和选择当地货币付款的方法，并附作者的推广链接。
