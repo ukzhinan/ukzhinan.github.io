@@ -4,7 +4,6 @@
 
 - **作者**：Steven在英国（合作邮箱 [xdaiuk@gmail.com](mailto:xdaiuk@gmail.com)）
 - **版本**：2026年9月 / v1.3
-- **网页版（实时更新）**：<https://silken-mule-579.notion.site/23a3dcda1bed8042a8fae1f7bd2a3873>
 
 ## 目录
 
