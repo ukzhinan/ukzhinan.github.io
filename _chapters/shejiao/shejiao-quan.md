@@ -5,8 +5,13 @@ description: "英国留学拓展社交圈的具体做法：Freshers' Week 怎么
 nav: "3.2 拓展社交圈的途径"
 parent: shejiao
 weight: 402
-updated: 2026-09-17
+updated: 2026-09-19
 num: "3.2"
+action:
+  audience: "希望认识朋友或参加活动的学生。"
+  prepare: "兴趣、时间安排、活动地点与个人边界。"
+  steps: "选一个能持续参加的活动；主动联系；按双方意愿保持来往。"
+  help: "活动信息找学生会或社团负责人；孤独或压力可寻求支持。"
 toc:
   - title: "校内渠道"
     anchor: "sec-1"

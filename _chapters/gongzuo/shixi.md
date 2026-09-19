@@ -6,8 +6,13 @@ description: "英国留学生实习（Internship / Placement）指南：实习�
 nav: "4.7 实习与 Placement"
 parent: gongzuo
 weight: 507
-updated: 2026-09-17
+updated: 2026-09-19
 num: "4.7"
+action:
+  audience: "申请 Internship 或课程 Placement 的学生。"
+  prepare: "课程安排、岗位说明、个人许可条件与申请日期。"
+  steps: "确认实习类型；核对学校与雇主要求；安排申请及记录。"
+  help: "课程与签证问题先问学校；岗位条件由雇主书面确认。"
 toc:
   - title: "实习和兼职不是一回事"
     anchor: "sec-1"

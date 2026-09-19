@@ -6,8 +6,13 @@ description: "长期用药学生的行前资料、抵英医疗衔接、重复处
 nav: "1.11 长期用药与学习支持"
 parent: shenghuo
 weight: 211
-updated: 2026-09-17
+updated: 2026-09-19
 num: "1.11"
+action:
+  audience: "需要持续治疗、用药或学习调整的学生；医疗入口按地区确认。"
+  prepare: "医疗摘要、药名剂量、既往检查及对学习的影响。"
+  steps: "提前联系医疗服务；安排续药和转诊；申请学校学习支持。"
+  help: "药物将用完时联系医生或药师；学校安排找 disability service。"
 toc:
   - title: "出发前准备医疗摘要"
     anchor: "sec-1"
@@ -50,7 +55,7 @@ faq:
 
 <h2 id="sec-2">落地后把治疗接上</h2>
 
-尽早[注册 GP]({{ '/shenghuo/yinshi-jiankang/#sec-3' | relative_url }})，预约时说明你有持续治疗需求，以及现有药物预计何时用完。就诊带摘要、原处方和包装，问清：
+尽早[注册 GP]({{ '/shenghuo/nhs-kanbing/#sec-1' | relative_url }})，预约时说明你有持续治疗需求，以及现有药物预计何时用完。就诊带摘要、原处方和包装，问清：
 
 1. 谁负责下一次处方？是否需要专科先评估？
 2. 现有药物在当地能否供应，是否要做检查或调整方案？
@@ -67,7 +72,7 @@ faq:
 
 需要专科时，多数 NHS 专科服务通过 GP 转诊，也有可自我转介的服务。记录转诊日期、机构和跟进方式；等待期间症状变化，应向医生反馈，不要只等预约短信。见 [NHS 专科转诊说明](https://www.nhs.uk/nhs-services/hospitals/referrals-for-specialist-care/)。
 
-处方费、牙科等费用另见[医疗费用]({{ '/shenghuo/yinshi-jiankang/#sec-5' | relative_url }})；预算中单列预计自付额，不在本页重复易变的收费数字。
+处方费、牙科等费用另见[医疗费用]({{ '/shenghuo/nhs-kanbing/#sec-5' | relative_url }})；预算中单列预计自付额，不在本页重复易变的收费数字。
 
 <h2 id="sec-4">向学校申请学习支持</h2>
 

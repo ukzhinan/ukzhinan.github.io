@@ -6,8 +6,13 @@ description: "从入住当天拍读数到搬家结清：英国能源账户开通
 nav: "1.7 水电账单与入住开通"
 parent: shenghuo
 weight: 207
-updated: 2026-09-17
+updated: 2026-09-19
 num: "1.7"
+action:
+  audience: "搬入不包账单住房或需要结清账单的学生；地区制度有差异。"
+  prepare: "合同、表号与读数照片、入住日期和供应商资料。"
+  steps: "确认谁负责账单；登记开户与读数；核对账单和付款。"
+  help: "账户问题找供应商；房屋设备故障同时联系房东。"
 toc:
   - title: "入住当天的清单"
     anchor: "sec-1"
@@ -95,3 +100,5 @@ faq:
 - 与室友把余额退款、最后一笔费用和账户变更写清楚。
 
 退租证据清单见[报修与退租]({{ '/shenghuo/zufang/#sec-9' | relative_url }})；全年支出安排见[留学预算]({{ '/shenghuo/yusuan/' | relative_url }})。
+
+搬家时同步安排住房、账户和文件交接，见[搬家与离英清单]({{ '/jinjie/banjia-lijing/' | relative_url }})。

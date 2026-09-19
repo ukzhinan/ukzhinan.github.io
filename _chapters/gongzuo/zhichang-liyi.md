@@ -6,8 +6,13 @@ description: "英国兼职入职准备清单、职场行为守则与实用工作
 nav: "4.6 职场礼仪与入职"
 parent: gongzuo
 weight: 506
-updated: 2026-09-17
+updated: 2026-09-19
 num: "4.6"
+action:
+  audience: "准备入职或处理日常雇佣安排的学生。"
+  prepare: "合同、入职清单、工作权限材料与排班信息。"
+  steps: "确认岗位和条款；完成入职核验；保留工时工资和沟通记录。"
+  help: "安排问题找主管或 HR；权益问题按正文独立渠道求助。"
 toc:
   - title: "1. 第一天上班准备清单"
     anchor: "sec-1"

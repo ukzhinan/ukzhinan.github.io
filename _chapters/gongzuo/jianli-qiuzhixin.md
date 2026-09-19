@@ -5,8 +5,13 @@ description: "英国兼职英文简历（CV）编写原则与常见错误，并�
 nav: "4.4 英文简历与求职信"
 parent: gongzuo
 weight: 504
-updated: 2026-09-17
+updated: 2026-09-19
 num: "4.4"
+action:
+  audience: "准备兼职简历与求职信的学生。"
+  prepare: "岗位说明、真实经历、联系方式与申请要求。"
+  steps: "提取岗位要求；用经历提供证据；检查后保存投递版本。"
+  help: "请 Careers Service 提供反馈，模板中的例子要换成真实经历。"
 toc:
   - title: "英文简历编写原则"
     anchor: "sec-1"
@@ -217,3 +222,5 @@ Yours sincerely,
 8. **通读一遍找语法错**，或让 Careers Service 帮忙看——多数学校提供免费的简历诊断，用的人却不多。
 
 以上简历与求职信仅为格式示例，日期、雇主及成果须替换成自己的真实经历。持 Student 签证在英国从事家教或设计工作，应核实属于允许的雇佣关系；不可把模板当作开展自雇接单的许可。
+
+本页示例侧重兼职；申请毕业岗位时，另用[毕业生 CV 与申请题示例]({{ '/gongzuo/biye-qiuzhi/' | relative_url }})。

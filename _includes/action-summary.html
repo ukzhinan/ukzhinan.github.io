@@ -1,0 +1,11 @@
+{% if page.action %}
+<aside class="callout callout-tip action-summary" aria-label="开始办理">
+  <p><strong>先做这几步</strong></p>
+  <dl>
+    <dt>适用对象</dt><dd>{{ page.action.audience | escape }}</dd>
+    <dt>准备材料</dt><dd>{{ page.action.prepare | escape }}</dd>
+    <dt>办理顺序</dt><dd>{{ page.action.steps | escape }}</dd>
+    <dt>遇到困难</dt><dd>{{ page.action.help | escape }}</dd>
+  </dl>
+</aside>
+{% endif %}

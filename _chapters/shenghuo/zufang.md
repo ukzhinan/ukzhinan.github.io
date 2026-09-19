@@ -6,8 +6,13 @@ description: "英国留学住宿指南：宿舍与 PBSA、私人租房新规、�
 nav: "1.1 住宿选择与适应"
 parent: shenghuo
 weight: 201
-updated: 2026-09-17
+updated: 2026-09-19
 num: "1.1"
+action:
+  audience: "准备租房、报修或退租的学生；先确认地区及租约类型。"
+  prepare: "预算、合同、房源资料、入住照片和往来记录。"
+  steps: "确认适用规则；核对房源与合同；保存付款和房屋状态证据。"
+  help: "联系学校住宿顾问；争议按正文的地区投诉与押金渠道处理。"
 toc:
   - title: "第一年：学校宿舍与 PBSA"
     anchor: "sec-1"
@@ -306,6 +311,14 @@ faq:
 
 维修等待期间继续按约付租金；自行扣租或垫付后从房租中扣除可能引起新的争议，应先获得针对自己情况的住房建议。维修期限要结合紧迫性和适用制度判断，不把社房或别的地区的固定期限直接套到你的合同上。以上维修规则核对日期：**2026-09-17**。
 
+**报修邮件模板**（按实际情况填写，紧急危险先联系紧急服务或住宿方应急渠道）：
+
+> Subject: Repair request — [address], [problem]
+>
+> I am reporting [fault] first noticed on [date]. It affects [room / heating / water / daily use]. I have attached [photos or other relevant records]. Please confirm receipt, the next steps and the expected attendance time. I can be contacted by [method] to agree access. Previous reference: [if any].
+
+保留发送记录、报修编号及每次回复。邮件中的期望到访时间不是本指南规定的法定维修期限；后续催办仍按本页地区与合同对应的流程。
+
 <h2 id="sec-9">退租证据清单</h2>
 
 退租不是拍几张照片就结束，还要证明你何时结束责任、如何交还房屋，以及对方为什么扣钱。
@@ -323,3 +336,5 @@ faq:
 
 > **从长期租房转向考虑买房？** 先别看房源，先算两笔账：一次性成本要住多久才摊得平，见 [8.1 买还是继续租]({{ '/maifang/mai-vs-zu/' | relative_url }})；你的签证与收入能不能贷到款、能贷多少，见 [8.2 预算与贷款]({{ '/maifang/daikuan/' | relative_url }})。**买房本身不限签证身份，受限的是贷款**——这一点和多数人的印象相反。
 {: .callout .callout-info}
+
+搬家前把租约、账单、钥匙和地址变更放入[交接清单]({{ '/jinjie/banjia-lijing/' | relative_url }})。

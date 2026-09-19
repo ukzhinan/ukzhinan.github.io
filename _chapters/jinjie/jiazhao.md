@@ -6,8 +6,13 @@ description: "持中国驾照在英国可开 12 个月，之后必须换英国�
 nav: "5.1 在英国申请驾照"
 parent: jinjie
 weight: 601
-updated: 2026-09-07
+updated: 2026-09-19
 num: "5.1"
+action:
+  audience: "计划在英国驾驶或考照的人；GB 与 NI 分别核对。"
+  prepare: "现有驾照、居留时间线、所在地和考试预算。"
+  steps: "确认当前资格；查当地申请与考试要求；安排保险和练习。"
+  help: "资格不清时使用正文 DVLA / DVA 官方入口。"
 toc:
   - title: "先搞清楚：你现在能不能开车"
     anchor: "sec-3"

@@ -6,8 +6,13 @@ description: "英国留学生税务指南：学生签证禁止自雇这条红线
 nav: "5.2 学生税务规划"
 parent: jinjie
 weight: 602
-updated: 2026-09-17
+updated: 2026-09-19
 num: "5.2"
+action:
+  audience: "需要看懂工资扣税、税码或退税的学生。"
+  prepare: "工资单、税务记录、雇佣日期与个人税务账户。"
+  steps: "核对实际收入和税码；查看扣税记录；按适用流程询问或更正。"
+  help: "工资数据问 payroll；个人税务问题找 HMRC 或税务专业人士。"
 toc:
   - title: "基本规则：税级与国民保险"
     anchor: "sec-1"

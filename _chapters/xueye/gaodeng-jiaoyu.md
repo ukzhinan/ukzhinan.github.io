@@ -6,8 +6,13 @@ description: "英国大学和国内有什么不同：Lecture、Seminar、Worksho
 nav: "2.1 英国高等教育的特点"
 parent: xueye
 weight: 301
-updated: 2026-09-17
+updated: 2026-09-19
 num: "2.1"
+action:
+  audience: "刚进入英国课程、需要理解教学与评分的学生。"
+  prepare: "本学年 programme handbook、模块说明与评分标准。"
+  steps: "查评估权重；确认出勤与及格要求；记录课程支持渠道。"
+  help: "评分或规则不清时问 programme office 或 personal tutor。"
 toc:
   - title: "四种课堂形态"
     anchor: "sec-1"

@@ -6,8 +6,13 @@ description: "在英国买房的全部一次性支出：2025 年 4 月起的 SDL
 nav: "8.4 税费总账"
 parent: maifang
 weight: 814
-updated: 2026-09-17
+updated: 2026-09-19
 num: "8.4"
+action:
+  audience: "估算英国购房税费的人；四地规则及买家条件不同。"
+  prepare: "房价、地点、已有房产、居留与交易时间。"
+  steps: "选适用税制；核对个人附加条件；汇总税费和其他交易成本。"
+  help: "个案税务与退款资格请税务顾问或交易律师确认。"
 toc:
   - title: "印花税 SDLT：英格兰与北爱尔兰"
     anchor: "sec-1"

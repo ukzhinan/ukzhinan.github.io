@@ -6,8 +6,13 @@ description: "在英国买房前先算清的几笔账：什么身份能买（受
 nav: "8.1 买还是继续租"
 parent: maifang
 weight: 811
-updated: 2026-09-17
+updated: 2026-09-19
 num: "8.1"
+action:
+  audience: "考虑在英国买房的人；按个人居留和持有计划评估。"
+  prepare: "居住计划、现金流、买租成本及风险承受范围。"
+  steps: "计算全成本；比较持有期限；再决定是否进入购房流程。"
+  help: "资金与税务情况复杂时咨询贷款、税务和法律专业人士。"
 toc:
   - title: "什么身份能买：买房与签证的关系"
     anchor: "sec-1"

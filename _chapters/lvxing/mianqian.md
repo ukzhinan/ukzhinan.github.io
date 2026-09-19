@@ -5,8 +5,13 @@ description: "从英国出发不办申根签证也能去的地方：与中国互
 nav: "6.3 免签与易签国家清单"
 parent: lvxing
 weight: 703
-updated: 2026-09-17
+updated: 2026-09-19
 num: "6.3"
+action:
+  audience: "筛选候选目的地的普通护照持有人。"
+  prepare: "护照类型、英国许可、旅行目的、停留和转机安排。"
+  steps: "从索引筛选；逐国确认入境条件；订票前再核对。"
+  help: "无法核实的安排先联系领馆与航空公司；索引不等于入境许可。"
 toc:
   - title: "先说清楚：这页怎么用"
     anchor: "sec-1"

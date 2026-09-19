@@ -6,7 +6,7 @@ nav: "附录3. 常用英语"
 permalink: /yingyu/
 order: 13
 weight: 955
-updated: 2026-09-17
+updated: 2026-09-19
 num: "附"
 toc:
   - title: "学校与学习"
@@ -171,7 +171,7 @@ faq:
 | **洗衣房** | laundry | launderette | 校内或附近的洗衣设施，通常使用投币或刷卡操作。 |
 | **社区活动** | local events | community events | 地方节日、市场或慈善活动，学生可参与融入社区。 |
 
-展开阅读：[1.1 住宿选择与适应]({{ '/shenghuo/zufang/' | relative_url }})、[1.2 饮食与健康]({{ '/shenghuo/yinshi-jiankang/' | relative_url }})、[1.3 日常出行与交通]({{ '/shenghuo/jiaotong/' | relative_url }})、[1.4 理财与银行]({{ '/shenghuo/yinhang-licai/' | relative_url }})、[1.5 手机与网络]({{ '/shenghuo/shouji-wangluo/' | relative_url }})。
+展开阅读：[1.1 住宿选择与适应]({{ '/shenghuo/zufang/' | relative_url }})、[1.2 饮食与超市采购]({{ '/shenghuo/yinshi-jiankang/' | relative_url }})、[1.3 日常出行与交通]({{ '/shenghuo/jiaotong/' | relative_url }})、[1.4 理财与银行]({{ '/shenghuo/yinhang-licai/' | relative_url }})、[1.5 手机与网络]({{ '/shenghuo/shouji-wangluo/' | relative_url }})。
 
 <h2 id="sec-4">学术写作与研究</h2>
 

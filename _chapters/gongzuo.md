@@ -1,22 +1,18 @@
 ---
 layout: chapter-hub
 title: "英国留学生打工与实习完全指南"
-description: "英国留学生打工与实习指南：签证工时、NIN 与最低工资、常见兼职类型、求职流程与招聘网站、英文简历与求职信、面试与职场礼仪、实习与 Placement 七个专题。"
+description: "英国留学生工作与实习指南：政策、兼职、求职材料、面试、职场、实习和毕业求职八个专题。"
 nav: "第四章 工作与实习篇"
 key: gongzuo
 permalink: /gongzuo/
 order: 5
 weight: 500
-updated: 2026-09-17
+updated: 2026-09-19
 num: "04"
 ---
 
-在英国留学期间，合理利用课余时间打工，不仅可以补贴生活费，还能锻炼英语沟通能力、了解当地职场文化、拓展人脉。但作为国际学生，你必须在**签证允许的范围内工作**——超时打工可能导致签证被吊销、未来入境受限，这是所有其他考虑的前提。
+求职前先核对自己的[工作权限、工时与必要手续]({{ '/gongzuo/dagong-zhengce/' | relative_url }})。岗位名称、现金发薪或招聘方的口头承诺，不能代替对工作条件与实际安排的确认。
 
-在投第一份简历之前，有三件事需要先确认：**你的签证每周允许工作多少小时**（学期内与假期不同，且以你的签证条件为准）、**National Insurance Number 是否已申请**、以及**你是否已了解当前的最低工资标准**——按年龄分档，低于标准的雇佣是违法的，风险却往往由你承担。另外要特别注意：学生签证**禁止自雇（self-employment）和 freelance**，网上流传的"留学生做自由职业"说法并不适用（详见 [5.2 学生税务规划]({{ '/jinjie/shuiwu/' | relative_url }})）。
+找兼职可按[类型比较]({{ '/gongzuo/jianzhi-leixing/' | relative_url }})、[找工作]({{ '/gongzuo/zhao-jianzhi/' | relative_url }})、[简历求职信]({{ '/gongzuo/jianli-qiuzhixin/' | relative_url }})、[面试]({{ '/gongzuo/mianshi/' | relative_url }})和[入职安排]({{ '/gongzuo/zhichang-liyi/' | relative_url }})的顺序阅读。最低工资、休假与求助入口集中在打工政策页。
 
-还有一项权利几乎所有留学生都不知道自己拥有：**法定带薪年假每年 5.6 周**（全职约 28 天），兼职按比例折算，**零工合同与中介派遣工同样享有**。很多人做了一整年从没休过一天带薪假，离职时也没拿到未休假期的折算工资。
-
-这一章按实际流程拆成七个专题：先搞清政策边界和必办手续，再对比适合自己的兼职类型（含时薪区间与适配度对照表），然后走完整套求职流程——[简历与求职信]({{ '/gongzuo/jianli-qiuzhixin/' | relative_url }})（含可直接套用的模板）、[面试]({{ '/gongzuo/mianshi/' | relative_url }})，最后是入职后的职场礼仪。如果你的目标不是兼职而是职业发展，另见 [4.7 实习与 Placement]({{ '/gongzuo/shixi/' | relative_url }})——它是另一条线，申请节奏更接近 Graduate Scheme。
-
-如果你的目标不只是兼职而是毕业后留英工作，建议同时看 [5.3 提前布局职业发展]({{ '/jinjie/zhiye-fazhan/' | relative_url }})——大公司的 Graduate Scheme 秋招通常在入学后的第一个秋季就开始，一年制硕士最容易错过这个窗口。
+申请[实习或 Placement]({{ '/gongzuo/shixi/' | relative_url }})时，另外确认课程与签证安排。准备全职毕业岗位时，用[毕业求职实战]({{ '/gongzuo/biye-qiuzhi/' | relative_url }})里的证据表和投递跟踪表，并结合[职业与签证规划]({{ '/jinjie/zhiye-fazhan/' | relative_url }})安排时间。

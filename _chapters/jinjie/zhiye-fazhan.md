@@ -6,8 +6,13 @@ description: "留英工作路径与时间线：Graduate Route 将于 2027 年 1 
 nav: "5.3 提前布局职业发展"
 parent: jinjie
 weight: 603
-updated: 2026-09-17
+updated: 2026-09-19
 num: "5.3"
+action:
+  audience: "考虑毕业后留英就业的学生。"
+  prepare: "课程与许可日期、目标岗位、当前工作资格。"
+  steps: "核对个人签证路径；查招聘窗口；使用学校职业服务准备。"
+  help: "个人身份问题找学校签证团队；申请策略找 Careers Service。"
 toc:
   - title: "方法"
     anchor: "sec-1"
@@ -117,3 +122,5 @@ faq:
 -  建立学生税务档案
 -  注册学生折扣平台
 -  参加至少一次行业活动
+
+准备投递时，使用[毕业求职实战]({{ '/gongzuo/biye-qiuzhi/' | relative_url }})的岗位证据表、CV 示例、Assessment Centre 练习与申请跟踪表。

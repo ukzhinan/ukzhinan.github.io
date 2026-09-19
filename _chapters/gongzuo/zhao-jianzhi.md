@@ -6,8 +6,13 @@ description: "初到英国怎么找兼职：一套可直接照做的求职流程
 nav: "4.3 如何找兼职工作"
 parent: gongzuo
 weight: 503
-updated: 2026-09-17
+updated: 2026-09-19
 num: "4.3"
+action:
+  audience: "准备寻找第一份兼职的学生。"
+  prepare: "可工作时间、简历、岗位要求与个人工作资格。"
+  steps: "筛选合适岗位；按要求投递；记录回复与跟进日期。"
+  help: "求职材料找 Careers Service；可疑招聘先独立核实。"
 toc:
   - title: "求职流程 SOP（适合初来英国留学生）"
     anchor: "sec-1"

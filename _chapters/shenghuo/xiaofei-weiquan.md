@@ -6,8 +6,13 @@ description: "区分网购反悔与商品故障，整理退货证据、包裹未
 nav: "1.10 退货退款与消费投诉"
 parent: shenghuo
 weight: 210
-updated: 2026-09-17
+updated: 2026-09-19
 num: "1.10"
+action:
+  audience: "遇到退货、订阅、包裹或服务争议的消费者。"
+  prepare: "订单、条款、付款记录、问题照片及联系记录。"
+  steps: "明确诉求；向商家正式提出；保存答复并按适用渠道跟进。"
+  help: "复杂争议可咨询正文列出的当地消费者帮助机构。"
 toc:
   - title: "先判断是哪种问题"
     anchor: "sec-1"

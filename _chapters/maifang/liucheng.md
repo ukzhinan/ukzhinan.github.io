@@ -5,8 +5,13 @@ description: "从接受 offer 到拿钥匙的完整流程：conveyancing 各阶�
 nav: "8.5 从 offer 到交房"
 parent: maifang
 weight: 815
-updated: 2026-09-17
+updated: 2026-09-19
 num: "8.5"
+action:
+  audience: "进入购房交易流程的人。"
+  prepare: "已确认的购房条件、资金资料及律师联系方式。"
+  steps: "明确交易步骤；跟进贷款调查和法律文件；核对交房与资金安排。"
+  help: "约束和付款问题由交易律师确认；独立核实收款账户变化。"
 toc:
   - title: "全流程时间轴"
     anchor: "sec-1"

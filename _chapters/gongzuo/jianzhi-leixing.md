@@ -6,8 +6,13 @@ description: "英国留学生常见兼职类型全对比：餐饮零售、校内
 nav: "4.2 常见兼职类型"
 parent: gongzuo
 weight: 502
-updated: 2026-09-17
+updated: 2026-09-19
 num: "4.2"
+action:
+  audience: "需要比较兼职岗位的学生。"
+  prepare: "可工作时间、许可条件、通勤范围及技能。"
+  steps: "比较实际工作内容；核对雇佣方式；评估与学习是否兼容。"
+  help: "岗位条件问雇主；自雇或工时疑问问学校签证团队。"
 toc:
   - title: "1. 餐饮与零售业"
     anchor: "sec-1"

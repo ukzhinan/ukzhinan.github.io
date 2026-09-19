@@ -5,8 +5,13 @@ description: "英国兼职面试全流程准备：电话面试、视频面试、
 nav: "4.5 面试"
 parent: gongzuo
 weight: 505
-updated: 2026-09-17
+updated: 2026-09-19
 num: "4.5"
+action:
+  audience: "收到兼职面试或试工邀请的学生。"
+  prepare: "岗位说明、投递材料、真实经历和面试通知。"
+  steps: "核对形式地点；练习回答与反问；确认后续联系安排。"
+  help: "设备或调整需求提前联系招聘方；可用学校模拟面试练习。"
 toc:
   - title: "常见面试形式"
     anchor: "sec-1"
@@ -126,3 +131,5 @@ faq:
 
 > 别过度解读单次被拒。兼职录取很大程度上取决于"你能不能上他正好缺人的那个班次"，和你的能力关系没有想象中大。
 {: .callout .callout-tip}
+
+毕业岗位的案例、小组评估和作品集准备，另见[Assessment Centre 实操]({{ '/gongzuo/biye-qiuzhi/#sec-4' | relative_url }})。

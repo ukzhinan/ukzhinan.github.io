@@ -6,8 +6,13 @@ description: "英国大学考试类型概览与高效复习方法，以及 Prese
 nav: "2.5 考试与 Presentation"
 parent: xueye
 weight: 305
-updated: 2026-09-17
+updated: 2026-09-19
 num: "2.5"
+action:
+  audience: "准备考试或演示评估的学生。"
+  prepare: "考试通知、rubric、许可资料及需要的调整。"
+  steps: "确认形式与规则；按题型练习；核对当天设备和提交安排。"
+  help: "考务问题找学院；调整需求尽早联系学习支持。"
 toc:
   - title: "考试类型概览"
     anchor: "sec-1"

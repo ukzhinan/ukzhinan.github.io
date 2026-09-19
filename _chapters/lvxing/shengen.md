@@ -6,8 +6,13 @@ description: "在英国读书期间申请申根签证的流程：向哪个国家
 nav: "6.2 申根签证全流程"
 parent: lvxing
 weight: 702
-updated: 2026-09-17
+updated: 2026-09-19
 num: "6.2"
+action:
+  audience: "准备申请申根签证的学生。"
+  prepare: "护照、英国身份、真实行程及主目的国材料清单。"
+  steps: "确认受理国家；按官方清单准备；记录递交与取证安排。"
+  help: "预约和材料问题找对应领馆或其指定签证中心。"
 toc:
   - title: "申根区包括哪些国家"
     anchor: "sec-1"

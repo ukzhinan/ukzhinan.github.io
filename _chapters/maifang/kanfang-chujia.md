@@ -6,8 +6,13 @@ description: "在英国找房看房出价的实操：freehold 与 leasehold 的�
 nav: "8.3 找房、看房与出价"
 parent: maifang
 weight: 813
-updated: 2026-09-12
+updated: 2026-09-19
 num: "8.3"
+action:
+  audience: "准备看房与出价的人；先确认所在地区的交易程序。"
+  prepare: "预算、需求清单、房源资料及调查问题。"
+  steps: "筛选房源；现场核查；确认条件后按当地流程出价。"
+  help: "产权和约束问律师；房屋状况安排合适的 survey。"
 toc:
   - title: "在哪找房，挂牌价怎么看"
     anchor: "sec-1"

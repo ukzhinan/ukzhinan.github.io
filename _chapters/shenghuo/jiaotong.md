@@ -6,8 +6,13 @@ description: "英国留学生出行全攻略：Oyster 卡与 Contactless 刷卡�
 nav: "1.3 日常出行与交通"
 parent: shenghuo
 weight: 203
-updated: 2026-09-17
+updated: 2026-09-19
 num: "1.3"
+action:
+  audience: "准备日常通勤或跨城出行的学生。"
+  prepare: "日期、起终点、出行频率及折扣资格。"
+  steps: "比较路线；核对票种限制；记录所需凭证与异常行程。"
+  help: "联系承运方；延误或退款查看其适用流程。"
 toc:
   - title: "城市内出行"
     anchor: "sec-1"

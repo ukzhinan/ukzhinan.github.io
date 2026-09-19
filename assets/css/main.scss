@@ -186,6 +186,12 @@ p { margin: 0 0 1em; }
 }
 .callout > :first-child { margin-top: 0; }
 .callout > :last-child { margin-bottom: 0; }
+/* Task entry summaries stay readable on narrow screens and in print. */
+.action-summary dl { margin: 0; }
+.action-summary dt { font-weight: 700; margin-top: .65em; }
+.action-summary dt:first-child { margin-top: 0; }
+.action-summary dd { margin: .15em 0 0; overflow-wrap: anywhere; }
+
 .callout-note    { border-left-color: var(--blue); }
 .callout-info    { border-left-color: #2e86c1; background: var(--blue-soft); }
 .callout-tip     { border-left-color: var(--green); background: var(--green-soft); }

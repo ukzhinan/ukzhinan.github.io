@@ -6,8 +6,13 @@ description: "从英国飞欧洲的订票与支付实操：廉航行李、机场
 nav: "6.4 廉航与订票实操"
 parent: lvxing
 weight: 704
-updated: 2026-09-17
+updated: 2026-09-19
 num: "6.4"
+action:
+  audience: "需要比较机票与行李规则的旅客。"
+  prepare: "日期弹性、机场交通、行李尺寸重量及退款需求。"
+  steps: "比较全程总价；核对票规；保存预订与登机资料。"
+  help: "航变和退款先联系实际承运方或出票平台。"
 toc:
   - title: "行李是主要成本"
     anchor: "sec-1"

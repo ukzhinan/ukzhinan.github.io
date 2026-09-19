@@ -1,20 +1,18 @@
 ---
 layout: chapter-hub
 title: "英国大学怎么读：学业适应完全指南"
-description: "英国大学学业指南：评分体系、听课笔记、写作、导师沟通、考试演示、毕业论文、挂科延期与申诉、小组作业，八个专题。"
+description: "英国大学学习指南：九个专题覆盖课堂、写作、导师沟通、评估、论文、延期申诉、小组合作与学术诚信。"
 nav: "第二章 学业篇"
 key: xueye
 permalink: /xueye/
 order: 3
 weight: 300
-updated: 2026-09-17
+updated: 2026-09-19
 num: "02"
 ---
 
-英国大学以「自主学习」著称——没人每天点名，很少有人提醒你截止日期，也不会有标准答案等你套用。对习惯了国内以教师为中心、以考试为导向的学生来说，这个转变往往比语言更难适应。雅思考到 7 分，仍然可能在第一次 Seminar 上一句话都插不进去，或者拿到第一篇 Essay 的分数时完全不明白扣在哪里。
+入学后先看自己课程的学习目标、出勤要求、评估权重和截止日期。评分、学位分类和论文安排因课程而异，不能把一个分数或某种考核方式套到所有本科与硕士课程。
 
-这一章要解决的就是这个落差。前六个专题介绍常见学习任务：先理解英国高校的课堂形态与评分规则（**70 分就是 First Class**，和国内的百分制完全不是一回事），再是日常的听课与笔记方法，然后是占分权重最高的 Essay 与 Report 写作，接着是与导师建立有效沟通，然后是考试与 Presentation，最后是占分最重、贯穿夏季的毕业论文。
+前六个专题覆盖[教学与评分]({{ '/xueye/gaodeng-jiaoyu/' | relative_url }})、[笔记]({{ '/xueye/tingke-biji/' | relative_url }})、[写作]({{ '/xueye/essay-report/' | relative_url }})、[导师沟通]({{ '/xueye/daoshi-goutong/' | relative_url }})、[考试与演示]({{ '/xueye/kaoshi-presentation/' | relative_url }})和[毕业论文]({{ '/xueye/dissertation/' | relative_url }})。
 
-两件建议尽早做的事：**第一，弄清你每门课的评估方式和权重**——英国课程常常一两次作业就决定全部成绩，没有"平时分"来兜底；**第二，把引用规范和 AI 使用规定搞清楚**，学术不端在英国大学是极严重的问题，很多中国学生的失分甚至处分并非源于抄袭意图，而是不熟悉引用要求。生成式 AI 的规定**各校、各模块都不同**，动笔前先找到模块手册里的那一段——"我不知道有这个规定"不是抗辩理由（详见 [2.3 如何写好 Essay 和 Report]({{ '/xueye/essay-report/' | relative_url }})）。
-
-遇到挂科、无法按时提交或对评估决定有疑问时，查[2.7 挂科、延期与学业申诉]({{ '/xueye/xueye-kunnan/' | relative_url }})：尽早按本校期限申请，已经逾期也要询问迟交理由与补救流程。小组项目开工前，先用[2.8 小组作业与合作]({{ '/xueye/xiaozu-zuoye/' | relative_url }})的分工表、里程碑和沟通模板。
+开工前核对[学术诚信与 AI 使用规则]({{ '/xueye/xueshu-chengxin/' | relative_url }})；小组作业用[分工与贡献记录]({{ '/xueye/xiaozu-zuoye/' | relative_url }})。遇到挂科、无法按时交作业或对决定有疑问，尽早查[延期与申诉流程]({{ '/xueye/xueye-kunnan/' | relative_url }})。

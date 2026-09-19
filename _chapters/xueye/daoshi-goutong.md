@@ -6,8 +6,13 @@ description: "如何与英国导师有效沟通：Office Hour 的正确使用方
 nav: "2.4 如何与导师打交道"
 parent: xueye
 weight: 304
-updated: 2026-09-07
+updated: 2026-09-19
 num: "2.4"
+action:
+  audience: "需要约导师、讨论进展或反馈的学生。"
+  prepare: "具体问题、现有草稿、时间安排与希望得到的建议。"
+  steps: "发简明请求；带议程开会；记录决定与下一次交付。"
+  help: "长期联系不上时按课程流程联系 programme office。"
 toc:
   - title: "与导师建立良好关系的意义"
     anchor: "sec-1"

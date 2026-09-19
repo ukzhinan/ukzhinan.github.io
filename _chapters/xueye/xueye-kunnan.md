@@ -6,8 +6,13 @@ description: "分清 extension、特殊情况申请、resit 和 academic appeal�
 nav: "2.7 挂科、延期与学业申诉"
 parent: xueye
 weight: 307
-updated: 2026-09-17
+updated: 2026-09-19
 num: "2.7"
+action:
+  audience: "遇到挂科、延期或申诉问题的学生；期限以本校规则为准。"
+  prepare: "评估通知、相关规定、时间线及已有真实证据。"
+  steps: "确定流程；记录截止时间并提交；保存回执与书面决定。"
+  help: "学院支持与学生会 advice 可协助；签证影响另问国际学生团队。"
 toc:
   - title: "先判断该走哪条流程"
     anchor: "sec-1"
@@ -101,3 +106,5 @@ OIA 的良好实践指出，学校可以考虑有充分理由的迟交请求；�
 > Please also confirm what I should do about the assessment while a decision is pending.
 
 发完邮件，继续核对正式入口、回执和决定。写作安排见[Essay 与 Report]({{ '/xueye/essay-report/' | relative_url }})；需要情绪支持时，同时联系[心理健康支持渠道]({{ '/shejiao/xinli-jiankang/' | relative_url }})。
+
+如果收到的是学术不端调查通知，应另外阅读[诚信调查应对步骤]({{ '/xueye/xueshu-chengxin/#sec-5' | relative_url }})。

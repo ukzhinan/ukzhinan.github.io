@@ -6,8 +6,13 @@ description: "英国手机套餐怎么比较与选套餐三步法，宽带办理
 nav: "1.5 手机与网络"
 parent: shenghuo
 weight: 205
-updated: 2026-09-17
+updated: 2026-09-19
 num: "1.5"
+action:
+  audience: "选择手机套餐、宽带或处理合约的学生。"
+  prepare: "手机兼容性、住址、现有合约和实际用量。"
+  steps: "确认覆盖与设备；比较总价及期限；记录续费和取消方式。"
+  help: "服务或扣费问题先找运营商；投诉按正文入口升级。"
 toc:
   - title: "手机套餐怎么比较"
     anchor: "sec-1"

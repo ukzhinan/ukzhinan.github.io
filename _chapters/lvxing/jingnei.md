@@ -6,8 +6,13 @@ description: "英国境内出行怎么省：Advance 票的提前量、Railcard �
 nav: "6.5 英国境内旅行"
 parent: lvxing
 weight: 705
-updated: 2026-09-08
+updated: 2026-09-19
 num: "6.5"
+action:
+  audience: "计划英国境内旅行的学生。"
+  prepare: "路线、日期、交通预算、体力及天气需求。"
+  steps: "确认到达与返程；比较票种；准备备用安排。"
+  help: "运行变化查运营商；户外活动参考当地管理方指引。"
 toc:
   - title: "火车票怎么买便宜"
     anchor: "sec-1"

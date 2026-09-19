@@ -6,8 +6,13 @@ description: "英国日常安全清单：夜间路线与手机被抢风险、饮
 nav: "7.3 个人防范与日常安全"
 parent: anquan
 weight: 803
-updated: 2026-09-17
+updated: 2026-09-19
 num: "7.3"
+action:
+  audience: "希望安排出行、住所与数字安全的学生。"
+  prepare: "路线、住所应急信息、设备与账户恢复方式。"
+  steps: "识别具体风险；安排备用方案；保存求助渠道。"
+  help: "已遭伤害可直接求助，不需要先补全证据。"
 toc:
   - title: "夜间与出行"
     anchor: "sec-1"
@@ -91,3 +96,5 @@ faq:
 <h2 id="sec-6">交通习惯</h2>
 
 英国靠左行驶，过马路时**观察两侧及转弯来车**，留意单行道、公交专用道和地面 LOOK RIGHT / LOOK LEFT 提示。骑车夜间必须按规定使用前后车灯；头盔属于强烈建议，并非普遍强制。见[Highway Code](https://www.gov.uk/guidance/the-highway-code/rules-for-cyclists-59-to-82)。
+
+已经遭遇骚扰、性暴力或关系伤害时，查看[医疗、支持与报告选择]({{ '/shejiao/saorao-qiuzhu/' | relative_url }})；不必等证据齐全才求助。

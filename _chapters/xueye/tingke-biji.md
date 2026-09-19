@@ -6,8 +6,13 @@ description: "英国大学听课与笔记技巧：课前预习 Reading List 的�
 nav: "2.2 听课与记笔记技巧"
 parent: xueye
 weight: 302
-updated: 2026-09-17
+updated: 2026-09-19
 num: "2.2"
+action:
+  audience: "准备 lecture、seminar 与课后复习的学生。"
+  prepare: "阅读任务、课件、课程目标及允许使用的工具。"
+  steps: "课前标问题；课中记论点与疑问；课后用自己的话整理。"
+  help: "听不懂或材料不可访问时联系授课老师与学习支持。"
 toc:
   - title: "课前准备的重要性"
     anchor: "sec-1"

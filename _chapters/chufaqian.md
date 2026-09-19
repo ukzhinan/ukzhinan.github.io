@@ -5,9 +5,14 @@ description: "英国留学行前准备完整清单：签证与住宿确认、行
 nav: "出发前准备"
 permalink: /chufaqian/
 weight: 199
-updated: 2026-09-17
+updated: 2026-09-19
 ads: false
 num: "备"
+action:
+  audience: "尚未出发或正在安排行程的学生。"
+  prepare: "学校与签证通知、住宿安排、证件及个人用药需求。"
+  steps: "核对有期限的手续；安排抵达与行李；保存离线资料。"
+  help: "报到问题问学校；入境和携带要求查对应官方入口。"
 toc:
   - title: "出发前 90 天：签证、住宿与文件"
     anchor: "sec-1"
@@ -19,7 +24,7 @@ toc:
     anchor: "sec-4"
   - title: "落地当天的办事顺序"
     anchor: "sec-5"
-  - title: "落地采购：别从国内背、在 Amazon 一次买齐"
+  - title: "落地采购：先查配置，再按需补齐"
     anchor: "sec-6"
   - title: "常见问题"
     anchor: "faq"
@@ -96,13 +101,13 @@ faq:
 3. **换汇别一次梭哈**：汇率有波动，分批换更稳。比价看「同样人民币最后到账多少英镑」，别只看手续费（详见 [1.4 理财与银行]({{ '/shenghuo/yinhang-licai/' | relative_url }})）。
 4. **大额学费**：走符合汇出人资格的银行或支付渠道；Wise 的人民币汇出资格有限（见银行章节），不要默认大陆家长可用它汇学费。付款时，保留汇款记录（报税、续签、反洗钱核查都可能用到）。
 
-落地后开英国账户的顺序，见 [1.4 理财与银行]({{ '/shenghuo/yinhang-licai/' | relative_url }}) 里的那张依赖链图——关键是先办 SIM 卡、再拿住址证明、再开账户。
+落地后开英国账户的顺序，见 [1.4 理财与银行]({{ '/shenghuo/yinhang-licai/' | relative_url }}) 里的那张依赖链图——按银行要求准备可接受的身份和地址材料，手机与账户条件分别确认。
 
 <h2 id="sec-4">出发前在国内要办完的事</h2>
 
 这几件事在英国办，要么贵、要么难、要么来不及：
 
-- **牙齿**：补牙、智齿、洗牙尽量在国内处理完。英国 NHS 牙医名额紧张、私人牙医贵（见 [1.2 饮食与健康]({{ '/shenghuo/yinshi-jiankang/' | relative_url }})）。
+- **牙齿**：有牙科问题可提前安排检查，与医生讨论是否需要治疗及后续衔接（见[英国牙科就诊]({{ '/shenghuo/nhs-kanbing/#sec-6' | relative_url }})）。
 - **配镜**：配一副备用眼镜，把验光单拍照留存。
 - **TB 检测与疫苗**：签证所需的肺结核检测由居住史和赴英时长决定；符合条件时预约 [UKVI 批准的中国诊所](https://www.gov.uk/government/publications/tuberculosis-test-for-a-uk-visa-clinics-in-china)，证明通常有效 6 个月。普通体检不能替代。疫苗另向医生及学校核对。
 - **档案**：存放到留学生服务中心 / 人才市场，别让它成死档。
@@ -113,21 +118,25 @@ faq:
 
 落地之后别凭感觉瞎忙，直接照 [附录速查表]({{ '/fulu/' | relative_url }}) 里的「落地 30 天待办清单」走。它按依赖关系排好了：先确保通信和入住，再按银行要求开户；**GP 注册、核对 Council Tax 和保存紧急联系方式可同时进行**。英格兰 GP 注册不要求先有银行账户，也不以提供身份证件或住址证明为必要条件。听障或言语障碍人士可另了解 emergencySMS。
 
-落地头几天最容易被忽略、却最该先做的三件事，首页已经替你想好了：注册 GP、核对 Council Tax 豁免、保存紧急联系方式。出发前把这三个词的英文和怎么做记下来，落地就能省下几百镑和不必要的麻烦。
+落地头几天最容易被忽略、却最该先做的三件事，首页已经替你想好了：注册 GP、核对 Council Tax 豁免、保存紧急联系方式。出发前保存相应入口，落地后按个人资格和所在地办理。
 
-> **顺手注册 Amazon Prime Student**：开学拿到学校邮箱（.ac.uk）后注册 [Amazon Prime Student](https://www.amazon.co.uk/joinstudent?tag=xdaiuk05-21)，先核对当前资格、试用期、续费价格及取消日期，再按配送需求决定是否使用。
+> **配送订阅按需选择**：确有配送需要时再考虑 [Amazon Prime Student](https://www.amazon.co.uk/joinstudent?tag=xdaiuk05-21)，先核对当前资格、试用期、续费价格及取消日期，再按配送需求决定是否使用。
 {: .callout .callout-tip}
 
-<h2 id="sec-6">落地采购：别从国内背、在 Amazon 一次买齐</h2>
+<h2 id="sec-6">落地采购：先查配置，再按需补齐</h2>
 
-上一节「别带的」清单里的东西——电饭煲、厨具、床品——落地后在 Amazon 一起买，比从国内背过来省事得多。下面是可比较的商品链接，先检查宿舍配置、使用限制、尺寸和总价，按缺少的物品购买：
+先确认住宿已提供什么、允许什么电器，以及床垫尺寸。第一批只补缺少的床品、洗漱用品、基本餐具与当天食物；可以比较附近商店、二手渠道及网上配送的总价和退货条件。
 
-- **多口充电器**：[Anker 6 口 USB-C 充电站](https://www.amazon.co.uk/dp/B0CNSHPMW4?tag=xdaiuk05-21)（114W）——手机、平板、电脑一个插头全搞定，桌面和床头各放一个，不用一堆充电头抢插座。
-- **滤水壶**：[BRITA 滤水壶](https://www.amazon.co.uk/dp/B0FC6T7FJD?tag=xdaiuk05-21)——英国水质偏硬，烧水壶和锅底易结水垢，合租和宿舍的标配（详见 [1.2 饮食与健康]({{ '/shenghuo/yinshi-jiankang/' | relative_url }})）。
+下面是**可选购买示例**，不是新生必买清单。只有现有设备无法满足实际需要时再考虑，并核对当前商品参数、兼容性和持续费用：
+
+- **多口充电器**：[Anker 6 口 USB-C 充电站](https://www.amazon.co.uk/dp/B0CNSHPMW4?tag=xdaiuk05-21)——先查现有充电器是否够用，再核对接口、单口功率与设备兼容性。
+- **滤水壶**：[BRITA 滤水壶](https://www.amazon.co.uk/dp/B0FC6T7FJD?tag=xdaiuk05-21)——按当地水质与个人口感偏好决定，并把滤芯费用算进去（详见 [1.2 饮食与超市采购]({{ '/shenghuo/yinshi-jiankang/' | relative_url }})）。
 - **空气炸锅**：[Philips 空气炸锅 6.2L](https://www.amazon.co.uk/dp/B0CWP7WXB6?tag=xdaiuk05-21)——先确认厨房空间和宿舍是否允许；使用时按说明书操作。
 - **打印机**：[HP Envy 6120e 一体机](https://www.amazon.co.uk/dp/B0DC6PFYW1?tag=xdaiuk05-21)——打印、扫描、复印三合一，先比较学校打印额度、耗材与订阅成本，优惠以当前商品页为准。
-- **加湿器**：[Levoit 加湿器](https://www.amazon.co.uk/dp/B0D72N7642?tag=xdaiuk05-21)（25dB 静音、上加水）——仅在室内确实干燥时考虑，并按说明清洗；潮湿或有霉菌的房间不宜继续加湿。
-- **维生素 D**：[H&B 维生素 D](https://www.amazon.co.uk/dp/B0B3JMN3KN?tag=xdaiuk05-21)——英国冬天日照极短，补充维生素 D 很常见（详见 [3.4 心理健康]({{ '/shejiao/xinli-jiankang/' | relative_url }})）。
-- **个人警报器**：[TECKNET 个人安全警报器](https://www.amazon.co.uk/dp/B0DMSHL85J?tag=xdaiuk05-21)（可充电、一拉即响）——夜间独行多一层保障（详见 [7.3 个人防范]({{ '/anquan/geren-fangfan/' | relative_url }})）。
+- **加湿器**：[Levoit 加湿器](https://www.amazon.co.uk/dp/B0D72N7642?tag=xdaiuk05-21)——仅在室内确实干燥时考虑，并按说明清洗；潮湿或有霉菌的房间不宜继续加湿。
+- **维生素 D**：[H&B 维生素 D](https://www.amazon.co.uk/dp/B0B3JMN3KN?tag=xdaiuk05-21)——补充剂按自身需要与专业建议选择（详见 [3.4 心理健康]({{ '/shejiao/xinli-jiankang/' | relative_url }})）。
+- **个人警报器**：[TECKNET 个人安全警报器](https://www.amazon.co.uk/dp/B0DMSHL85J?tag=xdaiuk05-21)——按个人需要了解使用方法，不能替代安全路线与求助安排（详见 [7.3 个人防范]({{ '/anquan/geren-fangfan/' | relative_url }})）。
 
 出发前再做两张表：[全年预算与付款时间线]({{ '/shenghuo/yusuan/' | relative_url }})，以及有长期治疗需求时的[医疗摘要与支持清单]({{ '/shenghuo/changqi-jiankang/' | relative_url }})。落地住进不包账单的房子，当天按[水电开户清单]({{ '/shenghuo/shuidian-zhangdan/' | relative_url }})拍表登记。
+
+落地后的具体报到、晚到入住与校园账户问题，按[第一周办事指南]({{ '/shenghuo/luodi-diyizhou/' | relative_url }})处理；出发前先完成[eVisa 检查]({{ '/shenghuo/evisa/' | relative_url }})。

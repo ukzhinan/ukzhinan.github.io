@@ -6,54 +6,29 @@ nav: 引言
 order: 1
 ---
 
-
-
-**英国生存指南** 
-(2026年9月 / v1.3)
-
-作者：Steven在英国 —— 英国大学副教授，2013 年来英，先做留学生、后留在英国高校任教  
-小红书: [@Steven在英国](https://www.xiaohongshu.com/user/profile/5f8aebe4000000000101f6f4)  
-合作邮箱：[xdaiuk@gmail.com](mailto:xdaiuk@gmail.com)
-
-> **声明**：本指南中的部分推荐链接为作者的合作/返利链接，这些收益将用于支付网站成本，同时帮助我保持这本指南免费；文中涉及的政策与价格（最低工资、签证工作时长、票价、税率等）会随时间调整，请以英国政府官方（gov.uk）等权威来源的最新信息为准。
-{: .callout .callout-warning}
-
-出国留学，对于许多人来说，不仅仅是学业道路上的一次重要选择，更是一段影响深远的人生旅程。它是一扇通向更广阔世界的大门，也是一场关于自我探索与重塑的修行。尤其是对于来自中国的学生而言，选择赴英求学意味着背负着家庭的厚望与投资，也代表着个人对未知领域的好奇与向往。这段旅程看似浪漫而充满机遇，但真正走上这条路，才会发现它并非一路平坦。
-
-当你在国内的机场与亲友挥手告别，拖着行李踏上飞往伦敦、曼彻斯特、爱丁堡等地的航班时，你或许正怀揣着对英伦文化的憧憬：剑桥、牛津的古老书院，哈利·波特式的石拱长廊，浓香的英式下午茶，甚至还有牛津街上的圣诞橱窗。然而，当飞机降落、你走出海关的那一刻起，生活便迅速切换到一种全新的模式——陌生的机场指示牌、与预想不同的口音、厚重的阴天与潮湿的空气，以及需要自己面对的各种手续与安排。
-
-在英国的头几周，你可能会感受到一种复杂的情绪交织——既兴奋又紧张，既好奇又不安。语言的不适，常常是第一个现实挑战。你会发现自己的雅思高分，并不能完全保证在咖啡店听懂店员的口音，也不能立刻适应课堂上讲师的语速与表达方式。接着，教学理念的差异、饮食结构的变化、社交习惯的不同、制度规则的陌生，都会让你意识到：留学生活是一场系统的适应赛，而不是单纯的学术挑战。
-
-很多中国留学生在初到英国的几个月里都会经历所谓的“文化休克”——一种因文化差异而引发的心理落差感。在这一阶段，你可能会遇到以下情形：
-
-- **学业压力**：课程内容密集且节奏快，课堂讨论需要随时发言，写作作业要求大量引用与批判性思维。
-- **生活困惑**：租房合同条款复杂、银行开户材料繁琐、医疗体系规则陌生。
-- **情绪波动**：孤独感、思乡情绪、焦虑与自我怀疑交织，尤其是在节假日或学业压力高峰期。
-
-英国大学以“自主学习”著称，这既是它的魅力所在，也是许多留学生的适应难点。在这里，没有老师每天点名，也很少有人提醒你作业截止日期，更不会有标准化答案等你套用。你需要自己寻找资料、主动提问、独立完成研究并提出见解。对于习惯了国内以教师为中心、以考试为导向的学习方式的学生来说，这种转变一开始可能是冲击性的——它迫使你学会管理时间、设定目标、独立判断，并在信息繁杂的世界中找到自己的立足点。
-
-但从另一个角度看，正是这些挑战，塑造了留学生活最宝贵的价值。在一次次走出舒适圈的过程中，你会逐渐掌握跨文化交流的技巧，学会在多元文化的语境下理解他人、表达自己，并从一个旁观者变成一个有归属感的参与者。你会发现，原本看似棘手的生活问题，其实都是成长的契机——它们迫使你更高效地处理事务、更冷静地应对冲突、更有韧性地面对不确定性。
-
-更重要的是，留学不仅仅是“读书”，它本质上是一整套“生活系统”的搭建过程。你要学会：
-
-- **生活技能**：租房、开银行账户、办理保险、规划日常支出。
-- **安全与权益**：避免被骗、理解法律规则、保护个人隐私与财产。
-- **人际关系**：与导师有效沟通、与不同文化背景的同学相处、建立职业与社交网络。
-- **心理建设**：面对挫折时如何自我调节，如何在孤独中找到支持与力量。
-
-本指南正是在这样的背景下诞生的。它并不是一篇理想化的“留学美好生活宣言”，而是一份务实、具体、以“过来人”视角撰写的实用参考。我将从**生活、学业、社交文化、工作实习**等方面出发，既提供方法和资源，也分享真实的案例与应对策略。希望它能帮助你减少在摸索过程中的盲目和试错成本，让你在初来乍到的日子里有一个清晰的方向感。
-
-留学不是孤军奋战，而是一段需要智慧、勇气与同理心的协作旅程。愿你在英国的每一天，不仅积累知识，更积累一种面对世界的从容与自信；不仅学有所成，更活出一个更加坚韧、独立而温暖的自己。
-
-Steven  
-写于 2025年08月09日
+**英国生存指南** · 2026年9月 / v1.3
 
 ## 从这里开始
+
+先按眼前的任务找入口；需要查全书结构时，再看下面的章节目录。
+
+| 你现在的阶段 | 建议从这里读起 |
+| --- | --- |
+| **还没出发** | [行前准备]({{ '/chufaqian/' | relative_url }}) → [预算与付款安排]({{ '/shenghuo/yusuan/' | relative_url }}) → [eVisa 核对]({{ '/shenghuo/evisa/' | relative_url }}) |
+| **刚刚落地** | [第一周办事顺序]({{ '/shenghuo/luodi-diyizhou/' | relative_url }}) → [看病与 GP]({{ '/shenghuo/nhs-kanbing/' | relative_url }}) → [落地 30 天清单]({{ '/fulu/#sec-3' | relative_url }}) |
+| **正在学习** | [写作方法]({{ '/xueye/essay-report/' | relative_url }})、[学术诚信与 AI]({{ '/xueye/xueshu-chengxin/' | relative_url }})、[小组合作]({{ '/xueye/xiaozu-zuoye/' | relative_url }})；遇到困难看[延期与申诉]({{ '/xueye/xueye-kunnan/' | relative_url }}) |
+| **准备毕业** | [毕业求职实战]({{ '/gongzuo/biye-qiuzhi/' | relative_url }}) → [职业与签证规划]({{ '/jinjie/zhiye-fazhan/' | relative_url }}) → [搬家与离英交接]({{ '/jinjie/banjia-lijing/' | relative_url }}) |
+| **现在需要帮助** | [紧急电话]({{ '/anquan/jinji-dianhua/' | relative_url }})、[突发情况]({{ '/anquan/tufa-qingkuang/' | relative_url }})、[骚扰与关系伤害支持]({{ '/shejiao/saorao-qiuzhu/' | relative_url }})、[心理健康求助]({{ '/shejiao/xinli-jiankang/' | relative_url }}) |
+
+> **危及生命或正在遭受严重威胁时，拨 999。** 医疗非紧急入口按所在地查[看病指南]({{ '/shenghuo/nhs-kanbing/#sec-4' | relative_url }})；不要等到准备齐文件才求助。
+{: .callout .callout-warning}
+
+## 按章节阅读
 
 指南按你实际会遇到的顺序编排。如果你**还没出发**，从[出发前准备]({{ '/chufaqian/' | relative_url }})读起；**刚落地**，从[生活篇]({{ '/shenghuo/' | relative_url }})读起；只想解决某个具体问题，直接点进对应专题。
 
 - **[出发前准备]({{ '/chufaqian/' | relative_url }})** —— 人还在国内就该办的事：行前清单、行李带什么别带什么、钱怎么带过去、出发前在国内要办完的几件事
-- **[第一章 生活篇]({{ '/shenghuo/' | relative_url }})** —— 落地后要办的事：[租房]({{ '/shenghuo/zufang/' | relative_url }})、[看病与超市省钱]({{ '/shenghuo/yinshi-jiankang/' | relative_url }})、[交通]({{ '/shenghuo/jiaotong/' | relative_url }})、[银行开户]({{ '/shenghuo/yinhang-licai/' | relative_url }})、[手机与宽带]({{ '/shenghuo/shouji-wangluo/' | relative_url }})、[跨境物流与二手出清]({{ '/shenghuo/kuajing-wuliu/' | relative_url }})、[学生省钱攻略]({{ '/shenghuo/youhui-xuesheng/' | relative_url }})
+- **[第一章 生活篇]({{ '/shenghuo/' | relative_url }})** —— 落地后要办的事：[租房]({{ '/shenghuo/zufang/' | relative_url }})、[饮食采购]({{ '/shenghuo/yinshi-jiankang/' | relative_url }})、[看病与 NHS]({{ '/shenghuo/nhs-kanbing/' | relative_url }})、[交通]({{ '/shenghuo/jiaotong/' | relative_url }})、[银行开户]({{ '/shenghuo/yinhang-licai/' | relative_url }})、[手机与宽带]({{ '/shenghuo/shouji-wangluo/' | relative_url }})、[跨境物流与二手出清]({{ '/shenghuo/kuajing-wuliu/' | relative_url }})、[学生省钱攻略]({{ '/shenghuo/youhui-xuesheng/' | relative_url }})
 - **[第二章 学业篇]({{ '/xueye/' | relative_url }})** —— 学习方式的转变：[Essay 与 Report 写作]({{ '/xueye/essay-report/' | relative_url }})、[与导师沟通]({{ '/xueye/daoshi-goutong/' | relative_url }})、[考试与 Presentation]({{ '/xueye/kaoshi-presentation/' | relative_url }})、[毕业论文]({{ '/xueye/dissertation/' | relative_url }})
 - **[第三章 社交与文化篇]({{ '/shejiao/' | relative_url }})** —— 怎么听懂英国人、怎么交到朋友，以及必须提前知道的[诈骗套路与法律常识]({{ '/shejiao/fang-zhapian/' | relative_url }})、[心理健康求助路径]({{ '/shejiao/xinli-jiankang/' | relative_url }})
 - **[第四章 工作与实习篇]({{ '/gongzuo/' | relative_url }})** —— [签证工时与合法权益]({{ '/gongzuo/dagong-zhengce/' | relative_url }})、[怎么找兼职]({{ '/gongzuo/zhao-jianzhi/' | relative_url }})、[简历与求职信模板]({{ '/gongzuo/jianli-qiuzhixin/' | relative_url }})、[面试]({{ '/gongzuo/mianshi/' | relative_url }})、[实习与 Placement]({{ '/gongzuo/shixi/' | relative_url }})
@@ -66,15 +41,19 @@ Steven
 
 每个专题页末尾都有**常见问题**，收录的是那些「不知道就会吃亏」的问题：房东要求预付一整年能不能拒绝、志愿服务算不算签证工时、注册 GP 到底要不要证件、查重多少才算安全。
 
-> **只有十分钟的话**，先做这三件事：[注册 GP]({{ '/shenghuo/yinshi-jiankang/' | relative_url }})（英格兰不以提供护照或住址证明为必要条件）、[申请 Council Tax 豁免]({{ '/shenghuo/youhui-xuesheng/' | relative_url }})（住校外一年可能省几百镑）、[保存紧急联系方式]({{ '/anquan/jinji-dianhua/' | relative_url }})（了解 999 与无法说话时的求助方式；有听力或言语障碍可预先注册 emergencySMS）。
-{: .callout .callout-tip}
-
-> **两条时效性提醒。** 其一，**英格兰的私人租房规则在 2026 年 5 月 1 日大改**：适用的 assured 租约改为周期租约，通常可提前 2 个月书面通知退租，**预付租金上限 1 个月**——"没有英国担保人就预付一整年"在适用租约的新收款安排中已不允许；宿舍等有例外（[详情]({{ '/shenghuo/zufang/' | relative_url }})）。其二，**毕业生签证（Graduate Route）的时长正在缩短**：本硕毕业生在 **2026 年 12 月 31 日前**递交仍可拿 **2 年**，2027 年 1 月 1 日起为 18 个月（[详情]({{ '/jinjie/zhiye-fazhan/' | relative_url }})）。
-{: .callout .callout-warning}
-
 ## 常见问题，直接找步骤
 
 - 刚搬进不包账单的房子：[水电开户与抄表]({{ '/shenghuo/shuidian-zhangdan/' | relative_url }})；想算全年要准备多少钱：[留学预算与现金流]({{ '/shenghuo/yusuan/' | relative_url }})。
 - 暖气坏了、墙面发霉：[租房报修与投诉]({{ '/shenghuo/zufang/#sec-8' | relative_url }})；退货或取消订阅遇到问题：[消费投诉]({{ '/shenghuo/xiaofei-weiquan/' | relative_url }})。
 - 需要持续治疗或学习调整：[长期用药与学习支持]({{ '/shenghuo/changqi-jiankang/' | relative_url }})。
 - 挂科、交不出作业或要申诉：[学业困难处理]({{ '/xueye/xueye-kunnan/' | relative_url }})；小组分工和贡献有争议：[小组作业与合作]({{ '/xueye/xiaozu-zuoye/' | relative_url }})。
+
+## 关于这份指南
+
+作者：Steven在英国，英国大学副教授，2013 年来英，先做留学生、后留在英国高校任教。小红书：[@Steven在英国](https://www.xiaohongshu.com/user/profile/5f8aebe4000000000101f6f4)，合作邮箱：[xdaiuk@gmail.com](mailto:xdaiuk@gmail.com)。
+
+刚到英国时，找住处、看病、上课和处理文件可能同时发生。这份指南把常见任务拆成步骤、材料清单和求助入口，希望你遇到问题时能找到下一步。
+
+课程对自主学习、出勤和评估的要求不同；有些课程会点名或记录参与情况。入学后先查自己的 programme handbook 与 assessment brief，记下截止日期和负责团队。适应也没有固定进度，兴奋、孤独或压力可能出现在任何阶段，有需要就寻求支持。
+
+正文中的政策、价格和资格有各自适用范围。页面编辑日期不代表所有规则都在同一天复核，办事前请查看对应段落的官方来源。部分购物链接为合作或返利链接，具体说明见[关于本站]({{ '/about/' | relative_url }})与[优惠及返利]({{ '/youhui/' | relative_url }})；先按需要比较，再决定是否购买。

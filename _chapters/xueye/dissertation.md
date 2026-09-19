@@ -6,8 +6,13 @@ description: "英国硕士毕业论文（Dissertation）指南：与平时 Essay
 nav: "2.6 毕业论文（Dissertation）"
 parent: xueye
 weight: 306
-updated: 2026-09-17
+updated: 2026-09-19
 num: "2.6"
+action:
+  audience: "正在选题或推进毕业论文的学生。"
+  prepare: "论文手册、导师安排、研究问题与数据来源。"
+  steps: "缩小问题；确认方法和审批；分阶段写作与提交。"
+  help: "方法和进度找导师；伦理、延期及数据权限走学校流程。"
 toc:
   - title: "它和平时 Essay 不一样在哪"
     anchor: "sec-1"

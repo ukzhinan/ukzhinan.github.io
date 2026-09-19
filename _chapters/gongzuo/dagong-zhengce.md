@@ -6,8 +6,13 @@ description: "英国学生签证打工规定：每周 20 小时怎么算、volun
 nav: "4.1 打工政策与合法权益"
 parent: gongzuo
 weight: 501
-updated: 2026-09-17
+updated: 2026-09-19
 num: "4.1"
+action:
+  audience: "考虑在英工作的学生；按个人许可及课程状态核对。"
+  prepare: "许可条件、课程时间表、工时和合同资料。"
+  steps: "确认工作条件；核对手续和雇佣安排；记录工时与工资。"
+  help: "签证问题找学校签证团队；薪酬和权益问题按正文渠道求助。"
 toc:
   - title: "工作时间规定与「一周」的算法"
     anchor: "sec-1"
@@ -221,3 +226,5 @@ faq:
 > **案例**
 > 一位在谢菲尔德留学的学生因餐馆拖欠工资向 Acas 投诉，对方介入调解后，雇主全额补发了拖欠的 £540 工资，并补偿额外假期工资。
 {: .callout .callout-success}
+
+账户登录、按用途提供 share code 与身份显示报错，统一查[eVisa 办事指南]({{ '/shenghuo/evisa/' | relative_url }})。

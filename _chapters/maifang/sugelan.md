@@ -6,8 +6,13 @@ description: "苏格兰买房是另一套规则：Home Report 让买家看房前
 nav: "8.6 苏格兰买房的不同之处"
 parent: maifang
 weight: 816
-updated: 2026-09-17
+updated: 2026-09-19
 num: "8.6"
+action:
+  audience: "考虑在苏格兰买房的人。"
+  prepare: "预算、Home Report、贷款安排与当地律师联系信息。"
+  steps: "了解当地出价程序；评估报告与资金；由律师确认约束及交房。"
+  help: "苏格兰交易与税务问题找熟悉当地制度的专业人士。"
 toc:
   - title: "为什么苏格兰要单独讲"
     anchor: "sec-1"

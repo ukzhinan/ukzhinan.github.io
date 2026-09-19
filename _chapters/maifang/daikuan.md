@@ -6,8 +6,13 @@ description: "在英国申请按揭的实操：LTV 与首付比例怎么定、�
 nav: "8.2 预算与贷款"
 parent: maifang
 weight: 812
-updated: 2026-09-17
+updated: 2026-09-19
 num: "8.2"
+action:
+  audience: "准备购房预算或贷款申请的人。"
+  prepare: "收入、首付来源、负债、居留情况与预计购房费用。"
+  steps: "估算可负担预算；核对贷款资格；预留交易和持有费用。"
+  help: "具体贷款条件问受监管贷款顾问或贷款机构。"
 toc:
   - title: "首付、LTV 与按揭担保计划"
     anchor: "sec-1"

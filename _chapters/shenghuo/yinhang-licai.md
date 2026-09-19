@@ -6,8 +6,13 @@ description: "英国留学生银行开户指南：落地后开户的正确顺序
 nav: "1.4 理财与银行"
 parent: shenghuo
 weight: 204
-updated: 2026-09-17
+updated: 2026-09-19
 num: "1.4"
+action:
+  audience: "需要开户、转账或了解账户保护的学生。"
+  prepare: "银行要求的身份与地址材料、资金用途和费用预算。"
+  steps: "核对账户资格；比较费用与保护范围；申请并保存确认。"
+  help: "材料问题问银行；资金异常用官方客服渠道联系。"
 toc:
   - title: "落地后的开户顺序"
     anchor: "sec-1"

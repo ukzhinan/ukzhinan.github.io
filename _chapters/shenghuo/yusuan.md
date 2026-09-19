@@ -6,8 +6,13 @@ description: "把学费、押金、落地采购、每月生活费和应急金分
 nav: "1.8 留学预算与现金流"
 parent: shenghuo
 weight: 208
-updated: 2026-09-17
+updated: 2026-09-19
 num: "1.8"
+action:
+  audience: "计划全年留学资金或遇到现金流压力的学生。"
+  prepare: "学费、租金、付款日、现有资金与个人支出记录。"
+  steps: "列全年费用；拆到付款日期；检查资金缺口与应急余额。"
+  help: "付款或资助问题联系学校 finance / student support。"
 toc:
   - title: "先分清四种钱"
     anchor: "sec-1"
