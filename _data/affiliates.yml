@@ -9,6 +9,8 @@ domains:
     match: "py.pl"
   - name: InvestEngine
     match: "investengine.com/referral"
+  - name: Trading 212
+    match: "trading212.com/invite"
   - name: Tembo
     match: "tembomoney.com"
   - name: giffgaff

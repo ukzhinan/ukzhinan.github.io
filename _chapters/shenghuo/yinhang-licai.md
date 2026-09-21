@@ -216,5 +216,6 @@ faq:
 - **ClearScore / Credit Karma / Experian**：信用评分查询
 - **Emma**：多账户聚合与预算管理
 - [**InvestEngine**](https://investengine.com/referral/u/gtnweo/)：低费率 ETF 投资与 ISA 免税账户（先建立应急储蓄再考虑投资，详见 [5.2 税务与退税]({{ '/jinjie/shuiwu/' | relative_url }})）
+- [**Trading 212**](https://www.trading212.com/invite/1ASG08clXk)：免佣股票与 ETF 交易，同样支持 ISA（同上，先有应急储蓄再投资）
 
 账户开好以后，用[1.8 留学预算与现金流]({{ '/shenghuo/yusuan/' | relative_url }})把学费、房租到期日和日常消费放到一张表里。

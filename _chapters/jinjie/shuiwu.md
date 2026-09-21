@@ -199,6 +199,6 @@ Council Tax 是市政税，按住所征收，和所得税是两回事——但�
 
 **顺序建议：先应急储蓄，再投资。** Stocks & Shares ISA 里的本金会波动，而留学期间最需要的是随时能取用的现金缓冲——先攒够 2–3 个月生活费放在活期账户，再把结余投进去。
 
-低费率平台例如 [**InvestEngine**](https://investengine.com/referral/u/gtnweo/)（FCA 监管，主打低费率 ETF，支持 ISA），适合长期定投。投资有风险，本金可能亏损，这部分只建议用生活开支之外的结余。
+低费率平台例如 [**InvestEngine**](https://investengine.com/referral/u/gtnweo/)（FCA 监管，主打低费率 ETF，支持 ISA）和 [**Trading 212**](https://www.trading212.com/invite/1ASG08clXk)（FCA 监管，股票与 ETF 免佣金，同样支持 ISA），适合长期定投。投资有风险，本金可能亏损，这部分只建议用生活开支之外的结余。
 
 **关于父母汇来的生活费**：用于你本人生活与学习的境外汇款通常不属于英国应税所得，中英税收协定对留学生的维持费用也有专门安排。实务上要注意的是**证明来源**——大额汇入时备好学费账单与父母的汇款说明，避免账户被临时冻结（见 [1.4 理财与银行]({{ '/shenghuo/yinhang-licai/' | relative_url }})）。

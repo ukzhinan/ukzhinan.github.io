@@ -36,6 +36,7 @@ toc:
 | [Revolut](https://revolut.com/referral/?referral-code=xiaotigp2!SEP2-26-AR-H3&geo-redirect) | 数字银行 / 多币种 | 经常有境外消费或多币种需求 |
 | [PayPal](https://py.pl/H8Ax6) | 电子支付 | 需要对应支付方式或符合条款的买家保护 |
 | [InvestEngine](https://investengine.com/referral/u/gtnweo/) | 低费率 ETF / ISA | 生活有结余、想做长期小额投资 |
+| [Trading 212](https://www.trading212.com/invite/1ASG08clXk) | 免佣股票 / ETF、ISA | 想自己挑个股或 ETF，交易频率不高 |
 | [Tembo](https://www.tembomoney.com/savings/join/tkn-3pltz4-j1zo78) | 储蓄 / Lifetime ISA | 打算将来在英国买房，想用 Lifetime ISA 攒首付（须 18–39 岁开户） |
 
 <h2 id="sec-2">手机套餐与宽带</h2>
