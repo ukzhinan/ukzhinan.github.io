@@ -1,0 +1,22 @@
+---
+layout: null
+---
+{% comment %} 站内搜索索引：搜索框第一次打开时才下载，正文去掉 HTML 后按原文做子串匹配 {% endcomment %}
+{% assign docs = site.chapters | sort: "weight" | where_exp: "d", "d.noindex != true" %}
+{% assign home = site.pages | where: "url", "/" | first %}
+[
+  {
+    "title": {{ home.title | default: site.title | jsonify }},
+    "nav": "引言",
+    "url": {{ '/' | relative_url | jsonify }},
+    "desc": {{ site.description | jsonify }},
+    "text": {{ home.content | strip_html | normalize_whitespace | jsonify }}
+  }{% for doc in docs %},
+  {
+    "title": {{ doc.title | jsonify }},
+    "nav": {{ doc.nav | jsonify }},
+    "url": {{ doc.url | relative_url | jsonify }},
+    "desc": {{ doc.description | jsonify }},
+    "text": {{ doc.content | strip_html | normalize_whitespace | jsonify }}
+  }{% endfor %}
+]

@@ -17,6 +17,11 @@
     </span>
     <a href="{{ '/' | relative_url }}">{{ site.title }}</a>
   </div>
+  <button class="search-button" type="button" data-search-open aria-keyshortcuts="/ Control+K" title="搜索（/ 或 Ctrl+K）">
+    <svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></svg>
+    <span>搜索指南</span>
+    <kbd aria-hidden="true">/</kbd>
+  </button>
   <ul class="sidebar-nav">
     <li class="nav-item {% if page.url == '/' %}active{% endif %}">
       <a href="{{ '/' | relative_url }}">

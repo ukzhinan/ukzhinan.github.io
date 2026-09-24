@@ -1,0 +1,14 @@
+{% comment %} 站内搜索弹窗：按钮在侧边栏品牌行，快捷键 / 或 Ctrl+K；逻辑见 assets/js/search.js {% endcomment %}
+<dialog class="search-dialog" id="search-dialog" aria-label="站内搜索" data-index="{{ '/search.json' | relative_url }}">
+  <form class="search-form" role="search">
+    <svg class="search-icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+      <circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/>
+    </svg>
+    <input class="search-input" id="search-input" type="search" placeholder="搜索指南，如 eVisa、租房、NHS"
+           autocomplete="off" spellcheck="false" aria-label="搜索关键词" aria-controls="search-results">
+    <button class="search-close" type="button" aria-label="关闭搜索">Esc</button>
+  </form>
+  <p class="search-status" id="search-status" role="status" aria-live="polite"></p>
+  <ol class="search-results" id="search-results"></ol>
+</dialog>
+<script src="{{ '/assets/js/search.js' | relative_url }}" defer></script>
