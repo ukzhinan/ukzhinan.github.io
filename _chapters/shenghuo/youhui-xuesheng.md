@@ -91,7 +91,7 @@ faq:
 - **GitHub Student Developer Pack**：一批开发工具的免费额度；
 - **Adobe Creative Cloud**、**Autodesk**、**MATLAB** 等专业软件有学生价或校园授权，先查学校 IT 页面再自己买；
 - **Spotify / Apple Music / YouTube Premium** 学生价，通常需要 UNiDAYS 验证；
-- **Amazon Prime Student**：有免费试用期与后续折扣，配合网购返现使用。
+- [**Amazon Prime Student**](https://www.amazon.co.uk/joinstudent?tag=xdaiuk05-21)：有免费试用期与后续折扣，配合网购返现使用。
 
 <h2 id="sec-6">交通之外的日常优惠</h2>
 
