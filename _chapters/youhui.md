@@ -6,7 +6,7 @@ nav: "附录2. 优惠与返利"
 permalink: /youhui/
 order: 12
 weight: 950
-updated: 2026-09-19
+updated: 2026-09-24
 ads: false
 num: "附"
 toc:
@@ -65,6 +65,7 @@ toc:
 | [TopCashback](https://www.topcashback.co.uk/ref/automaticdai/?source=App-iOS-TAFPage) | 英国最大的返现平台，覆盖几千家零售商 | 网购频率高、愿意多点一步 |
 | [Tuck](https://www.tuckapp.co/app?referralCode=STEVE47) | 返现 App，适用商家及比例按当前活动，推荐码 **STEVE47** | 想覆盖更多购物平台 |
 | [EverUp](https://everup.onelink.me/9lgD/i93ma2rt) | 购物返现服务；先核对当前产品、兑现方式和条件 | 希望顺手把钱存起来 |
+| [Amazon Prime Student](https://www.amazon.co.uk/joinstudent?tag=xdaiuk05-21) | 学生版 Prime，有免费试用期，之后按学生价续费；含免运费与 Prime Video | 经常在亚马逊网购，可配合上面的返现平台使用 |
 
 <h2 id="sec-5">学生折扣与交通</h2>
 
